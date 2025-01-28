@@ -1,0 +1,1802 @@
+{
+    "tensorflow_dependency_dict": {
+        "numpy": {
+            "description": "Numpy is a basic package for scientific computing, which provides multidimensional array objects, efficient operational functions, and a large number of mathematical functions.",
+            "category": "Scientific Computing and Data Processing"
+        },
+        "termcolor": {
+            "description": "Termcolor is used to output color text in the command line, which helps to improve readability and debug experience.",
+            "category": "Command Line"
+        },
+        "colorama": {
+            "description": "Colorama allows terminal output to cross -platform color, supports Windows, Linux and MacOS.",
+            "category": "Command Line"
+        },
+        "pyasn1": {
+            "description": "Pyasn1 is a pure Python ASN.1 codec that is suitable for the development of network protocols.",
+            "category": "Data encoding and decoding"
+        },
+        "gulp-server-livereload": {
+            "description": "Gulp Server LiverLoad is a Gulp plugin that provides a simple development server and supports real -time overloads.",
+            "category": "Front-end Development"
+        },
+        "docker/setup-buildx-action": {
+            "description": "This GitHub Action is equipped with the Docker BuildX environment for multi -platform construction and mirror management.",
+            "category": "CI/CD tools"
+        },
+        "astor": {
+            "description": "ASTOR provides an abstract syntax tree (AST) processing tool, which can resolve, convert and generate Python code.",
+            "category": "Code generation and conversion"
+        },
+        "cachetools": {
+            "description": "Cachetools provides various tools and data structures of the cache algorithm to improve performance.",
+            "category": "Scientific Computing and Data Processing"
+        },
+        "cycler": {
+            "description": "Cycler is a core dependencies of Matplotlib, which is used to define cyclic attributes such as color and line type.",
+            "category": "Data visualization tool"
+        },
+        "typescript": {
+            "description": "TypeScript is a super set of JavaScript, which increases the definition of static types and enhances the maintenance and readability of the code.",
+            "category": "programming language"
+        },
+        "junit": {
+            "description": "Junit is a unit test framework for Java programming language, which is widely used in TDD development.",
+            "category": "Compatibility Testing"
+        },
+        "chai": {
+            "description": "CHAI is a BDD/TDD assertion library for Node.js and browsers, which can be used with any JavaScript test framework.",
+            "category": "Compatibility Testing"
+        },
+        "tslint": {
+            "description": "TSLint is a code static check tool for TypeScript to help improve the quality of code.",
+            "category": "Code quality tool"
+        },
+        "gulp-replace": {
+            "description": "Gulp Replace is a Gulp plug -in for text replacement operations in the file.",
+            "category": "Front-end Development"
+        },
+        "org.apache.spark.11": {
+            "description": "Apache Spark is a fast and universal big data processing engine that provides large -scale data processing capabilities.",
+            "category": "Scientific Computing and Data Processing"
+        },
+        "oauthlib": {
+            "description": "OAUTHLIB is a library that provides OAUTH request signatures and authorization functions, supporting OAUTH1 and OAUTH2.",
+            "category": "Security and certification"
+        },
+        "tensorboard-data-server": {
+            "description": "Tensorboard Data Server processes TensorFlow data to provide data support for Tensorboard.",
+            "category": "Machine learning tool"
+        },
+        "python-hostlist": {
+            "description": "Python Hostlist provides the function of generating and parsing the host list, which is mainly used for the management of cluster environment.",
+            "category": "System management tool"
+        },
+        "rich": {
+            "description": "Rich is a Python library that is used to display format text, progress bar, table, etc. in the terminal.",
+            "category": "Command Line"
+        },
+        "keras_preprocessing": {
+            "description": "Keras Preprocessing provides data pre -processing functions, supporting data in various formats such as images and texts.",
+            "category": "Machine learning tool"
+        },
+        "six": {
+            "description": "A Python 2 and 3 compatibility toolkit to help write code that is compatible at the same time.",
+            "category": "Compatibility Testing"
+        },
+        "tensorflow": {
+            "description": "An open source deep learning framework is used for the development of machine learning and artificial intelligence applications.",
+            "category": "Machine learning tool"
+        },
+        "twine": {
+            "description": "A tool for publishing Python package to Pypi.",
+            "category": "Release tool"
+        },
+        "requests-oauthlib": {
+            "description": "A OAUTH library based on the Requests library provides OAUTH authentication and authorization functions.",
+            "category": "Security and certification"
+        },
+        "namex": {
+            "description": "The tools used for naming management depend on project needs.",
+            "category": "Scientific Computing and Data Processing"
+        },
+        "gulp-cli": {
+            "description": "The GULP command line interface tool is used to run the GULP task.",
+            "category": "Front-end Development"
+        },
+        "gulp-concat": {
+            "description": "A Gulp plugin is used to merge multiple files into a file.",
+            "category": "Front-end Development"
+        },
+        "tb-nightly": {
+            "description": "The pre -release version of Tensorboard contains the latest features and updates.",
+            "category": "Data visualization tool"
+        },
+        "docker/login-action": {
+            "description": "Github Actions tools are used to log in to the Docker Hub in the CI/CD pipeline.",
+            "category": "CI/CD tools"
+        },
+        "mocha": {
+            "description": "A test framework for Node.js, which supports BDD/TDD style.",
+            "category": "Compatibility Testing"
+        },
+        "ml_dtypes": {
+            "description": "A library for machine learning data type processing helps process and conversion data type.",
+            "category": "Machine learning tool"
+        },
+        "psutil": {
+            "description": "A cross -platform Python library is used to obtain relevant information about systems and processes.",
+            "category": "System management tool"
+        },
+        "auditwheel": {
+            "description": "A tool for repairing the Python wheel file to ensure that it is compatible with many Linux distributions.",
+            "category": "Release tool"
+        },
+        "html5lib": {
+            "description": "A pure Python HTML parsing library supports the HTML5 standard.",
+            "category": "Parsing tool"
+        },
+        "google_pasta": {
+            "description": "A tool to upgrade the TensorFlow code from TensorFlow 1.x to TensorFlow 2.x.",
+            "category": "Code generation and conversion"
+        },
+        "vulcanize": {
+            "description": "A tool for packing multiple web components into a file.",
+            "category": "Front-end Development"
+        },
+        "pyasn1-modules": {
+            "description": "Provide some common ASN.1 data structure and codec function as an extension module for Pyasn1.",
+            "category": "Data encoding and decoding"
+        },
+        "org.tensorflow:hadoop": {
+            "description": "The library integrated between TensorFlow and Hadoop supports running TensorFlow operations on the Hadoop cluster.",
+            "category": "Scientific Computing and Data Processing"
+        },
+        "trilom/file-changes-action": {
+            "description": "A Github Actions tool is used to detect file changes.",
+            "category": "CI/CD tools"
+        },
+        "tblib": {
+            "description": "A Python library is used to convey abnormal information during serialization.",
+            "category": "Scientific Computing and Data Processing"
+        },
+        "protobuf": {
+            "description": "Google's Protocol Buffers, a flexible and efficient format for data serialization.",
+            "category": "Data encoding and decoding"
+        },
+        "werkzeug": {
+            "description": "A WSGI tool package for the development of Python web applications.",
+            "category": "Front-end Development"
+        },
+        "lit": {
+            "description": "A lightweight library for building a web component.",
+            "category": "Front-end Development"
+        },
+        "org.apache.maven.plugins:maven-shade-plugin": {
+            "description": "A Maven plug -in, which is used to package all the projects into an executable jar file.",
+            "category": "Build tools"
+        },
+        "ossf/scorecard-action": {
+            "description": "A Github ActionS tool is used to automate security inspections and generate safety scores.",
+            "category": "Security and certification"
+        },
+        "org.apache.maven.plugins:maven-source-plugin": {
+            "description": "A Maven plug -in, which is used to generate the source code jar file of the project.",
+            "category": "Build tools"
+        },
+        "pyreadline": {
+            "description": "A library for enhancing the Python command line interactive experience is mainly used for Windows.",
+            "category": "Command Line"
+        },
+        "typing_extensions": {
+            "description": "A Python library, which provides new features in the Typing module, compatible version.",
+            "category": "Compatibility Testing"
+        },
+        "opt_einsum": {
+            "description": "A library for optimizing Einstein and Einsum is usually used for scientific computing and machine learning.",
+            "category": "Scientific Computing and Data Processing"
+        },
+        "actions/checkout": {
+            "description": "A Github ActionS tool is used to detect the content in the code warehouse.",
+            "category": "CI/CD tools"
+        },
+        "gulp-util": {
+            "description": "Gulp's practical tool library provides commonly used tool functions.",
+            "category": "Front-end Development"
+        },
+        "astunparse": {
+            "description": "A library that converts the Python abstract syntax tree (AST) back to the source code.",
+            "category": "Code generation and conversion"
+        },
+        "org.apache.maven.plugins:maven-compiler-plugin": {
+            "description": "A Maven plug -in, which is used to compile Java code.",
+            "category": "Build tools"
+        },
+        "wrapt": {
+            "description": "A Python library for creating a decorative and packaging function.",
+            "category": "Scientific Computing and Data Processing"
+        },
+        "functools32": {
+            "description": "The posterior transplant version of the Python 3.2 version of the Functools module is suitable for Python 2.X.",
+            "category": "Compatibility Testing"
+        },
+        "gulp-typings": {
+            "description": "A Gulp plug -in, which is used to install and manage TypeScript definition files.",
+            "category": "Front-end Development"
+        },
+        "pybind11": {
+            "description": "A library for creating binding between C ++ and Python supports seamless integration.",
+            "category": "Compatibility Testing"
+        },
+        "zofrex/mirror-branch": {
+            "description": "A Github ActionS tool is used to change synchronously between different branches.",
+            "category": "CI/CD tools"
+        },
+        "github/codeql-action/upload-sarif": {
+            "description": "A GitHub ActionS tool, which is used to upload the code scanning result in the Sarif format.",
+            "category": "CI/CD tools"
+        },
+        "google-auth-oauthlib": {
+            "description": "A OAUTH library provided by Google integrates Google authentication function.",
+            "category": "Security and certification"
+        },
+        "vinyl-source-stream": {
+            "description": "A GULP plug -in, which is used to convert flow to Vinyl object, and is usually used with Browserify.",
+            "category": "Front-end Development"
+        },
+        "actions/upload-artifact": {
+            "description": "A Github ActionS tool is used to upload the construction product in the CI/CD workflow.",
+            "category": "CI/CD tools"
+        },
+        "jax": {
+            "description": "A library for high -performance numerical calculations support automatic micro -score and GPU acceleration.",
+            "category": "Scientific Computing and Data Processing"
+        },
+        "sklearn": {
+            "description": "A machine learning library provides a variety of machine learning algorithms and Scientific Computing and Data Processing.",
+            "category": "Machine learning tool"
+        },
+        "dorner/file-changes-action": {
+            "description": "A Github Actions tool is used to detect file changes.",
+            "category": "CI/CD tools"
+        },
+        "com.google.protobuf:protobuf-java": {
+            "description": "The Java implementation of Google Protocol Buffers is used for data serialization.",
+            "category": "Data encoding and decoding"
+        },
+        "scipy": {
+            "description": "A Python library for scientific computing provides many functions of mathematics, science and engineering computing.",
+            "category": "Scientific Computing and Data Processing"
+        },
+        "merge2": {
+            "description": "An Node.js library used to merge multiple streams.",
+            "category": "Scientific Computing and Data Processing"
+        },
+        "actions/cache": {
+            "description": "A Github ActionS tool is used to cache dependency items and construct results in the workflow.",
+            "category": "CI/CD tools"
+        },
+        "org.apache.maven.plugins:maven-jar-plugin": {
+            "description": "A Maven plugin is used to create and process jar files.",
+            "category": "Build tools"
+        },
+        "urllib3": {
+            "description": "A powerful and user -friendly HTTP client library for Python programming.",
+            "category": "Network tool"
+        },
+        "virtualenvwrapper": {
+            "description": "An extension tool for managing Python virtual environment.",
+            "category": "System management tool"
+        },
+        "gulp-clean-compiled-typescript": {
+            "description": "A GULP plug -in to clean up the compiled TypeScript file.",
+            "category": "Front-end Development"
+        },
+        "wheel": {
+            "description": "One for the standard format for packaging Python projects provides better dependence management and installation performance.",
+            "category": "Release tool"
+        },
+        "markdown": {
+            "description": "A lightweight mark language is used to write formatted text.",
+            "category": "Document tool"
+        },
+        "libclang": {
+            "description": "The library interface of the CLANG compiler provides the analysis and analysis function of C language.",
+            "category": "Parsing tool"
+        },
+        "idna": {
+            "description": "A Python library realizes the treatment of international domain name (IDNA).",
+            "category": "Network tool"
+        },
+        "gulp-header": {
+            "description": "A Gulp plugin is used to add content to the top of the file.",
+            "category": "Front-end Development"
+        },
+        "org.tensorflow:proto": {
+            "description": "TensorFlow's Protocol Buffers definition provides serialization and back -serialization functions of the TensorFlow model.",
+            "category": "Data encoding and decoding"
+        },
+        "google/osv-scanner/.github/workflows/osv-scanner-reusable.yml": {
+            "description": "A GitHub ActionS workflow, which is used to run Google's OSV vulnerability scanning tools.",
+            "category": "Security and certification"
+        },
+        "pygments": {
+            "description": "A Python library for high grammar supports a variety of programming languages.",
+            "category": "Document tool"
+        },
+        "grpcio": {
+            "description": "Google's GRPC library supports remote process calls and is suitable for distributed systems.",
+            "category": "Network tool"
+        },
+        "org.tensorflow:tensorflow-hadoop": {
+            "description": "TensorFlow and Hadoop's integrated library supports running TensorFlow in the Hadoop environment.",
+            "category": "Scientific Computing and Data Processing"
+        },
+        "gast": {
+            "description": "A library for Python code grammar tree.",
+            "category": "Parsing tool"
+        },
+        "clang": {
+            "description": "A compiler of a C language, C ++ and Objective-C is based on LLVM.",
+            "category": "Parsing tool"
+        },
+        "tensorflow_estimator": {
+            "description": "A high -rise library for the TensorFlow model.",
+            "category": "Machine learning tool"
+        },
+        "gulp": {
+            "description": "A tool for automation tasks is often used in front -end development.",
+            "category": "Front-end Development"
+        },
+        "net.alchim31.maven:scala-maven-plugin": {
+            "description": "A Maven plugin for compiling and packing SCALA projects.",
+            "category": "Build tools"
+        },
+        "org.apache.spark:spark-sql_2.11": {
+            "description": "Spark SQL module supports the use of SQL query structured data.",
+            "category": "Scientific Computing and Data Processing"
+        },
+        "dill": {
+            "description": "A enhanced version of the Python object serialization library is more powerful than the built -in Pickle library function.",
+            "category": "Data encoding and decoding"
+        },
+        "jedi": {
+            "description": "One automatic completion and static analysis library for Python.",
+            "category": "Code quality tool"
+        },
+        "tensorboard": {
+            "description": "A tool for visualization of TensorFlow experiments.",
+            "category": "Data visualization tool"
+        },
+        "docker/build-push-action": {
+            "description": "A GitHub Actions tool is used to build and push the Docker mirror.",
+            "category": "CI/CD tools"
+        },
+        "oauth2client": {
+            "description": "A Python client library for achieving OAUTH 2.0.",
+            "category": "Security and certification"
+        },
+        "dm-tree": {
+            "description": "One of the Python libraries used to operate tree structure data is often used in machine learning.",
+            "category": "Scientific Computing and Data Processing"
+        },
+        "gulp-vulcanize": {
+            "description": "A GULP plug -in, which is used to merge and optimize Web components.",
+            "category": "Front-end Development"
+        },
+        "cloudpickle": {
+            "description": "A enhanced version of Pickle library supports more Python objects.",
+            "category": "Data encoding and decoding"
+        },
+        "actions/stale": {
+            "description": "A GitHub Actions tool is used to mark and close the long -term unprepared ISSUE and PR.",
+            "category": "CI/CD tools"
+        },
+        "jaxlib": {
+            "description": "JAX's supporting library provides the underlying GPU and CPU acceleration function.",
+            "category": "Scientific Computing and Data Processing"
+        },
+        "requests": {
+            "description": "A Python library used to send HTTP requests is easy to use.",
+            "category": "Network tool"
+        },
+        "minimist": {
+            "description": "A small library used to analyze command line parameters, suitable for node.js.",
+            "category": "Command Line"
+        },
+        "tsd": {
+            "description": "A tool for managing TypeScript definition files.",
+            "category": "Front-end Development"
+        },
+        "mdurl": {
+            "description": "A Markdown library for parsing and processing URL.",
+            "category": "Document tool"
+        },
+        "gulp-typescript": {
+            "description": "A GULP plug -in to compile TypeScript code.",
+            "category": "Front-end Development"
+        },
+        "charset-normalizer": {
+            "description": "A Python library is used to detect and process character coding.",
+            "category": "Scientific Computing and Data Processing"
+        },
+        "gulp-filter": {
+            "description": "A GULP plug -in, which is used to filter the files in the file stream.",
+            "category": "Front-end Development"
+        },
+        "autograd": {
+            "description": "A Python library used to automatically seek to be used for machine learning.",
+            "category": "Machine learning tool"
+        },
+        "gulp-bower": {
+            "description": "A Gulp plug -in for integration with BOWER and management front -end dependence.",
+            "category": "Front-end Development"
+        },
+        "citation-file-format/cffconvert-github-action": {
+            "description": "A Github ActionS tool is used to convert the CFF (CITATION FILE FORMAT) file to other formats.",
+            "category": "CI/CD tools"
+        },
+        "org.apache.hadoop:hadoop-yarn-api": {
+            "description": "Hadoop's Yarn API for resource management and operation scheduling.",
+            "category": "Scientific Computing and Data Processing"
+        },
+        "keras": {
+            "description": "A high -rise neural network API for building and training deep learning models.",
+            "category": "Machine learning tool"
+        },
+        "keras_applications": {
+            "description": "The Keras module containing the pre -training model and architecture is used to migrate learning and model initialization.",
+            "category": "Machine learning tool"
+        },
+        "typing-extensions": {
+            "description": "Provides the expansion of the Python type system, which is suitable for the old version of Python.",
+            "category": "Compatibility Testing"
+        },
+        "importlib_metadata": {
+            "description": "A library provides access to Python packet metadata.",
+            "category": "Scientific Computing and Data Processing"
+        },
+        "org.apache.spark:spark-mllib_2.11": {
+            "description": "Spark's machine learning library provides commonly used machine learning algorithms.",
+            "category": "Scientific Computing and Data Processing"
+        },
+        "mshick/add-pr-comment": {
+            "description": "A Github ActionS tool is used to add comments in pulling requests.",
+            "category": "CI/CD tools"
+        },
+        "express": {
+            "description": "A fast and minimized web application framework for Node.js.",
+            "category": "Front-end Development"
+        },
+        "importlib-metadata": {
+            "description": "A library provides access to Python packet metadata.",
+            "category": "Scientific Computing and Data Processing"
+        },
+        "PyYAML": {
+            "description": "A Python library used to analyze and generate yaml format.",
+            "category": "Scientific Computing and Data Processing"
+        },
+        "ml-dtypes": {
+            "description": "Provide machine learning -related data type support.",
+            "category": "Machine learning tool"
+        },
+        "h5py": {
+            "description": "A Python library for interacting with the HDF5 file format is often used to store large -scale data.",
+            "category": "Scientific Computing and Data Processing"
+        },
+        "opt-einsum": {
+            "description": "A library that optimizes Einstein's demand and agreed for efficiently calculates the amount of tensor operations.",
+            "category": "Scientific Computing and Data Processing"
+        },
+        "certifi": {
+            "description": "Provide the Python library of the latest Mozilla root certificate issuance agency (CA) certificate.",
+            "category": "Security and certification"
+        },
+        "bleach": {
+            "description": "A Python library for cleaning up and disinfected HTML.",
+            "category": "Security and certification"
+        },
+        "org.apache.hadoop:hadoop-mapreduce-client-core": {
+            "description": "Hadoop's MapReduce core client library supports large -scale data processing.",
+            "category": "Scientific Computing and Data Processing"
+        },
+        "pylint": {
+            "description": "A Python code static check tool to help improve the quality of code.",
+            "category": "Code quality tool"
+        },
+        "org.apache.maven.plugins:maven-javadoc-plugin": {
+            "description": "A Maven plug -in to generate Javadoc documents.",
+            "category": "Build tools"
+        },
+        "org.sonatype.plugins:nexus-staging-maven-plugin": {
+            "description": "A Maven plug -in, which is used to manage the release and distribution of the Nexus repository.",
+            "category": "Build tools"
+        },
+        "absl-py": {
+            "description": "A abstract base library for Python provides common practical tools.",
+            "category": "Scientific Computing and Data Processing"
+        },
+        "tf-estimator-nightly": {
+            "description": "TensorFlow Estimator's every night built version, providing a model estimation function.",
+            "category": "Machine learning tool"
+        },
+        "send": {
+            "description": "A simple event emission library provides signal processing function.",
+            "category": "Scientific Computing and Data Processing"
+        },
+        "tsify": {
+            "description": "A plugin for integrating TypeScript into BrowSerify.",
+            "category": "Front-end Development"
+        },
+        "keras-nightly": {
+            "description": "Ceraas is built every night to provide the latest functions and restorations.",
+            "category": "Machine learning tool"
+        },
+        "peter-evans/create-pull-request": {
+            "description": "A Github Actions tool is used to automatically create pulling requests.",
+            "category": "CI/CD tools"
+        },
+        "mock": {
+            "description": "A library for testing provides the function of creating analog objects and methods.",
+            "category": "Compatibility Testing"
+        },
+        "markupsafe": {
+            "description": "A Python library used to handle a safe string to prevent code injection.",
+            "category": "Security and certification"
+        },
+        "zipp": {
+            "description": "A Python library for processing compression files, compatible with the old version of the ZipFile module.",
+            "category": "Scientific Computing and Data Processing"
+        },
+        "gulp-tslint": {
+            "description": "A GULP plug -in for running TSLint to check the TypeScript code.",
+            "category": "Code quality tool"
+        },
+        "enum34": {
+            "description": "A enumeration support library for Python 3.4 and higher versions.",
+            "category": "Compatibility Testing"
+        },
+        "google-auth": {
+            "description": "A Python library for authentication and authorization supports various authentication methods of Google.",
+            "category": "Security and certification"
+        },
+        "browserify": {
+            "description": "A tool for packaging the Node.js module to a single file to support front -end development.",
+            "category": "Front-end Development"
+        },
+        "kissfft": {
+            "description": "A fast Fourier transform library is suitable for embedded systems and low -power equipment.",
+            "category": "Scientific Computing and Data Processing"
+        },
+        "lxml": {
+            "description": "A high -performance XML and HTML processing library support XPath query and document verification.",
+            "category": "Data encoding and decoding"
+        },
+        "actions/setup-python": {
+            "description": "A Github ActionS tool for setting the Python environment.",
+            "category": "CI/CD tools"
+        },
+        "setuptools": {
+            "description": "Python's software packaging and distribution tools support module packaging and installation.",
+            "category": "Release tool"
+        },
+        "tensorflow-io-gcs-filesystem": {
+            "description": "TensorFlow's Google Cloud Storage file system interface.",
+            "category": "Scientific Computing and Data Processing"
+        },
+        "org.apache.hadoop:hadoop-mapreduce-client-jobclient": {
+            "description": "Hadoop's MapReduce operating client library is used to interact with Hadoop cluster.",
+            "category": "Scientific Computing and Data Processing"
+        },
+        "org.scalatest:scalatest-maven-plugin": {
+            "description": "SCALA's test framework plug -in for the SCALA project built by Maven.",
+            "category": "Compatibility Testing"
+        },
+        "markdown-it-py": {
+            "description": "A Python library for analysis and rendering Markdown.",
+            "category": "Document tool"
+        },
+        "matplotlib": {
+            "description": "A Python library for drawing charts and data visualization.",
+            "category": "Data visualization tool"
+        },
+        "pillow": {
+            "description": "The successor of Python Imaging Library (Pil) is used for image processing.",
+            "category": "Scientific Computing and Data Processing"
+        },
+        "parso": {
+            "description": "A Python parsing library is used to support code analysis and editing functions.",
+            "category": "Parsing tool"
+        },
+        "org.scalatest:scalatest_2.11": {
+            "description": "SCALA's test framework is suitable for SCALA 2.11 version.",
+            "category": "Compatibility Testing"
+        },
+        "org.apache.maven.plugins:maven-gpg-plugin": {
+            "description": "A Maven plug -in, which is used to sign the GPG for the created files.",
+            "category": "Build tools"
+        },
+        "actions/github-script": {
+            "description": "A GitHub Actions tool allows it to perform operations through Github's JavaScript API.",
+            "category": "CI/CD tools"
+        },
+        "portpicker": {
+            "description": "A tool for selecting the idle port in the Python application.",
+            "category": "Scientific Computing and Data Processing"
+        },
+        "packaging": {
+            "description": "Python's packaging and distribution tools provide the function of building, publishing and installing the Python software package.",
+            "category": "Build tools"
+        },
+        "backports.weakref": {
+            "description": "The rear version of the Weakref module in Python 2 supports the old version of Python.",
+            "category": "Compatibility Testing"
+        },
+        "flatbuffers": {
+            "description": "A high -efficiency cross -platform sequence library is used for fast access sequence data.",
+            "category": "Data encoding and decoding"
+        },
+        "junitparser": {
+            "description": "A Python library used to analyze the Junit XML test report.",
+            "category": "Parsing tool"
+        },
+        "typings": {
+            "description": "A tool for managing TypeScript type definition files.",
+            "category": "Front-end Development"
+        },
+        "gulp-mocha-phantomjs": {
+            "description": "A Gulp plugin for running MOCHA test in Phantomjs.",
+            "category": "Front-end Development"
+        },
+        "org.apache.hadoop:hadoop-common": {
+            "description": "Hadoop's universal library provides core distributed file systems and MapReduce support.",
+            "category": "Scientific Computing and Data Processing"
+        },
+        "google-api-python-client": {
+            "description": "Google API's Python client library is used to access various services of Google.",
+            "category": "Security and certification"
+        },
+        "rsa": {
+            "description": "A Python library provides RSA public key encryption, decryption, signature and verification function.",
+            "category": "Security and certification"
+        },
+        "tensorflow-tensorboard": {
+            "description": "TensorFlow's visualization tool is used to monitor and visual model training indicators and charts.",
+            "category": "Data visualization tool"
+        },
+        "web-component-tester": {
+            "description": "A tool for web components testing supports testing in real browsers or Headless browsers.",
+            "category": "Front-end Development"
+        }
+    },
+    "pytorch_dependency_dict":  {
+        "aws-sigv4": {
+            "description": "Signatures used to generate AWS service requests. By using the AWS SIGNATURE VERSION 4 algorithm, it ensures that the request will not be tampered with and provides authentication during transmission.",
+            "category": "Security and certification"
+        },
+        "faraday-rack": {
+            "description": "It is a middleware integration framework that supports the processing and conversion of HTTP requests and responses. It allows the use of RACK applications to build and debug complex HTTP requests.",
+            "category": "Network tool"
+        },
+        "psutil": {
+            "description": "It is used to obtain detailed information when running and processes, such as CPU usage, memory usage, disk I/O statistics. It helps system monitoring and performance analysis.",
+            "category": "System management tool"
+        },
+        "docker/login-action": {
+            "description": "GitHub Action is used to log in to Docker Hub. Through the automation login process, it simplifies the process of processing the Docker image in the CI/CD pipeline.",
+            "category": "CI/CD tools"
+        },
+        "multi_json": {
+            "description": "A general interface is provided, which can be encoded and decoded with a variety of JSON libraries. It allows developers to switch between different JSON libraries.",
+            "category": "Data encoding and decoding"
+        },
+        "faraday-em_synchrony": {
+            "description": "It is an event -based HTTP client that supports asynchronous HTTP requests. It uses EventMachine to achieve efficient asynchronous IO operations.",
+            "category": "Network tool"
+        },
+        "suo/add-annotations-github-action": {
+            "description": "GitHub Action is used to add annotations to Pull Request. It helps provide context information and feedback during code review.",
+            "category": "CI/CD tools"
+        },
+        "terminal-table": {
+            "description": "Used to create and display tables in the terminal. It supports a variety of formats and styles, making the data more easy to read and beautiful in the command line interface.",
+            "category": "Command Line"
+        },
+        "google-apis-storage_v1": {
+            "description": "The Ruby client library of Google Cloud Storage API. It allows developers to interact with Google Cloud Storage services through Ruby code to interact and manage the barrels.",
+            "category": "Scientific computing and data processing"
+        },
+        "pytest-shard": {
+            "description": "It is used to divide the pytest into multiple subsets to run in parallel in different environments. It helps to speed up the execution of large test kits.",
+            "category": "Compatibility Testing"
+        },
+        "colored2": {
+            "description": "Provide color support for terminal output. It allows developers to use colors and styles in command line output to improve readability and aesthetics.",
+            "category": "Command Line"
+        },
+        "security": {
+            "description": "Usually refers to libraries or tools for handling safety -related functions. They can be used for authentication, data encryption, vulnerability detection, etc.",
+            "category": "Security and certification"
+        },
+        "protobuf": {
+            "description": "A data serialization protocol that has nothing to do with Google developed and has nothing to do with platforms. It is used for efficiently serialized structured data and is widely used in data exchange formats.",
+            "category": "Data encoding and decoding"
+        },
+        "nanaimo": {
+            "description": "Tools used to handle test results and reports. It can help developers collect, analyze and report data at the time of testing.",
+            "category": "Compatibility Testing"
+        },
+        "junitparser": {
+            "description": "Test reports used to analyze the Junit XML format. It can extract test results and use it to further analyze or report.",
+            "category": "Parsing tool"
+        },
+        "pytorch/test-infra/.github/actions/setup-ssh": {
+            "description": "Github Action is used to set the SSH key. It automatically configures the SSH access in the CI/CD pipeline to safely connect to the remote server or resource.",
+            "category": "CI/CD tools"
+        },
+        "pyyaml": {
+            "description": "Python libraries used to analyze and generate yaml format. YAML is a human readable data serialization format, which is commonly used in configuration files.",
+            "category": "Data encoding and decoding"
+        },
+        "faraday-em_http": {
+            "description": "An asynchronous HTTP client based on EventMachine. It supports concurrent HTTP requests, which helps improve the efficiency of network requests.",
+            "category": "Network tool"
+        },
+        "PyGithub": {
+            "description": "Python client library for interaction with GitHub API. It allows developers to manage GitHub warehouses, users and other resources through Python code.",
+            "category": "System management tool"
+        },
+        "packaging": {
+            "description": "Provide analysis and comparative tools that are related to the Python package. It supports functions such as version number processing, dependency relationship analysis to help developers manage the Python package.",
+            "category": "Build tools"
+        },
+        "flake8": {
+            "description": "Used to check the style and logical errors in the Python code. It combines multiple code quality inspection tools (such as Pyflakes and PycodeStyle) to improve the quality of code.",
+            "category": "Code quality tool"
+        },
+        "aws-sdk-core": {
+            "description": "The core library of AWS SDK for Ruby provides basic functions to interact with AWS service. It supports API calls and authentication of various AWS services.",
+            "category": "Security and certification"
+        },
+        "aws-actions/amazon-ecr-login": {
+            "description": "Github Action is used to log in to Amazon ECR (Elastic Container Registry). Simplified the process of managing the Docker image in the CI/CD pipeline.",
+            "category": "CI/CD tools"
+        },
+        "expecttest": {
+            "description": "A Python library is used to simplify the management of expected results during the test. It reduces manual operation by automatically generating and updating the test results.",
+            "category": "Compatibility Testing"
+        },
+        "astunparse": {
+            "description": "It is used to reflect the Python object back to Python source code. It is mainly used for code generation and code conversion tasks.",
+            "category": "Code generation and conversion"
+        },
+        "pytorch/pytorch/.github/actions/pull-docker-image": {
+            "description": "GitHub Action is used to pull the Docker image from Docker Hub. Help to obtain the required Docker environment in the CI/CD process.",
+            "category": "CI/CD tools"
+        },
+        "python-etcd": {
+            "description": "Python client library is used to store interactions with ETCD key values. It allows reading and writing configuration data to be suitable for configuration management of distributed systems.",
+            "category": "Scientific computing and data processing"
+        },
+        "mime-types": {
+            "description": "Provide the finding and management function of the MIME type. It allows developers to identify and process different types of data based on file extension or content.",
+            "category": "Data encoding and decoding"
+        },
+        "coremltools": {
+            "description": "It is used to convert machine learning models into Apple's Core ML format. It supports a model of a variety of machine learning frameworks and simplifies integration in iOS applications.",
+            "category": "Machine learning tool"
+        },
+        "tb-nightly": {
+            "description": "Tensorboard is built every night to provide the latest functions and restorations. It is mainly used for the training process of visual TensorFlow model.",
+            "category": "Data visualization tool"
+        },
+        "pygments": {
+            "description": "The Python library is used in grammar highlight display code. Supporting a variety of programming languages, helping to improve the readability of code.",
+            "category": "Code quality tool"
+        },
+        "pytorch/pytorch/.github/workflows/_android-full-build-test.yml": {
+            "description": "GitHub Workflow file is used to perform a complete Android construction and test process in the CI/CD pipeline. Ensure Pytorch's compatibility and performance on the Android platform.",
+            "category": "CI/CD tools"
+        },
+        "cmake": {
+            "description": "Cross -platform construction system, supports software compilation and link process. It uses simple configuration files to generate local built -in script (such as Makefile).",
+            "category": "Build tools"
+        },
+        "tqdm": {
+            "description": "The Python library used to display the progress bar. It is widely used for the iteration of long -term operation to provide feedback from user -friendly progress.",
+            "category": "Command Line"
+        },
+        "actions/setup-node": {
+            "description": "GitHub Action is used to set the Node.js environment. It simplifies the process of configure node.js and NPM environments in the CI/CD pipeline.",
+            "category": "CI/CD tools"
+        },
+        "rich": {
+            "description": "Python library for generating a beautiful terminal output. Support color, progress bar, table and other formats to enhance the readability and aesthetics of the command line interface.",
+            "category": "Command Line"
+        },
+        "multipart-post": {
+            "description": "Library for handling HTTP Multipart/Form-Data request. Support file upload and complex form data processing.",
+            "category": "Network tool"
+        },
+        "json": {
+            "description": "The standard library for coding and decoding JSON data. JSON is a lightweight data exchange format, which is widely used in web applications and APIs.",
+            "category": "Data encoding and decoding"
+        },
+        "requests": {
+            "description": "The user -friendly HTTP request library simplifies interaction with Web services. Support commonly used HTTP methods such as GET and POST to process cookies, session and other functions.",
+            "category": "Network tool"
+        },
+        "conda-incubator/setup-miniconda": {
+            "description": "GitHub Action is used to set up a Miniconda environment in the CI/CD pipeline. Simplified the dependency management and environmental configuration of the Python project.",
+            "category": "CI/CD tools"
+        },
+        "mkl-include": {
+            "description": "The header file of Intel Math Kernel Library provides high -performance mathematical computing functions. Commonly used in the field of scientific computing and data processing.",
+            "category": "Scientific computing and data processing"
+        },
+        "tty-screen": {
+            "description": "Detecting the terminal screen size library to help developers create outputs that adapt to different terminal size.",
+            "category": "Command Line"
+        },
+        "docker/setup-buildx-action": {
+            "description": "GitHub Action is used to set the Docker BuildX plug -in. It enhances the construction function of Docker and supports multi -platform construction and cache management.",
+            "category": "CI/CD tools"
+        },
+        "public_suffix": {
+            "description": "Provide analysis and processing functions of public suffix lists. It is used to process domain name analysis and security strategies, especially in web applications.",
+            "category": "Network tool"
+        },
+        "unicode-display_width": {
+            "description": "Calculating the display width of the string in the terminal, especially the UNICode character. Help developers handle multi -language terminal output.",
+            "category": "Command Line"
+        },
+        "jmespath": {
+            "description": "For the query language for JSON data, you can extract and filter the complex JSON data structure. Widely used to process API response data.",
+            "category": "Data encoding and decoding"
+        },
+        "mpmath": {
+            "description": "Python library for any accuracy floating -point operation. Support high -precision mathematical computing, suitable for scientific research and numerical analysis.",
+            "category": "Scientific computing and data processing"
+        },
+        "matplotlib": {
+            "description": "Python drawing gallery for creating static, dynamic and interactive charts. Widely used in the field of data visualization and scientific research.",
+            "category": "Data visualization tool"
+        },
+        "dotenv": {
+            "description": "The Python library used to load environmental variables supports the configuration information from the .env file. Help developers manage application configuration.",
+            "category": "System management tool"
+        },
+        "potiuk/cancel-workflow-runs": {
+            "description": "Github Action is used to cancel unnecessary workflow operations. Help optimize the use of CI/CD pipeline resources and reduce redundant tasks.",
+            "category": "CI/CD tools"
+        },
+        "pytorch/pytorch/.github/actions/calculate-docker-image": {
+            "description": "GitHub Action is used to calculate and determine the Docker image suitable for the currently constructed. Help automated mirror selection in the CI/CD process.",
+            "category": "CI/CD tools"
+        },
+        "excon": {
+            "description": "The Ruby library used to handle HTTP requests supports lasting connections and multiple HTTP methods. Provide flexible configuration and extension options.",
+            "category": "Network tool"
+        },
+        "urllib3": {
+            "description": "Python library for HTTP requests, support thread safety, connecting pool and configuration management. Widely used for web development and API interaction.",
+            "category": "Network tool"
+        },
+        "http-cookie": {
+            "description": "The Ruby library used to handle HTTP cookies supports parsing, storage and management cookies. Commonly used for session management for web applications.",
+            "category": "Network tool"
+        },
+        "pytorch/pytorch/.github/actions/setup-win": {
+            "description": "GitHub Action is used in the Windows environment to set up a PyTorch CI/CD environment. Ensure compatibility and testing on the Windows platform.",
+            "category": "CI/CD tools"
+        },
+        "mypy": {
+            "description": "Static type checking tools to detect type errors in the Python code. Improve the quality and reliability of code.",
+            "category": "Code quality tool"
+        },
+        "torchfix": {
+            "description": "Tools used to repair and optimize PyTorch code. It helps to improve and optimize the automation code.",
+            "category": "Code quality tool"
+        },
+        "aws-eventstream": {
+            "description": "Event stream data used to process AWS services. It supports efficient event data transmission and processing, and is suitable for real -time data flow applications.",
+            "category": "Scientific computing and data processing"
+        },
+        "google-cloud-storage": {
+            "description": "Google Cloud Storage API's Python client library. Allow developers to manage and operate Google Cloud storage resources through Python code.",
+            "category": "Scientific computing and data processing"
+        },
+        "pytorch/pytorch/.github/actions/get-workflow-job-id": {
+            "description": "GitHub Action is used to obtain the operating ID of the current workflow. Help track and manage different tasks in the CI/CD pipeline.",
+            "category": "CI/CD tools"
+        },
+        "flake8-comprehensions": {
+            "description": "Flake8 plug -in to check the quality of the list in the Python code. Help discover and repair complex or inefficient derivative code.",
+            "category": "Code quality tool"
+        },
+        "actions/stale": {
+            "description": "GitHub Action is used to mark and close the long -term unprepared Issue and Pull Request. Help to maintain the cleaning and organization of the project.",
+            "category": "CI/CD tools"
+        },
+        "babosa": {
+            "description": "Used to process the Ruby library generated by the string and slug. Support Unicode and multi -language processing, suitable for URL generation in Web development.",
+            "category": "Network tool"
+        },
+        "sympy": {
+            "description": "Python library for symbol mathematics. Support multi -mathematics operations such as algebra, calculus, and discrete mathematics, which are suitable for scientific research and education.",
+            "category": "Scientific computing and data processing"
+        },
+        "google-cloud-core": {
+            "description": "The core library of Google Cloud API provides basic interaction functions with Google Cloud services. Support identity verification, API calls, etc.",
+            "category": "Security and certification"
+        },
+        "pytorch/pytorch/.github/workflows/_linux-build.yml": {
+            "description": "Github Workflow file is used to perform the construction process of the Linux platform in the CI/CD pipeline. Make sure PyTorch's construction and testing on Linux.",
+            "category": "CI/CD tools"
+        },
+        "coloredlogs": {
+            "description": "Python library for color display log information. Help developers view log output more intuitively in the terminal.",
+            "category": "Command Line"
+        },
+        "pycocotools": {
+            "description": "Python library used to interact with Coco data set. Provide data loading, evaluation and processing functions, and is widely used for computer vision research.",
+            "category": "Scientific computing and data processing"
+        },
+        "multi_xml": {
+            "description": "The Ruby library used to process XML data. Support XML analysis and generation, suitable for data exchange and configuration management.",
+            "category": "Data encoding and decoding"
+        },
+        "seemethere/upload-artifact-s3": {
+            "description": "Github Action is used to upload the construction product to Amazon S3. Simplified the process of managing and storing construction results in CI/CD pipelines.",
+            "category": "CI/CD tools"
+        },
+        "blas": {
+            "description": "Basic linear algebra program libraries provide efficient linear algebraic operations. Widely used in scientific computing and engineering applications.",
+            "category": "Scientific computing and data processing"
+        },
+        "pytorch/pytorch/.github/actions/setup-ssh": {
+            "description": "Github Action is used to set the SSH key. It automatically configures the SSH access in the CI/CD pipeline to safely connect to the remote server or resource.",
+            "category": "CI/CD tools"
+        },
+        "colored": {
+            "description": "Python libraries used to add color to the terminal output. Support a variety of colors and formats to enhance the aesthetics of the command line interface.",
+            "category": "Command Line"
+        },
+        "docker/setup-qemu-action": {
+            "description": "GitHub Action is used to set the QEMU virtualization environment. Support multi -platform construction and testing, especially in the CI/CD pipeline.",
+            "category": "CI/CD tools"
+        },
+        "commander": {
+            "description": "The Ruby library used to create the command line interface. Support parameter analysis and command management, and simplify the development of command line applications.",
+            "category": "Command Line"
+        },
+        "fastlane": {
+            "description": "Tools for automation iOS and Android applications. Support the construction, testing, release, and reports, and simplify the continuous delivery of mobile applications.",
+            "category": "Release tool"
+        },
+        "claide": {
+            "description": "The RUBY framework for constructing the command line interface. A consistent CLI experience is provided to simplify the development of the command line tool.",
+            "category": "Command Line"
+        },
+        "domain_name": {
+            "description": "The Ruby library used to analyze and handle the domain name. Support domain name analysis and DNS query functions, which are suitable for network application development.",
+            "category": "Network tool"
+        },
+        "terminal-notifier": {
+            "description": "Tools used to send local notifications on Macos. Support command line calls to help developers send reminders and notifications in the terminal.",
+            "category": "System management tool"
+        },
+        "emoji_regex": {
+            "description": "The regular expression library for matching and processing emoji. Support various Unicode emoticons, which are suitable for multi -language text processing.",
+            "category": "Parsing tool"
+        },
+        "unf": {
+            "description": "Used to handle and standardize URL. Support URL processing of unicode and ASCII encoding to ensure the consistency and standardization of URL in web applications.",
+            "category": "Data encoding and decoding"
+        },
+        "pytorch/pytorch/.github/workflows/_bazel-build-test.yml": {
+            "description": "GitHub Workflow file is used to perform the Bazel construction and test process in the CI/CD pipeline. Ensure that PyTorch's compatibility and performance in the Bazel construction system.",
+            "category": "CI/CD tools"
+        },
+        "jwt": {
+            "description": "Used to generate and verify the library of JSON Web tokens (JWT). JWT is a compact and URL security way to represent information transmitted between the two subjects.",
+            "category": "Security and certification"
+        },
+        "malfet/checkout": {
+            "description": "GitHub Action is used to sign out the warehouse code. Help the CI/CD pipeline obtain the latest code benchmark before performing the task.",
+            "category": "CI/CD tools"
+        },
+        "IPython": {
+            "description": "Powerful tools for interactive computing support rich functions and extensions. The iPython enhances the functionality of the Python command line interface and is widely used in data science and development environment.",
+            "category": "Scientific computing and data processing"
+        },
+        "declarative": {
+            "description": "Support declaration of libraries for programming style. The readability and maintenance of the code are simplified, and it is suitable for allocation of management and declaration of declaration.",
+            "category": "Code generation and conversion"
+        },
+        "httpclient": {
+            "description": "The Ruby library used to handle HTTP request. Support multiple HTTP methods, lasting connections and advanced configuration options.",
+            "category": "Network tool"
+        },
+        "google-apis-playcustomapp_v1": {
+            "description": "The Ruby client library of Google Play Custom App API. Allow developers to manage and distribute customized Google Play applications through API.",
+            "category": "Security and certification"
+        },
+        "sphinx_copybutton": {
+            "description": "Sphinx extension, add a copy button to the document code block. Enhance the availability of the document, which is convenient for users to quickly copy the example code.",
+            "category": "Document tool"
+        },
+        "ruby2_keywords": {
+            "description": "Method library used to be compatible with Ruby 2.x version. Make sure that the old code can still run normally when it is upgraded to Ruby 3.x.",
+            "category": "Compatibility Testing"
+        },
+        "plist": {
+            "description": "The Ruby library of the Apple Property list file is processed. Support read and write Plist files, suitable for configuration and data storage.",
+            "category": "Data encoding and decoding"
+        },
+        "pytorch/pytorch/.github/actions/checkout-pytorch": {
+            "description": "Github Action is used to sign the PyTorch warehouse code. The process of obtaining the code library in the CI/CD pipeline.",
+            "category": "CI/CD tools"
+        },
+        "github/codeql-action/upload-sarif": {
+            "description": "GitHub Action, which is used to upload the analysis results of the Sarif format. Support codeql analysis and integrate the results into the Github security alert.",
+            "category": "CI/CD tools"
+        },
+        "pytorch/test-infra/.github/actions/update-commit-hash": {
+            "description": "GitHub Action is used to update and submit the latest code to submit the hash value. Help maintain the consistency of the code version during the CI/CD process.",
+            "category": "CI/CD tools"
+        },
+        "unf_ext": {
+            "description": "Extension library provides local expansion support for the UNF library. Improve the performance and functionality of URL processing.",
+            "category": "Data encoding and decoding"
+        },
+        "pytest-xdist": {
+            "description": "Plug -in for Pytest tests in parallel. Support distributed testing, significantly accelerate the execution of the large -scale test kit.",
+            "category": "Compatibility Testing"
+        },
+        "actions/checkout": {
+            "description": "GitHub Action is used to sign the code warehouse. It is one of the basic steps of many CI/CD workflows to ensure that the code is available in the pipeline.",
+            "category": "CI/CD tools"
+        },
+        "pytorch/pytorch/.github/actions/upload-test-artifacts": {
+            "description": "Github Action is used to upload test products. Make sure to save and share test results and logs in the CI/CD pipeline.",
+            "category": "CI/CD tools"
+        },
+        "trailblazer-option": {
+            "description": "Provide the Ruby library for flexible options. Commonly used to enhance the flexibility of parameter analysis and configuration management.",
+            "category": "Code generation and conversion"
+        },
+        "myst-nb": {
+            "description": "Sphinx expansion that supports Jupyter Notebook. Integrate Jupyter Notebook into Sphinx documents to facilitate creating and displaying interactive documents.",
+            "category": "Document tool"
+        },
+        "glob": {
+            "description": "For a standard library for file mode matching. Support the matching symbol matching to find and manage files in the file system.",
+            "category": "System management tool"
+        },
+        "pytorch/test-infra/.github/actions/setup-miniconda": {
+            "description": "GitHub Action is used to set up a Miniconda environment in the CI/CD pipeline. Simplified the dependency management and environmental configuration of the Python project.",
+            "category": "CI/CD tools"
+        },
+        "pytorch/test-infra/.github/actions/pull-docker-image": {
+            "description": "GitHub Action is used to pull the Docker image from Docker Hub. Help to obtain the required Docker environment in the CI/CD process.",
+            "category": "CI/CD tools"
+        },
+        "pytorch/test-infra/.github/actions/check-disk-space": {
+            "description": "Github Action is used to check disk space. Make sure that there are sufficient storage space in the CI/CD process to complete the task.",
+            "category": "CI/CD tools"
+        },
+        "typing-extensions": {
+            "description": "Provide extension support for Python type prompts. Including the new features and tools that are not available in the standard library Typing module, it enhances the flexibility of type inspection.",
+            "category": "Compatibility Testing"
+        },
+        "actions/setup-python": {
+            "description": "GitHub Action is used to set up the Python environment. Simplify the process of configured the Python version and dependence in the CI/CD pipeline.",
+            "category": "CI/CD tools"
+        },
+        "google-cloud-env": {
+            "description": "Google Cloud environment configuration library provides basic functions to interact with Google Cloud service. Support environmental variables and service account management.",
+            "category": "System management tool"
+        },
+        "actions/github-script": {
+            "description": "GitHub Action allows running any JavaScript code in the workflow. Provides flexible script writing and automation capabilities.",
+            "category": "CI/CD tools"
+        },
+        "pytorch/pytorch/.github/actions/setup-rocm": {
+            "description": "GitHub Action is used to set up the ROCM environment in the CI/CD pipeline. Ensure PyTorch's compatibility and performance on the ROCM platform.",
+            "category": "CI/CD tools"
+        },
+        "pytorch/pytorch/.github/actions/teardown-win": {
+            "description": "Github Action is used to clean up CI/CD resources in the Windows environment. Make sure to release the resource occupied at the end of the pipeline.",
+            "category": "CI/CD tools"
+        },
+        "addressable": {
+            "description": "The Ruby library used to analyze and handle the URL. Provides flexible URL parsing and generating functions, suitable for web application development.",
+            "category": "Network tool"
+        },
+        "mccabe": {
+            "description": "Tools used to calculate Python code complexity. Help developers identify and optimize complex code segments to improve the quality of code.",
+            "category": "Code quality tool"
+        },
+        "exhale": {
+            "description": "Sphinx extension is used to generate API documents for C ++ projects. By integrated Doxygen and Breathe, the document automation of C ++ code is implemented.",
+            "category": "Document tool"
+        },
+        "numba": {
+            "description": "Used for JIT (instant compilation) library that optimizes Python code. The performance of numerical computing and scientific computing has been significantly improved, and it is suitable for data science and machine learning.",
+            "category": "Scientific computing and data processing"
+        },
+        "mini_mime": {
+            "description": "Lightweight libraries that provide MIME type recognition and management functions. Applicable to applications that need to process and identify file types.",
+            "category": "Data encoding and decoding"
+        },
+        "charset-normalizer": {
+            "description": "Python library used to detect and repair text coding problems. Support a variety of character sets to help developers process text data of different codes.",
+            "category": "Data encoding and decoding"
+        },
+        "pytorch/add-annotations-github-action": {
+            "description": "Github Action is used to add annotations to the CI/CD pipeline. Help the development team with instant feedback during code review and testing.",
+            "category": "CI/CD tools"
+        },
+        "pytorch/pytorch/.github/actions/setup-linux": {
+            "description": "GitHub Action is used to set the Linux environment in the CI/CD pipeline. Make sure PyTorch's construction and testing on the Linux platform.",
+            "category": "CI/CD tools"
+        },
+        "fsspec": {
+            "description": "Python file system specifies the interface library. A unified API is provided to access various file systems and object storage, which is suitable for data processing and file operation.",
+            "category": "Scientific computing and data processing"
+        },
+        "digest-crc": {
+            "description": "Calculate the Ruby library of CRC summary. Support data integrity verification and verification, suitable for file transmission and storage scenarios.",
+            "category": "Scientific computing and data processing"
+        },
+        "six": {
+            "description": "Used for python 2 and 3 compatibility libraries. Simplified the writing and maintenance of code in different Python versions.",
+            "category": "Compatibility Testing"
+        },
+        "sphinx": {
+            "description": "Python document generation tool. Support to generate high -quality documents and provide rich expansion functions, suitable for automatic generation of projects and API documents.",
+            "category": "Document tool"
+        },
+        "enum34": {
+            "description": "Provide the implementation of ENUM type in Python 3.4. ENUM function can also be used in the early version of Python.",
+            "category": "Compatibility Testing"
+        },
+        "pyflakes": {
+            "description": "Tools for static analysis of Python source code. Help developers discover and repair common problems and potential errors in code.",
+            "category": "Code quality tool"
+        },
+        "pytorch/pytorch/.github/workflows/_docs.yml": {
+            "description": "Github Workflow file is used to generate and deploy documents in the CI/CD pipeline. Make sure that the PyTorch document is the latest and available after each release.",
+            "category": "CI/CD tools"
+        },
+        "actions/upload-artifact": {
+            "description": "GitHub Action is used to upload and build products. Support the generated files or data uploaded to the storage of Github Action for subsequent use.",
+            "category": "CI/CD tools"
+        },
+        "del": {
+            "description": "Methods used to delete elements from the Ruby array or hash table. Provides simple element deletion operations.",
+            "category": "System management tool"
+        },
+        "signet": {
+            "description": "Ruby implementation of the OAUTH 1.0 and 2.0 protocols. Used to implement the OAUTH authentication process in the Ruby application.",
+            "category": "Security and certification"
+        },
+        "future": {
+            "description": "It is used in Python 2 libraries that are compatible with Python 3 features. Simplified code adaptation work when the Python version migrates.",
+            "category": "Compatibility Testing"
+        },
+        "pytorch/pytorch/.github/actions/chown-workspace": {
+            "description": "GitHub Action, used to change the owner of the working area. Ensure file permissions and access control in the CI/CD workflow.",
+            "category": "CI/CD tools"
+        },
+        "faraday_middleware": {
+            "description": "Faraday HTTP client's middleware collection. A variety of pre -processing and post -processing functions are provided to enhance the flexibility and scalability of HTTP requests.",
+            "category": "Network tool"
+        },
+        "rexml": {
+            "description": "Ruby standard library provides XML analysis and processing function. Support simple XML document operation and data extraction.",
+            "category": "Data encoding and decoding"
+        },
+        "typing": {
+            "description": "Python standard library provides type prompt support. It is possible to check the static type in the Python code.",
+            "category": "Code quality tool"
+        },
+        "ghstack": {
+            "description": "Tools for code stacks used on github. Simplified multiple processes to submit mergers and management.",
+            "category": "System management tool"
+        },
+        "lxml": {
+            "description": "Python libraries used to process XML and HTML. Provides high -performance and easy -to -use APIs, suitable for data extraction and document processing.",
+            "category": "Data encoding and decoding"
+        },
+        "flake8-logging-format": {
+            "description": "Used to check the Flake8 plug -in in the log format in the Python code. Help developers maintain consistent and readable log output.",
+            "category": "Code quality tool"
+        },
+        "pytorch-triton-rocm": {
+            "description": "The Triton reasoning server for running the PyTorch model on the ROCM platform. Support deep learning reasoning tasks on AMD GPUs.",
+            "category": "Machine learning tool"
+        },
+        "representable": {
+            "description": "Provide Ruby object representation and display libraries. Support the conversion and formatting output of custom objects.",
+            "category": "Code generation and conversion"
+        },
+        "faraday-excon": {
+            "description": "EXCON adapter on Faraday HTTP client. Support it with EXCON HTTP library, extending Faraday network transmission capabilities.",
+            "category": "Network tool"
+        },
+        "javasphinx": {
+            "description": "SPHINX extension, an API document for generating the Java project. By integrated Javadoc and Breathe, the document automation of Java code is implemented.",
+            "category": "Document tool"
+        },
+        "seemethere/add-github-ssh-key": {
+            "description": "Github Action is used to add SSH key to the Github account. Simplified the configuration of the GitHub warehouse safely in the CI/CD pipeline.",
+            "category": "CI/CD tools"
+        },
+        "pytorch/pytorch/.github/workflows/_android-build-test.yml": {
+            "description": "GitHub Workflow file is used to perform the construction and testing of the Android platform in the CI/CD pipeline. Ensure Pytorch's compatibility and performance on Android.",
+            "category": "CI/CD tools"
+        },
+        "aws-sdk-s3": {
+            "description": "The AWS SDK library for interaction with AWS S3 service. Provides rich functions and APIs for operating the S3 bucket.",
+            "category": "Security and certification"
+        },
+        "faraday-multipart": {
+            "description": "Faraday HTTP client supports multiple parts of form support. Simplified the operation of upload files and data through HTTP.",
+            "category": "Network tool"
+        },
+        "ruby/setup-ruby": {
+            "description": "GitHub Action is used to set up the Ruby environment. Simplified the process of configuration and using the Ruby version in the CI/CD pipeline.",
+            "category": "CI/CD tools"
+        },
+        "scipy": {
+            "description": "Python Science Calculation Library provides rich mathematics, science and engineering computing functions. Support advanced numerical calculations and data analysis.",
+            "category": "Scientific computing and data processing"
+        },
+        "reactivecircus/android-emulator-runner": {
+            "description": "For GitHub Action, which runs the Android simulator in Github Actions. Support automated testing for Android applications in CI/CD pipes.",
+            "category": "CI/CD tools"
+        },
+        "pytorch/pytorch/.github/actions/download-build-artifacts": {
+            "description": "Github Action is used to download and build products. Support the results and output of the previously built in the CI/CD process.",
+            "category": "CI/CD tools"
+        },
+        "networkx": {
+            "description": "Python library for complex network analysis. Provide graphological algorithms and data structures, support the creation, analysis and visualization of complex networks.",
+            "category": "Scientific computing and data processing"
+        },
+        "optree": {
+            "description": "The RUBY library for optimizing and converting tree -shaped data structure. Support data operation and query optimization, suitable for data processing and storage.",
+            "category": "Scientific computing and data processing"
+        },
+        "pytest": {
+            "description": "Python's test framework, supporting unit testing, integration testing and functional testing. A simple assertion grammar and plug -in expansion mechanism are provided, which is widely used for automated testing.",
+            "category": "Compatibility Testing"
+        },
+        "librosa": {
+            "description": "Python library for audio and music analysis. Provides rich audio processing functions, such as audio feature extraction, time sequence processing and audio file processing.",
+            "category": "Scientific computing and data processing"
+        },
+        "nbsphinx": {
+            "description": "SPHINX extension is used to integrate the Jupyter Notebook into the Sphinx document. Support to render the Notebook content as a static HTML document.",
+            "category": "Document tool"
+        },
+        "sphinxcontrib-googleanalytics": {
+            "description": "SPHINX extension is used to embed Google Analytics tracking code in the generated document. Help developers track the access and use of documents.",
+            "category": "Document tool"
+        },
+        "lodash": {
+            "description": "JavaScript Practical Tool Library provides a series of functions for arrays, objects and string operations. Widely used for the development of front -end and Node.js application.",
+            "category": "Front-end development"
+        },
+        "pytorch/pytorch/.github/workflows/_mac-build.yml": {
+            "description": "GitHub Workflow file is used to perform the construction and testing of the Mac platform in the CI/CD pipeline. Ensure PyTorch's compatibility and performance on MAC.",
+            "category": "CI/CD tools"
+        },
+        "faraday-net_http": {
+            "description": "Faraday http client NET :: http adapter. Support the integration of NET :: HTTP module in the RUBY standard library to enhance Faraday's network transmission capacity.",
+            "category": "Network tool"
+        },
+        "sphinx_rtd_theme": {
+            "description": "SPHINX's Read The Docs theme provides a modern and easy -to -use document theme. Widely used on the document website of open source projects.",
+            "category": "Document tool"
+        },
+        "os": {
+            "description": "Python standard library module provides the function of interacting with the operating system. Including files and directory operations, environmental variable management and process control.",
+            "category": "System management tool"
+        },
+        "xcpretty": {
+            "description": "Used to beautify Xcode to build output tools. The formatting of Xcode's construction log is formatted into easy -to -read outputs, which improves the readability of the log.",
+            "category": "Build tools"
+        },
+        "google-api-client": {
+            "description": "The Ruby client library of Google API supports interaction with various Google services. Provide a wealth of API interface for the integration of Google services.",
+            "category": "Security and certification"
+        },
+        "xcpretty-travis-formatter": {
+            "description": "It is used to format Xcode to format the output into a log format compatible with Travis CI. Enhanced the experience of debugging and reading a log in the CI/CD pipeline.",
+            "category": "Build tools"
+        },
+        "mshick/add-pr-comment": {
+            "description": "GitHub Action is used to add comments to the Pull Request. Support feedback and notifications in the CI/CD process.",
+            "category": "CI/CD tools"
+        },
+        "slack-notifier": {
+            "description": "The Ruby library used to send notification to Slack. Help the notification of applications and services into the SLACK work area.",
+            "category": "System management tool"
+        },
+        "pycodestyle": {
+            "description": "Tools used to check Python code style. Based on the PEP 8 standard, it helps developers to maintain the consistency and readability of the code.",
+            "category": "Code quality tool"
+        },
+        "sphinx-panels": {
+            "description": "Sphinx extension provides panel layout and style support. Enhance the visual effects and content organization of the document.",
+            "category": "Document tool"
+        },
+        "pytorch/pytorch/.github/workflows/_ios-build-test.yml": {
+            "description": "GitHub Workflow file is used to perform the construction and testing of iOS platforms in the CI/CD pipeline. Ensure PyTorch's compatibility and performance on iOS.",
+            "category": "CI/CD tools"
+        },
+        "beartype": {
+            "description": "Python type checking library supports the type of type at runtime. Provide an efficient and flexible type inspection mechanism.",
+            "category": "Code quality tool"
+        },
+        "tty-spinner": {
+            "description": "It is used to display the Ruby library loaded in the command line. Enhance the user experience of the command line tool.",
+            "category": "Command Line"
+        },
+        "jsdom": {
+            "description": "JavaScript's DOM and HTML standards are implemented and supported the front -end code in Node.js. Easy to simulate and test the browser environment on the server side.",
+            "category": "Front-end development"
+        },
+        "jinja2": {
+            "description": "Python's template engine supports the generation of dynamic HTML and text. Provides flexible template grammar and expansion mechanisms, and is widely used in Web development.",
+            "category": "Code generation and conversion"
+        },
+        "aws-actions/configure-aws-credentials": {
+            "description": "GitHub Action is used to configure the AWS voucher in the CI/CD pipeline. Simplified the process of accessing the AWS service in Github Actions.",
+            "category": "CI/CD tools"
+        },
+        "zhouzhuojie/checkout": {
+            "description": "GitHub Action is used to sign the code warehouse. It is one of the basic steps of many CI/CD workflows to ensure that the code is available in the pipeline.",
+            "category": "CI/CD tools"
+        },
+        "mocha": {
+            "description": "JavaScript's test framework, supporting unit testing, asynchronous testing, and BDD/TDD style testing. Widely used for testing of node.js and front -end applications.",
+            "category": "Compatibility Testing"
+        },
+        "ninja": {
+            "description": "Efficient construction system supports rapid incremental construction. Commonly used for the construction and compilation of large -scale projects, which improves the speed and efficiency of construction.",
+            "category": "Build tools"
+        },
+        "faraday": {
+            "description": "Ruby's HTTP client library supports the request middleware and adapter mechanism. Provides flexible HTTP request configuration and processing capabilities.",
+            "category": "Network tool"
+        },
+        "pytorch/test-infra/.github/actions/setup-nvidia": {
+            "description": "Github Action is used to set up the NVIDIA environment in the CI/CD pipeline. Make sure that the correct driving and libraries are configured when using the GPU for construction and testing.",
+            "category": "CI/CD tools"
+        },
+        "pytorch/test-infra/.github/actions/cleanup-runner": {
+            "description": "Github Action is used to clean up resources after the CI/CD pipeline is over. Ensure the release of resources occupied and avoid resource leakage and conflict.",
+            "category": "CI/CD tools"
+        },
+        "pytorch/test-infra/.github/actions/bc-lint": {
+            "description": "GitHub Action is used to perform code specification checks. Help maintain code style consistency and improve code quality.",
+            "category": "CI/CD tools"
+        },
+        "pytorch/pytorch/.github/workflows/_win-build.yml": {
+            "description": "GitHub Workflow file is used to perform the construction and testing of Windows platforms in the CI/CD pipeline. Ensure Pytorch's compatibility and performance on Windows.",
+            "category": "CI/CD tools"
+        },
+        "retriable": {
+            "description": "The Ruby library is used to achieve retry logic. Support automatic review when the operation fails to enhance the robustness and fault tolerance of the program.",
+            "category": "System management tool"
+        },
+        "pynvml": {
+            "description": "Python library used to interact with NVIDIA Management Library (NVML). API that provides GPU status and performance information.",
+            "category": "System management tool"
+        },
+        "myst-parser": {
+            "description": "It is used to analyze myst (Markdown improvement format) as parsers of SPHINX document. Support the integration of the MarkDown document into the SPHINX project.",
+            "category": "Document tool"
+        },
+        "z3-solver": {
+            "description": "The efficient solution for logical formula solution supports SAT, SMT and optimization problems. Widely used in formal verification and automation reasoning.",
+            "category": "Scientific computing and data processing"
+        },
+        "pytorch/pytorch/.github/actions/build-android": {
+            "description": "Github Action is used to build an Android platform in the CI/CD pipeline. Ensure the construction and deployment of PyTorch on the Android platform.",
+            "category": "CI/CD tools"
+        },
+        "pytorch/test-infra/.github/workflows/linux_job.yml": {
+            "description": "GitHub Workflow file is used to perform the construction and testing of the Linux platform in the CI/CD pipeline. Make sure PyTorch's compatibility and performance on Linux.",
+            "category": "CI/CD tools"
+        },
+        "pytorch/test-infra/.github/actions/calculate-docker-image": {
+            "description": "Github Action is used to calculate the Docker image. Support to generate and manage Docker mirrors in CI/CD pipes.",
+            "category": "CI/CD tools"
+        },
+        "rake": {
+            "description": "Ruby's construction tool is similar to Make. Support definition and management tasks, which are often used for automation construction and deployment.",
+            "category": "Build tools"
+        },
+        "webrick": {
+            "description": "Ruby's HTTP server library supports fast construction and test web applications. A simple and flexible API is provided for development and debugging the environment.",
+            "category": "Network tool"
+        },
+        "uber": {
+            "description": "JavaScript's command line tool is used to manage multiple packages. Support to manage multiple projects in a single warehouse, simplify dependencies and version control.",
+            "category": "System management tool"
+        },
+        "pytest-cpp": {
+            "description": "Pytest plug -in for C ++ code, support unit testing and integrated testing. A test interface consistent with Pytest is suitable for mixed items.",
+            "category": "Compatibility Testing"
+        },
+        "dmnemec/copy_file_to_another_repo_action": {
+            "description": "Github Action is used to copy files from one warehouse to another. Support file synchronization and backup files in CI/CD pipes.",
+            "category": "CI/CD tools"
+        },
+        "pytest-flakefinder": {
+            "description": "Pytest plug -in, which is used to find test intermittent failure tests. Help identify and repair unstable testing and improve test reliability.",
+            "category": "Compatibility Testing"
+        },
+        "googleauth": {
+            "description": "Google authentication library supports OAUTH 2.0 and JWT certifications. Suitable for security interaction with Google API and services.",
+            "category": "Security and certification"
+        },
+        "aws-partitions": {
+            "description": "AWS SDK module provides information on the AWS region and partitions. Help developers deploy and manage AWS resources in multiple regions.",
+            "category": "Security and certification"
+        },
+        "boto3": {
+            "description": "Python library for interaction with AWS service. Provides high -level APIs that operate AWS resources, which are widely used for cloud computing applications.",
+            "category": "Security and certification"
+        },
+        "pytorch/test-infra/.github/workflows/pr-dependencies-check.yml": {
+            "description": "GitHub Workflow file is used to check dependency relationships in Pull Request. Make sure all dependencies are solved before the merger.",
+            "category": "CI/CD tools"
+        },
+        "fastimage": {
+            "description": "The Ruby library used to quickly obtain remote image size. Support a variety of image formats, suitable for efficient image processing tasks.",
+            "category": "Scientific computing and data processing"
+        },
+        "necojackarc/auto-request-review": {
+            "description": "Github action, automatically request code review. Simplify the code review process and ensure timely code review.",
+            "category": "CI/CD tools"
+        },
+        "flake8-executable": {
+            "description": "Flake8 plug -in, which is used to check the execution permissions of the Python script. Help developers maintain code security and consistency.",
+            "category": "Code quality tool"
+        },
+        "pywavelets": {
+            "description": "The Python library used for small waves supports signal processing and data analysis. Provide a variety of small wave change algorithms and tools.",
+            "category": "Scientific computing and data processing"
+        },
+        "pytorch/pytorch/.github/workflows/_win-test.yml": {
+            "description": "Github Workflow file for testing Windows platform tests in the CI/CD pipeline. Make sure PyTorch test coverage and stability on Windows.",
+            "category": "CI/CD tools"
+        },
+        "cffi": {
+            "description": "Used to call C code in Python. Provide high -efficiency external function interfaces, suitable for key performance applications.",
+            "category": "Compatibility Testing"
+        },
+        "pytz": {
+            "description": "Python library used to process the time zone. Support time zone conversion and time operation, widely used in time -sensitive applications.",
+            "category": "System management tool"
+        },
+        "faraday-net_http_persistent": {
+            "description": "Faraday HTTP client lasting connection adapter. Support long connection to improve the efficiency and performance of HTTP requests.",
+            "category": "Network tool"
+        },
+        "seemethere/download-artifact-s3": {
+            "description": "Github Action is used to download and build products from S3. Support to obtain the previous uploaded files and data in the CI/CD process.",
+            "category": "CI/CD tools"
+        },
+        "simctl": {
+            "description": "The command line tool for managing the iOS simulator. Support the start, stop, and state management of the simulator, which is suitable for iOS development and testing.",
+            "category": "System management tool"
+        },
+        "docutils": {
+            "description": "Python library for handling RESTRUCTUREDTEXT. Support document resolution and generation, and is widely used in documentation and publishing systems.",
+            "category": "Document tool"
+        },
+        "typing_extensions": {
+            "description": "Provide extensions of the Python type prompt. Applicable to the introduction of compatibility and new functions between the Python version.",
+            "category": "Compatibility Testing"
+        },
+        "click": {
+            "description": "Python library used to create command line interfaces. Provides a simple and powerful CLI construction function, suitable for various command line tools and applications.",
+            "category": "Command Line"
+        },
+        "faraday-patron": {
+            "description": "Faraday HTTP client Patron adapter. Support it with Patron HTTP library to enhance Faraday's network transmission capacity.",
+            "category": "Network tool"
+        },
+        "lintrunner": {
+            "description": "The framework for running code checkup and formatting tools. Support multiple languages \u200b\u200band tools to help maintain code quality and consistency.",
+            "category": "Code quality tool"
+        },
+        "pytorch/test-infra/.github/actions/teardown-linux": {
+            "description": "Github Action is used to clean up the Linux environment after the CI/CD pipeline is over. Ensure the release of resources occupied and avoid resource leakage and conflict.",
+            "category": "CI/CD tools"
+        },
+        "faraday-retry": {
+            "description": "Faraday http client's retry middleware. Support automatic retry when the request fails, which enhances the reliability of HTTP requests.",
+            "category": "Network tool"
+        },
+        "pillow": {
+            "description": "Python's image processing library supports the opening, processing and preservation of a variety of image formats. Widely used in image processing and computer vision tasks.",
+            "category": "Scientific computing and data processing"
+        },
+        "mkl": {
+            "description": "Intel's mathematical core library provides high -performance mathematical computing functions. Widely used in scientific computing and data processing tasks.",
+            "category": "Scientific computing and data processing"
+        },
+        "setuptools": {
+            "description": "Tools used to build and distribute Python packages. Provides packaging, dependency management and installation functions, which is one of the standard tools for the Python package management.",
+            "category": "Release tool"
+        },
+        "ossf/scorecard-action": {
+            "description": "GitHub Action, which is used to run OpenSSF ScoreCard. Help evaluate and improve the safety and maintenance of the project.",
+            "category": "Security and certification"
+        },
+        "tensorboard": {
+            "description": "TensorFlow's visualization tool supports the visualization of training processes and model performance. Widely used in the development and debugging of deep learning models.",
+            "category": "Data visualization tool"
+        },
+        "opt-einsum": {
+            "description": "Python library for optimizing EINSUM expression. It improves the performance of complex linear algebraic operations, and is suitable for scientific computing and machine learning.",
+            "category": "Scientific computing and data processing"
+        },
+        "numpy": {
+            "description": "Python's scientific computing library provides multidimensional array objects and rich mathematical functions. It is the basic tool for data analysis and scientific computing.",
+            "category": "Scientific computing and data processing"
+        },
+        "actions/download-artifact": {
+            "description": "Github Action is used to download and build products. Support the results and output of the previously built in the CI/CD process.",
+            "category": "CI/CD tools"
+        },
+        "aws-sdk-kms": {
+            "description": "The AWS SDK library for interaction with AWS KMS service. Support the management and use of encryption keys to ensure the security of data.",
+            "category": "Security and certification"
+        },
+        "gh_inspector": {
+            "description": "GitHub Action is used to check the status and configuration of the github warehouse. Help developers monitor and manage the health of the warehouse.",
+            "category": "CI/CD tools"
+        },
+        "pytorch/pytorch-probot": {
+            "description": "GitHub Probot applications support the task of automation management and maintenance of the Pytorch project. Including ISSUE management, PR audit and other functions.",
+            "category": "Machine learning tool"
+        },
+        "gear-lib": {
+            "description": "Multimedia processing library supports the encoding and decoding of video, audio and images. Suitable for real -time streaming media and multimedia applications.",
+            "category": "Data encoding and decoding"
+        },
+        "atomos": {
+            "description": "The JavaScript library is used to manage and load plug -ins. Support dynamic loading and uninstallation modules to enhance application scalability.",
+            "category": "System management tool"
+        },
+        "bluebird": {
+            "description": "JavaScript's Promise library provides extended PROMISE function and API. Improve the efficiency and readability of asynchronous programming.",
+            "category": "Front-end development"
+        },
+        "faraday-cookie_jar": {
+            "description": "Cookie management middleware on Faraday HTTP client. Support to automatically handle cookies in the request to improve the status management of HTTP requests.",
+            "category": "Network tool"
+        },
+        "mime-types-data": {
+            "description": "Provide mapping data for MIME type and file extension. Help the types of files correctly in the application.",
+            "category": "Data encoding and decoding"
+        },
+        "flake8-bugbear": {
+            "description": "Flake8 plug -in, check the potential errors and common traps in the Python code. Help developers discover and repair code problems in the early stages.",
+            "category": "Code quality tool"
+        },
+        "hypothesis": {
+            "description": "For the test framework for attributes, the test case is automatically generated to cover more. Improve the test coverage and the reliability of code.",
+            "category": "Compatibility Testing"
+        },
+        "breathe": {
+            "description": "Sphinx extension supports the extraction document from the XML file generated from DoxyGen. Help the C ++ code document into the Sphinx project.",
+            "category": "Document tool"
+        },
+        "optparse": {
+            "description": "Python modules used to analyze command line options and parameters. Provide a flexible command line interface definition and processing function.",
+            "category": "Command Line"
+        },
+        "rubyzip": {
+            "description": "Ruby library is used to read and write to ZIP files. Support file compression and decompression operations, suitable for file archiving and transmission.",
+            "category": "Scientific computing and data processing"
+        },
+        "naturally": {
+            "description": "JavaScript library provides natural language processing function. Used to handle and analyze natural language text to improve the interaction of applications.",
+            "category": "Scientific computing and data processing"
+        },
+        "word_wrap": {
+            "description": "The Ruby library is used to automatically change the text. Suitable for formatting long text to adapt to the specified output width.",
+            "category": "Document tool"
+        },
+        "flake8-pyi": {
+            "description": "Flake8 plug -in, check the grammar and style of the Python type annotation file (.pyi). Help maintain the quality of the type annotation file.",
+            "category": "Code quality tool"
+        },
+        "pytest-rerunfailures": {
+            "description": "Pytest plug -in, supports the test of automatic re -operation. Improve the stability and reliability of the test kit.",
+            "category": "Compatibility Testing"
+        },
+        "should": {
+            "description": "The test framework for RUBY provides easy -to -read assertions. Support behavior -driven development (BDD) style test.",
+            "category": "Compatibility Testing"
+        },
+        "octokit/request-action": {
+            "description": "Github Action is used to send HTTP requests. Suitable for automated interaction with GitHub API and other services.",
+            "category": "CI/CD tools"
+        },
+        "sphinx-copybutton": {
+            "description": "Sphinx extension adds the \"copy\" button to the code block. Improve the availability and user experience of documents.",
+            "category": "Document tool"
+        },
+        "google-apis-androidpublisher_v3": {
+            "description": "The Google API client library is used to interact with Google Play Android Publisher API. Support the release and update of management applications.",
+            "category": "Security and certification"
+        },
+        "xdoctest": {
+            "description": "The testing tool for Python extends the function of Doctest. Support more complicated document testing, which improves the test coverage.",
+            "category": "Compatibility Testing"
+        },
+        "Jinja2": {
+            "description": "The template engine for Python supports dynamic formats such as HTML. Provides flexible template grammar, which is widely used for web development.",
+            "category": "Front-end development"
+        },
+        "highline": {
+            "description": "The Ruby library used to create the command line interface. Support the development of interactive command line applications and improve user interaction experience.",
+            "category": "Command Line"
+        },
+        "google-apis-core": {
+            "description": "The core library of Google API provides basic interaction functions with various Google services. Support identity verification, request sending and response processing.",
+            "category": "Security and certification"
+        },
+        "actions-ecosystem/action-regex-match": {
+            "description": "GitHub Action is used to perform regular expression matching. Support text mode matching and processing in the CI/CD pipeline.",
+            "category": "CI/CD tools"
+        },
+        "declarative-option": {
+            "description": "Ruby library provides a declarative option parsing function. Simplified option definition and processing of command line applications.",
+            "category": "Command Line"
+        },
+        "pytorch/pytorch/.github/workflows/_mac-test.yml": {
+            "description": "Github Workflow file is used to run testing on the Macos platform. Ensure PyTorch's compatibility and stability on MacOS.",
+            "category": "CI/CD tools"
+        },
+        "google-cloud-errors": {
+            "description": "Google Cloud's error processing library provides a unified error report and management function. Applications for Google Cloud services.",
+            "category": "System management tool"
+        },
+        "pytorch/pytorch/.github/workflows/_linux-test.yml": {
+            "description": "Github Workflow file is used to run testing on the Linux platform. Ensure PyTorch's compatibility and stability on Linux.",
+            "category": "CI/CD tools"
+        },
+        "rockset": {
+            "description": "Real -time analysis database supports fast query and data processing. Suitable for large -scale data analysis and real -time application.",
+            "category": "Scientific computing and data processing"
+        },
+        "rouge": {
+            "description": "The Ruby library is used for grammar high. The code that supports a variety of programming languages \u200b\u200bis highlighted, suitable for document and code display.",
+            "category": "Document tool"
+        },
+        "pytorch/test-infra/.github/actions/upload-alerts": {
+            "description": "Github Action is used to upload alarm and notification. Support to send and manage alarm information in the CI/CD process.",
+            "category": "CI/CD tools"
+        },
+        "idna": {
+            "description": "Python library used to handle international domain names. Support the converting Unicode domain name to PunyCode format to improve the compatibility of domain name analysis.",
+            "category": "Network tool"
+        },
+        "certifi": {
+            "description": "Provide the latest CA certificate set to verify the Python library for verifying the SSL certificate. Ensure secure network communication.",
+            "category": "Security and certification"
+        },
+        "mini_magick": {
+            "description": "The Ruby library used to process images is based on ImageMagick. Provide simple APIs, support image conversion and processing operations.",
+            "category": "Scientific computing and data processing"
+        },
+        "memoist": {
+            "description": "Ruby library, provides a method cache function. Improve the efficiency of duplicate calculations and apply for performance optimization.",
+            "category": "Scientific computing and data processing"
+        },
+        "nick-fields/retry": {
+            "description": "GitHub Action is used to automatically retry when the task fails. Improve the stability and reliability of the CI/CD process.",
+            "category": "CI/CD tools"
+        },
+        "gear": {
+            "description": "The multi -purpose tool library provides a variety of practical functions and methods. Suitable for simplifying development tasks and improving code reuse.",
+            "category": "Code generation and conversion"
+        },
+        "nvidia-ml-py": {
+            "description": "Python binding of NVIDIA Management Library (NVML). Support monitoring and managing NVIDIA GPU devices, suitable for high -performance computing and deep learning.",
+            "category": "Machine learning tool"
+        },
+        "unittest-xml-reporting": {
+            "description": "It is used to generate the Python library compatible with the Junit compatible XML test report. Support the test results into the CI/CD system.",
+            "category": "Compatibility Testing"
+        },
+        "dataclasses": {
+            "description": "Python standard library module provides data support. Simplified the definition and instance of the class, and improved the readability and maintenance of the code.",
+            "category": "Code generation and conversion"
+        },
+        "actions/labeler": {
+            "description": "GitHub Action is used to automatically add labels. Support to add labels on the PULL Request and ISSUE to improve project management efficiency.",
+            "category": "CI/CD tools"
+        },
+        "scikit-image": {
+            "description": "The Python library for image processing is based on SCIPY. Provides rich image processing algorithms and tools for computer visual tasks.",
+            "category": "Scientific computing and data processing"
+        },
+        "google-apis-iamcredentials_v1": {
+            "description": "The Google API client library is used to manage IAM vouchers. Support generation and management service account keys to improve the security of applications.",
+            "category": "Security and certification"
+        },
+        "xcodeproj": {
+            "description": "The Ruby library used to analyze and generate the Xcode project file. Support automation project configuration and management, suitable for iOS and MacOS development.",
+            "category": "System management tool"
+        },
+        "commander-fastlane": {
+            "description": "Fastlane's command line tool library supports the construction and release of automation iOS and Android applications. Improve the efficiency of mobile application development processes.",
+            "category": "CI/CD tools"
+        },
+        "CFPropertyList": {
+            "description": "Ruby library used to handle the Property List file. Support read and write Plist files, suitable for MacOS and iOS development.",
+            "category": "Scientific computing and data processing"
+        },
+        "unidiff": {
+            "description": "Python libraries used to analyze and generate unified differential formats (unified Diff) files. Support comparison files and generating differences.",
+            "category": "Scientific computing and data processing"
+        },
+        "artifactory": {
+            "description": "Python library integrated with JFROG Artifactory. Support management binary repository, which is suitable for software release and dependency management.",
+            "category": "System management tool"
+        },
+        "tty-cursor": {
+            "description": "Ruby library is used to control terminal cursor positions. Support to create dynamic and interactive outputs in the command line interface.",
+            "category": "Command Line"
+        },
+        "faraday-httpclient": {
+            "description": "Faraday HTTP client adapter, using the httpclient library for request. A reliable HTTP request function is provided to interact with API.",
+            "category": "Network tool"
+        },
+        "actions/setup-java": {
+            "description": "Github Action is used to set up the Java environment in the CI/CD process. Support automatic installation and configuration Java JDK to improve the construction efficiency of the Java project.",
+            "category": "CI/CD tools"
+        },
+        "sphinxcontrib.katex": {
+            "description": "SPHINX extension supports the Latex mathematical formula in the document. Provide high -quality mathematical formulas, suitable for technical documents and papers.",
+            "category": "Document tool"
+        },
+        "torch": {
+            "description": "The open source framework for deep learning provides a volume calculation and automatic guidance function. Widely used in machine learning and artificial intelligence research.",
+            "category": "Machine learning tool"
+        },
+        "filelock": {
+            "description": "The Python library used to lock the file, supports cross -platform file lock mechanisms. Make sure that conflict and data damage is avoided when parallel access files.",
+            "category": "System management tool"
+        },
+        "pytorch/pytorch/.github/workflows/_rocm-test.yml": {
+            "description": "Github Workflow file is used to run testing on the ROCM platform. Ensure PyTorch's compatibility and stability on ROCM.",
+            "category": "CI/CD tools"
+        },
+        "flatbuffers": {
+            "description": "Efficient cross -platform serialization libraries are suitable for key performance applications. Support fast serialization and counter -sequence operations.",
+            "category": "Data encoding and decoding"
+        },
+        "bs4": {
+            "description": "The Beautiful Soup library is used to analyze and process HTML and XML documents. Suitable for webpage capture and data extraction tasks.",
+            "category": "Parsing tool"
+        },
+        "pytorch/pytorch/.github/actions/teardown-linux": {
+            "description": "Github Action is used to clean up the test environment on the Linux platform. Make sure to release resources after each test and keep the environment clean.",
+            "category": "CI/CD tools"
+        }
+    }
+}

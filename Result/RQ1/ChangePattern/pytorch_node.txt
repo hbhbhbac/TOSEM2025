@@ -1,0 +1,288 @@
+Id,Label,single_count,edge_count,category
+0,"pyyaml",141,1976,Data encoding and decoding
+1,"sphinx_rtd_theme",3,104,Document tool
+2,"sphinxcontrib-googleanalytics",1,194,Document tool
+3,"typing",4,226,Code quality tool
+4,"numpy",3,1061,Scientific computing and data processing
+5,"enum34",1,0,Compatibility Testing
+6,"sphinxcontrib.katex",4,6,Document tool
+7,"sphinx",3,1975,Document tool
+8,"exhale",2,6,Document tool
+9,"matplotlib",2,4,Data visualization tool
+10,"requests",5,6,Network tool
+11,"javasphinx",4,0,Document tool
+12,"suo/add-annotations-github-action",2,2,CI/CD tools
+13,"pytorch/pytorch-probot",2,0,Machine learning tool
+14,"actions/checkout",9,73,CI/CD tools
+15,"future",3,3,Compatibility Testing
+16,"actions/github-script",7,6,CI/CD tools
+17,"tensorboard",2,4,Data visualization tool
+18,"typing_extensions",3,2,Compatibility Testing
+19,"dataclasses",4,1,Code generation and conversion
+20,"PyGithub",1,1,System management tool
+21,"breathe",1,7,Document tool
+22,"actions/stale",2,1,CI/CD tools
+23,"psutil",1,3,System management tool
+24,"actions/setup-python",7,46,CI/CD tools
+25,"potiuk/cancel-workflow-runs",5,0,CI/CD tools
+26,"actions/setup-node",1,6,CI/CD tools
+27,"docutils",1,6,Document tool
+28,"dmnemec/copy_file_to_another_repo_action",2,0,CI/CD tools
+29,"python-etcd",1,4,Scientific computing and data processing
+30,"astunparse",1,0,Code generation and conversion
+31,"seemethere/upload-artifact-s3",5,63,CI/CD tools
+32,"actions/upload-artifact",7,52,CI/CD tools
+33,"zhouzhuojie/checkout",5,63,CI/CD tools
+34,"mccabe",1,2,Code quality tool
+35,"actions/download-artifact",2,32,CI/CD tools
+36,"flatbuffers",4,4,Data encoding and decoding
+37,"conda-incubator/setup-miniconda",1,21,CI/CD tools
+38,"mshick/add-pr-comment",1,1,CI/CD tools
+39,"jinja2",5,5,Code generation and conversion
+40,"nick-fields/retry",19,27,CI/CD tools
+41,"sphinx-panels",1,4,Document tool
+42,"Jinja2",3,2,Front-end development
+43,"pytorch/pytorch/.github/actions/setup-ssh",1,1,CI/CD tools
+44,"pytorch/pytorch/.github/actions/get-workflow-job-id",2,0,CI/CD tools
+45,"pytorch/pytorch/.github/actions/checkout-pytorch",12,44,CI/CD tools
+46,"pytorch/add-annotations-github-action",1,6,CI/CD tools
+47,"unidiff",1,0,Scientific computing and data processing
+48,"numba",1,5,Scientific computing and data processing
+49,"protobuf",4,2,Data encoding and decoding
+50,"malfet/checkout",2,9,CI/CD tools
+51,"mypy",13,2,Code quality tool
+52,"rockset",3,3,Scientific computing and data processing
+53,"sympy",5,3,Scientific computing and data processing
+54,"networkx",1,4,Scientific computing and data processing
+55,"torch",6,0,Machine learning tool
+56,"sphinx_copybutton",1,3,Document tool
+57,"octokit/request-action",1,1,CI/CD tools
+58,"hypothesis",1,4,Compatibility Testing
+59,"pytest-shard",8,3,Compatibility Testing
+60,"necojackarc/auto-request-review",1,0,CI/CD tools
+61,"opt-einsum",1,2,Scientific computing and data processing
+62,"actions/labeler",2,0,CI/CD tools
+63,"myst-parser",1,3,Document tool
+64,"pytest-flakefinder",1,1,Compatibility Testing
+65,"pytorch/test-infra/.github/actions/teardown-linux",3,11,CI/CD tools
+66,"packaging",4,0,Build tools
+67,"xdoctest",1,3,Compatibility Testing
+68,"cffi",1,1,Compatibility Testing
+69,"scipy",8,6,Scientific computing and data processing
+70,"pytorch/test-infra/.github/actions/check-disk-space",2,2,CI/CD tools
+71,"filelock",2,1,System management tool
+72,"six",2,5,Compatibility Testing
+73,"pytorch-triton-rocm",3,0,Machine learning tool
+74,"flake8-logging-format",1,1,Code quality tool
+75,"pytorch/test-infra/.github/actions/setup-nvidia",1,4,CI/CD tools
+76,"lintrunner",5,2,Code quality tool
+77,"fsspec",2,0,Scientific computing and data processing
+78,"tqdm",1,0,Command Line
+79,"pytest-rerunfailures",1,3,Compatibility Testing
+80,"pytest-cpp",1,0,Compatibility Testing
+81,"pytorch/test-infra/.github/actions/cleanup-runner",1,2,CI/CD tools
+82,"mpmath",1,2,Scientific computing and data processing
+83,"z3-solver",4,0,Scientific computing and data processing
+84,"pillow",6,0,Scientific computing and data processing
+85,"pygments",2,3,Code quality tool
+86,"pytorch/test-infra/.github/workflows/linux_job.yml",1,4,CI/CD tools
+87,"certifi",1,2,Security and certification
+88,"expecttest",2,3,Compatibility Testing
+89,"beartype",1,2,Code quality tool
+90,"optree",2,0,Scientific computing and data processing
+91,"urllib3",2,2,Network tool
+92,"torchfix",3,1,Code quality tool
+93,"typing-extensions",2,6,Compatibility Testing
+94,"pywavelets",1,1,Scientific computing and data processing
+95,"lxml",2,2,Data encoding and decoding
+96,"aws-actions/configure-aws-credentials",5,8,CI/CD tools
+97,"pytorch/test-infra/.github/actions/update-commit-hash",1,3,CI/CD tools
+98,"dill",1,0,None
+99,"actions-ecosystem/action-regex-match",1,1,CI/CD tools
+100,"lark",4,0,None
+101,"setuptools",1,7,Release tool
+102,"mkl",1,2,Scientific computing and data processing
+103,"boto3",0,6,Security and certification
+104,"pytz",0,2,System management tool
+105,"seemethere/download-artifact-s3",0,53,CI/CD tools
+106,"seemethere/add-github-ssh-key",0,59,CI/CD tools
+107,"IPython",0,6,Scientific computing and data processing
+108,"nbsphinx",0,2,Document tool
+109,"myst-nb",0,5,Document tool
+110,"pytorch/test-infra/.github/actions/setup-miniconda",0,6,CI/CD tools
+111,"nvidia-ml-py",0,1,Machine learning tool
+112,"pynvml",0,3,System management tool
+113,"pytorch/test-infra/.github/actions/upload-alerts",0,9,CI/CD tools
+114,"pytorch/test-infra/.github/actions/setup-ssh",0,10,CI/CD tools
+115,"aws-actions/amazon-ecr-login",0,2,CI/CD tools
+116,"pytorch/test-infra/.github/workflows/pr-dependencies-check.yml",0,2,CI/CD tools
+117,"ghstack",0,2,System management tool
+118,"rexml",0,2,Data encoding and decoding
+119,"strscan",0,1,None
+120,"reactivecircus/android-emulator-runner",0,2,CI/CD tools
+121,"actions/setup-java",0,8,CI/CD tools
+122,"pytest-xdist",0,4,Compatibility Testing
+123,"pytorch/test-infra/.github/actions/pull-docker-image",0,10,CI/CD tools
+124,"scikit-image",0,3,Scientific computing and data processing
+125,"tb-nightly",0,3,Data visualization tool
+126,"pytorch/test-infra/.github/actions/bc-lint",0,3,CI/CD tools
+127,"pytest",0,4,Compatibility Testing
+128,"pytorch/test-infra/.github/actions/calculate-docker-image",0,9,CI/CD tools
+129,"pytorch/test-infra/.github/actions/update-viablestrict",0,3,None
+130,"docker/login-action",0,1,CI/CD tools
+131,"docker/setup-buildx-action",0,1,CI/CD tools
+132,"docker/setup-qemu-action",0,1,CI/CD tools
+133,"ninja",0,4,Build tools
+134,"github/codeql-action/upload-sarif",0,1,CI/CD tools
+135,"ossf/scorecard-action",0,1,Security and certification
+136,"coremltools",0,3,Machine learning tool
+137,"rich",0,1,Command Line
+138,"coloredlogs",0,2,Command Line
+139,"pycocotools",0,2,Scientific computing and data processing
+140,"ruby/setup-ruby",0,1,CI/CD tools
+141,"faraday",0,4,Network tool
+142,"fastlane",0,4,Release tool
+143,"google-cloud-core",0,4,Security and certification
+144,"mime-types-data",0,3,Data encoding and decoding
+145,"multi_json",0,3,Data encoding and decoding
+146,"xcodeproj",0,4,System management tool
+147,"bs4",0,5,Parsing tool
+148,"sphinx-copybutton",0,4,Document tool
+149,"flake8",0,2,Code quality tool
+150,"flake8-bugbear",0,2,Code quality tool
+151,"flake8-comprehensions",0,2,Code quality tool
+152,"flake8-executable",0,2,Code quality tool
+153,"flake8-pyi",0,2,Code quality tool
+154,"pycodestyle",0,2,Code quality tool
+155,"pyflakes",0,2,Code quality tool
+156,"blas",0,1,Scientific computing and data processing
+157,"cmake",0,3,Build tools
+158,"mkl-include",0,2,Scientific computing and data processing
+159,"lodash",0,66,Front-end development
+160,"jsdom",0,66,Front-end development
+161,"bluebird",0,66,Front-end development
+162,"commander",0,67,Command Line
+163,"del",0,66,System management tool
+164,"gear",0,66,Code generation and conversion
+165,"gear-lib",0,66,Data encoding and decoding
+166,"glob",0,66,System management tool
+167,"mocha",0,66,Compatibility Testing
+168,"should",0,66,Compatibility Testing
+169,"idna",0,2,Network tool
+170,"charset-normalizer",0,2,Data encoding and decoding
+171,"click",0,2,Command Line
+172,"junitparser",0,2,Parsing tool
+173,"librosa",0,3,Scientific computing and data processing
+174,"unittest-xml-reporting",0,3,Compatibility Testing
+175,"pytorch/builder/.github/workflows/validate-docker-images.yml",0,2,None
+176,"json",0,3,Data encoding and decoding
+177,"excon",0,3,Network tool
+178,"CFPropertyList",0,3,Scientific computing and data processing
+179,"google-api-client",0,3,Security and certification
+180,"google-cloud-env",0,3,System management tool
+181,"google-cloud-errors",0,2,System management tool
+182,"google-cloud-storage",0,3,Scientific computing and data processing
+183,"googleauth",0,3,Security and certification
+184,"memoist",0,2,Scientific computing and data processing
+185,"mini_magick",0,3,Scientific computing and data processing
+186,"mini_mime",0,2,Data encoding and decoding
+187,"signet",0,3,Security and certification
+188,"simctl",0,3,System management tool
+189,"tty-spinner",0,3,Command Line
+190,"mime-types",0,2,Data encoding and decoding
+191,"pytorch/pytorch/.github/actions/calculate-docker-image",0,2,CI/CD tools
+192,"pytorch/pytorch/.github/actions/chown-workspace",0,2,CI/CD tools
+193,"pytorch/pytorch/.github/actions/pull-docker-image",0,2,CI/CD tools
+194,"pytorch/pytorch/.github/actions/setup-linux",0,2,CI/CD tools
+195,"pytorch/pytorch/.github/actions/teardown-linux",0,2,CI/CD tools
+196,"pytorch/pytorch/.github/actions/build-android",0,2,CI/CD tools
+197,"pytorch/pytorch/.github/actions/upload-test-artifacts",0,2,CI/CD tools
+198,"pytorch/pytorch/.github/actions/download-build-artifacts",0,2,CI/CD tools
+199,"pytorch/pytorch/.github/actions/setup-rocm",0,2,CI/CD tools
+200,"pytorch/pytorch/.github/actions/setup-win",0,2,CI/CD tools
+201,"pytorch/pytorch/.github/actions/teardown-win",0,2,CI/CD tools
+202,"pytorch/pytorch/.github/workflows/_docs.yml",0,2,CI/CD tools
+203,"pytorch/pytorch/.github/workflows/_linux-build.yml",0,2,CI/CD tools
+204,"pytorch/pytorch/.github/workflows/_ios-build-test.yml",0,2,CI/CD tools
+205,"pytorch/pytorch/.github/workflows/_linux-test.yml",0,2,CI/CD tools
+206,"pytorch/pytorch/.github/workflows/_win-build.yml",0,2,CI/CD tools
+207,"pytorch/pytorch/.github/workflows/_win-test.yml",0,2,CI/CD tools
+208,"pytorch/pytorch/.github/workflows/_android-build-test.yml",0,2,CI/CD tools
+209,"pytorch/pytorch/.github/workflows/_bazel-build-test.yml",0,2,CI/CD tools
+210,"pytorch/pytorch/.github/workflows/_rocm-test.yml",0,2,CI/CD tools
+211,"pytorch/pytorch/.github/workflows/_android-full-build-test.yml",0,2,CI/CD tools
+212,"pytorch/pytorch/.github/workflows/_mac-build.yml",0,2,CI/CD tools
+213,"pytorch/pytorch/.github/workflows/_mac-test.yml",0,2,CI/CD tools
+214,"addressable",0,1,Network tool
+215,"atomos",0,1,System management tool
+216,"babosa",0,2,Network tool
+217,"claide",0,2,Command Line
+218,"colored",0,1,Command Line
+219,"colored2",0,1,Command Line
+220,"commander-fastlane",0,2,CI/CD tools
+221,"declarative",0,2,Code generation and conversion
+222,"declarative-option",0,2,Command Line
+223,"digest-crc",0,2,Scientific computing and data processing
+224,"domain_name",0,1,Network tool
+225,"dotenv",0,2,System management tool
+226,"emoji_regex",0,2,Parsing tool
+227,"faraday-cookie_jar",0,2,Network tool
+228,"faraday_middleware",0,2,Network tool
+229,"fastimage",0,2,Scientific computing and data processing
+230,"gh_inspector",0,1,CI/CD tools
+231,"highline",0,2,Command Line
+232,"http-cookie",0,2,Network tool
+233,"httpclient",0,1,Network tool
+234,"jwt",0,2,Security and certification
+235,"multi_xml",0,2,Data encoding and decoding
+236,"multipart-post",0,1,Network tool
+237,"nanaimo",0,2,Compatibility Testing
+238,"naturally",0,2,Scientific computing and data processing
+239,"os",0,2,System management tool
+240,"plist",0,2,Data encoding and decoding
+241,"public_suffix",0,2,Network tool
+242,"representable",0,2,Code generation and conversion
+243,"retriable",0,1,System management tool
+244,"rouge",0,1,Document tool
+245,"rubyzip",0,2,Scientific computing and data processing
+246,"security",0,1,Security and certification
+247,"slack-notifier",0,2,System management tool
+248,"terminal-notifier",0,1,System management tool
+249,"terminal-table",0,1,Command Line
+250,"tty-cursor",0,2,Command Line
+251,"tty-screen",0,2,Command Line
+252,"uber",0,1,System management tool
+253,"unf",0,1,Data encoding and decoding
+254,"unf_ext",0,2,Data encoding and decoding
+255,"unicode-display_width",0,2,Command Line
+256,"word_wrap",0,1,Document tool
+257,"xcpretty",0,1,Build tools
+258,"xcpretty-travis-formatter",0,2,Build tools
+259,"artifactory",0,1,System management tool
+260,"aws-eventstream",0,1,Scientific computing and data processing
+261,"aws-partitions",0,1,Security and certification
+262,"aws-sdk-core",0,1,Security and certification
+263,"aws-sdk-kms",0,1,Security and certification
+264,"aws-sdk-s3",0,1,Security and certification
+265,"aws-sigv4",0,1,Security and certification
+266,"faraday-em_http",0,1,Network tool
+267,"faraday-em_synchrony",0,1,Network tool
+268,"faraday-excon",0,1,Network tool
+269,"faraday-httpclient",0,1,Network tool
+270,"faraday-multipart",0,1,Network tool
+271,"faraday-net_http",0,1,Network tool
+272,"faraday-net_http_persistent",0,1,Network tool
+273,"faraday-patron",0,1,Network tool
+274,"faraday-rack",0,1,Network tool
+275,"faraday-retry",0,1,Network tool
+276,"google-apis-androidpublisher_v3",0,1,Security and certification
+277,"google-apis-core",0,1,Security and certification
+278,"google-apis-iamcredentials_v1",0,1,Security and certification
+279,"google-apis-playcustomapp_v1",0,1,Security and certification
+280,"google-apis-storage_v1",0,1,Scientific computing and data processing
+281,"jmespath",0,1,Data encoding and decoding
+282,"optparse",0,1,Command Line
+283,"rake",0,1,Build tools
+284,"ruby2_keywords",0,1,Compatibility Testing
+285,"trailblazer-option",0,1,Code generation and conversion
+286,"webrick",0,1,Network tool

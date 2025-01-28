@@ -1,0 +1,171 @@
+Id,Label,single_count,edge_count,category
+0,"numpy",291,985,Scientific Computing and Data Processing
+1,"gulp-rename",1,174,None
+2,"protobuf",255,881,Data encoding and decoding
+3,"typescript",13,446,programming language
+4,"tsd",1,255,Front-end Development
+5,"web-component-tester",3,309,Front-end Development
+6,"typings",34,86,Front-end Development
+7,"gulp-typings",3,38,Front-end Development
+8,"gulp-clean-compiled-typescript",1,90,Front-end Development
+9,"werkzeug",30,177,Front-end Development
+10,"html5lib",13,133,Parsing tool
+11,"backports.weakref",36,203,Compatibility Testing
+12,"com.google.protobuf:protobuf-java",111,242,Data encoding and decoding
+13,"tensorflow-tensorboard",134,333,Data visualization tool
+14,"tensorflow",158,316,Machine learning tool
+15,"autograd",15,11,Machine learning tool
+16,"enum34",4,137,Compatibility Testing
+17,"org.sonatype.plugins:nexus-staging-maven-plugin",5,61,Build tools
+18,"absl-py",78,348,Scientific Computing and Data Processing
+19,"gast",69,323,Parsing tool
+20,"grpcio",31,308,Network tool
+21,"tensorboard",379,390,Data visualization tool
+22,"setuptools",189,276,Release tool
+23,"tensorflow_estimator",119,332,Machine learning tool
+24,"google_pasta",135,179,Code generation and conversion
+25,"wrapt",44,261,Scientific Computing and Data Processing
+26,"kissfft",4,0,Scientific Computing and Data Processing
+27,"keras_applications",17,140,Machine learning tool
+28,"opt_einsum",24,165,Scientific Computing and Data Processing
+29,"org.apache.maven.plugins:maven-jar-plugin",42,10,Build tools
+30,"six",16,618,Compatibility Testing
+31,"keras_preprocessing",7,242,Machine learning tool
+32,"scipy",80,590,Scientific Computing and Data Processing
+33,"python-hostlist",2,0,System management tool
+34,"pybind11",41,28,Compatibility Testing
+35,"google-api-python-client",16,38,Security and certification
+36,"flatbuffers",92,273,Data encoding and decoding
+37,"typing_extensions",62,201,Compatibility Testing
+38,"zofrex/mirror-branch",32,104,CI/CD tools
+39,"portpicker",2,250,Scientific Computing and Data Processing
+40,"junit:junit",10,119,None
+41,"h5py",59,326,Scientific Computing and Data Processing
+42,"keras",8,39,Machine learning tool
+43,"keras-nightly",51,340,Machine learning tool
+44,"clang",14,35,Parsing tool
+45,"libclang",10,59,Parsing tool
+46,"tensorflow-io-gcs-filesystem",25,46,Scientific Computing and Data Processing
+47,"actions/setup-python",9,140,CI/CD tools
+48,"wheel",3,283,Release tool
+49,"packaging",3,122,Build tools
+50,"PyYAML",3,148,Scientific Computing and Data Processing
+51,"tf-estimator-nightly",4,291,Machine learning tool
+52,"actions/github-script",15,126,CI/CD tools
+53,"ossf/scorecard-action",10,125,Security and certification
+54,"actions/checkout",23,364,CI/CD tools
+55,"actions/stale",31,32,CI/CD tools
+56,"jax",11,188,Scientific Computing and Data Processing
+57,"tb-nightly",8,312,Data visualization tool
+58,"lit",11,146,Front-end Development
+59,"actions/upload-artifact",4,182,CI/CD tools
+60,"ml_dtypes",7,65,Machine learning tool
+61,"requests",3,76,Network tool
+62,"urllib3",3,81,Network tool
+63,"google/osv-scanner/.github/workflows/osv-scanner-reusable.yml",1,40,Security and certification
+64,"jaxlib",2,132,Scientific Computing and Data Processing
+65,"idna",3,75,Network tool
+66,"certifi",2,144,Security and certification
+67,"virtualenvwrapper",0,1,System management tool
+68,"express",0,28,Front-end Development
+69,"send",0,28,Scientific Computing and Data Processing
+70,"gulp-bower",0,87,Front-end Development
+71,"gulp-tslint",0,293,Code quality tool
+72,"tslint",0,196,Code quality tool
+73,"gulp-server-livereload",0,332,Front-end Development
+74,"mock",0,154,Compatibility Testing
+75,"astor",0,132,Code generation and conversion
+76,"termcolor",0,280,Command Line
+77,"org.apache.maven.plugins:maven-gpg-plugin",0,142,Build tools
+78,"org.tensorflow:proto",0,500,Data encoding and decoding
+79,"org.tensorflow:hadoop",0,137,Scientific Computing and Data Processing
+80,"org.tensorflow:tensorflow-hadoop",0,393,Scientific Computing and Data Processing
+81,"oauth2client",0,39,Security and certification
+82,"astunparse",0,219,Code generation and conversion
+83,"actions/cache",0,6,CI/CD tools
+84,"trilom/file-changes-action",0,118,CI/CD tools
+85,"dorner/file-changes-action",0,2,CI/CD tools
+86,"citation-file-format/cffconvert-github-action",0,84,CI/CD tools
+87,"peter-evans/create-pull-request",0,119,CI/CD tools
+88,"twine",0,48,Release tool
+89,"junitparser",0,53,Parsing tool
+90,"lxml",0,53,Data encoding and decoding
+91,"tblib",0,43,Scientific Computing and Data Processing
+92,"google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml",0,32,None
+93,"github/codeql-action/upload-sarif",0,88,CI/CD tools
+94,"sklearn",0,260,Machine learning tool
+95,"bleach",0,106,Security and certification
+96,"markdown",0,201,Document tool
+97,"org.apache.maven.plugins:maven-javadoc-plugin",0,126,Build tools
+98,"org.apache.maven.plugins:maven-source-plugin",0,126,Build tools
+99,"functools32",0,40,Compatibility Testing
+100,"org.apache.spark:spark-core_2.11",0,240,None
+101,"org.apache.spark:spark-mllib_2.11",0,240,Scientific Computing and Data Processing
+102,"org.apache.spark:spark-sql_2.11",0,240,Scientific Computing and Data Processing
+103,"docker/setup-buildx-action",0,83,CI/CD tools
+104,"org.apache.maven.plugins:maven-compiler-plugin",0,149,Build tools
+105,"chai",0,51,Compatibility Testing
+106,"gulp-concat",0,146,Front-end Development
+107,"gulp-mocha-phantomjs",0,51,Front-end Development
+108,"mocha",0,51,Compatibility Testing
+109,"browserify",0,95,Front-end Development
+110,"tsify",0,95,Front-end Development
+111,"vinyl-source-stream",0,95,Front-end Development
+112,"docker/build-push-action",0,78,CI/CD tools
+113,"docker/login-action",0,78,CI/CD tools
+114,"mshick/add-pr-comment",0,78,CI/CD tools
+115,"typing-extensions",0,41,Compatibility Testing
+116,"psutil",0,86,System management tool
+117,"colorama",0,19,Command Line
+118,"cycler",0,6,Data visualization tool
+119,"jedi",0,6,Code quality tool
+120,"parso",0,6,Parsing tool
+121,"pyreadline",0,6,Command Line
+122,"dm-tree",0,25,Scientific Computing and Data Processing
+123,"markdown-it-py",0,25,Document tool
+124,"mdurl",0,25,Document tool
+125,"namex",0,27,Scientific Computing and Data Processing
+126,"pygments",0,42,Document tool
+127,"rich",0,50,Command Line
+128,"gulp-cli",0,315,Front-end Development
+129,"gulp-filter",0,315,Front-end Development
+130,"gulp-header",0,218,Front-end Development
+131,"gulp-typescript",0,315,Front-end Development
+132,"gulp-util",0,315,Front-end Development
+133,"gulp-vulcanize",0,315,Front-end Development
+134,"vulcanize",0,315,Front-end Development
+135,"charset-normalizer",0,97,Scientific Computing and Data Processing
+136,"google-auth",0,92,Security and certification
+137,"tensorboard-data-server",0,80,Machine learning tool
+138,"importlib-metadata",0,84,Scientific Computing and Data Processing
+139,"zipp",0,73,Scientific Computing and Data Processing
+140,"google-auth-oauthlib",0,77,Security and certification
+141,"ml-dtypes",0,79,Machine learning tool
+142,"dill",0,39,Data encoding and decoding
+143,"tf-keras-nightly",0,18,None
+144,"org.apache.hadoop:hadoop-common",0,85,Scientific Computing and Data Processing
+145,"org.apache.hadoop:hadoop-mapreduce-client-core",0,85,Scientific Computing and Data Processing
+146,"org.apache.hadoop:hadoop-mapreduce-client-jobclient",0,85,Scientific Computing and Data Processing
+147,"net.alchim31.maven:scala-maven-plugin",0,85,Build tools
+148,"org.apache.hadoop:hadoop-yarn-api",0,85,Scientific Computing and Data Processing
+149,"org.apache.maven.plugins:maven-shade-plugin",0,85,Build tools
+150,"org.scalatest:scalatest-maven-plugin",0,85,Compatibility Testing
+151,"org.scalatest:scalatest_2.11",0,85,Compatibility Testing
+152,"auditwheel",0,43,Release tool
+153,"cloudpickle",0,13,Data encoding and decoding
+154,"importlib_metadata",0,13,Scientific Computing and Data Processing
+155,"matplotlib",0,13,Data visualization tool
+156,"opt-einsum",0,67,Scientific Computing and Data Processing
+157,"pillow",0,13,Scientific Computing and Data Processing
+158,"cachetools",0,79,Scientific Computing and Data Processing
+159,"gulp",0,313,Front-end Development
+160,"gulp-replace",0,313,Front-end Development
+161,"merge2",0,313,Scientific Computing and Data Processing
+162,"minimist",0,313,Command Line
+163,"pylint",0,31,Code quality tool
+164,"markupsafe",0,74,Security and certification
+165,"oauthlib",0,74,Security and certification
+166,"pyasn1",0,74,Data encoding and decoding
+167,"pyasn1-modules",0,74,Data encoding and decoding
+168,"requests-oauthlib",0,74,Security and certification
+169,"rsa",0,74,Security and certification
