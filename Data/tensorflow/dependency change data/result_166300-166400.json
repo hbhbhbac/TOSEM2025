@@ -1,0 +1,249 @@
+[
+  {
+    "now_sha": "5845882e5a848eb6ae551fd3631f09797370fbec",
+    "next_sha": "aa003479b53afabb07507e41ed03a15d535c2ab2",
+    "index": 166368,
+    "diff": []
+  },
+  {
+    "now_sha": "aa003479b53afabb07507e41ed03a15d535c2ab2",
+    "next_sha": "ecffd665ed3b36a15dfa32b0e8fd93f87a4af721",
+    "index": 166369,
+    "diff": []
+  },
+  {
+    "now_sha": "ecffd665ed3b36a15dfa32b0e8fd93f87a4af721",
+    "next_sha": "ed2372efce2e067e4b268f8f854218186cce43ae",
+    "index": 166370,
+    "diff": []
+  },
+  {
+    "now_sha": "ed2372efce2e067e4b268f8f854218186cce43ae",
+    "next_sha": "8ca03bf4d94f447a6d5ec24db769a21b48b72efb",
+    "index": 166371,
+    "diff": []
+  },
+  {
+    "now_sha": "8ca03bf4d94f447a6d5ec24db769a21b48b72efb",
+    "next_sha": "c4cdb64781ef3c07071afa5c3670b3943539fb24",
+    "index": 166372,
+    "diff": []
+  },
+  {
+    "now_sha": "c4cdb64781ef3c07071afa5c3670b3943539fb24",
+    "next_sha": "86cfadb13a3fcde57c146ab4d5b340a8686d7d59",
+    "index": 166373,
+    "diff": []
+  },
+  {
+    "now_sha": "86cfadb13a3fcde57c146ab4d5b340a8686d7d59",
+    "next_sha": "f31c6073f77595d4b2719930ce1ec3ca77af5756",
+    "index": 166374,
+    "diff": []
+  },
+  {
+    "now_sha": "f31c6073f77595d4b2719930ce1ec3ca77af5756",
+    "next_sha": "ead8e4440ee342d0a62a3d12cd8c96945a676429",
+    "index": 166375,
+    "diff": [
+      {
+        "change_type": "added",
+        "manifest": ".github/workflows/osv-scanner-scheduled.yml",
+        "ecosystem": "actions",
+        "name": "google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml",
+        "version": "1.8.1",
+        "package_url": "pkg:githubactions/google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml@1.8.1",
+        "license": null,
+        "source_repository_url": "https://github.com/google/osv-scanner-action",
+        "scope": "runtime",
+        "vulnerabilities": []
+      },
+      {
+        "change_type": "removed",
+        "manifest": ".github/workflows/osv-scanner-scheduled.yml",
+        "ecosystem": "actions",
+        "name": "google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml",
+        "version": "1.7.4",
+        "package_url": "pkg:githubactions/google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml@1.7.4",
+        "license": null,
+        "source_repository_url": "https://github.com/google/osv-scanner-action",
+        "scope": "runtime",
+        "vulnerabilities": []
+      },
+      {
+        "change_type": "added",
+        "manifest": ".github/workflows/scorecards-analysis.yml",
+        "ecosystem": "actions",
+        "name": "github/codeql-action/upload-sarif",
+        "version": "b611370bb5703a7efb587f9d136a52ea24c5c38c",
+        "package_url": "pkg:githubactions/github/codeql-action/upload-sarif@b611370bb5703a7efb587f9d136a52ea24c5c38c",
+        "license": null,
+        "source_repository_url": "https://github.com/github/codeql-action",
+        "scope": "runtime",
+        "vulnerabilities": []
+      },
+      {
+        "change_type": "removed",
+        "manifest": ".github/workflows/scorecards-analysis.yml",
+        "ecosystem": "actions",
+        "name": "github/codeql-action/upload-sarif",
+        "version": "23acc5c183826b7a8a97bce3cecc52db901f8251",
+        "package_url": "pkg:githubactions/github/codeql-action/upload-sarif@23acc5c183826b7a8a97bce3cecc52db901f8251",
+        "license": null,
+        "source_repository_url": "https://github.com/github/codeql-action",
+        "scope": "runtime",
+        "vulnerabilities": []
+      }
+    ]
+  },
+  {
+    "now_sha": "ead8e4440ee342d0a62a3d12cd8c96945a676429",
+    "next_sha": "71054b4992f60d0f7bdab32c2e89b3efaed77e2f",
+    "index": 166376,
+    "diff": []
+  },
+  {
+    "now_sha": "71054b4992f60d0f7bdab32c2e89b3efaed77e2f",
+    "next_sha": "041f7b7fe9087b5dd6a8d4579f42b8326f292252",
+    "index": 166377,
+    "diff": []
+  },
+  {
+    "now_sha": "041f7b7fe9087b5dd6a8d4579f42b8326f292252",
+    "next_sha": "e78bcb1b2c18a6dae4ef657def9b6ea4a7950b81",
+    "index": 166378,
+    "diff": []
+  },
+  {
+    "now_sha": "e78bcb1b2c18a6dae4ef657def9b6ea4a7950b81",
+    "next_sha": "2329a79ce93fd8bc21966c18abb94f5da3cd5973",
+    "index": 166379,
+    "diff": []
+  },
+  {
+    "now_sha": "2329a79ce93fd8bc21966c18abb94f5da3cd5973",
+    "next_sha": "fb81d81591127dc6012095eb275a91b50652f16d",
+    "index": 166380,
+    "diff": []
+  },
+  {
+    "now_sha": "fb81d81591127dc6012095eb275a91b50652f16d",
+    "next_sha": "a984ebc17fe5265e1ece0a89e96ddeb353ab5aeb",
+    "index": 166381,
+    "diff": []
+  },
+  {
+    "now_sha": "a984ebc17fe5265e1ece0a89e96ddeb353ab5aeb",
+    "next_sha": "0ed83f31d56bfb75767034b31f8c99b8e9ce2082",
+    "index": 166382,
+    "diff": []
+  },
+  {
+    "now_sha": "0ed83f31d56bfb75767034b31f8c99b8e9ce2082",
+    "next_sha": "775c84d11596da38120a9443dca87ca5d7930ead",
+    "index": 166383,
+    "diff": []
+  },
+  {
+    "now_sha": "775c84d11596da38120a9443dca87ca5d7930ead",
+    "next_sha": "ff81112eeb0677aa9364f528bb8378e053b6c104",
+    "index": 166384,
+    "diff": []
+  },
+  {
+    "now_sha": "ff81112eeb0677aa9364f528bb8378e053b6c104",
+    "next_sha": "021264d5f6ec15b0727080e74bf54aaebaa420e2",
+    "index": 166385,
+    "diff": []
+  },
+  {
+    "now_sha": "021264d5f6ec15b0727080e74bf54aaebaa420e2",
+    "next_sha": "6c7151a0c52f8b091911f10c764870dd2aeec8ec",
+    "index": 166386,
+    "diff": []
+  },
+  {
+    "now_sha": "6c7151a0c52f8b091911f10c764870dd2aeec8ec",
+    "next_sha": "7ccb62363eaabf26a9460c03612bb911ae8ee073",
+    "index": 166387,
+    "diff": []
+  },
+  {
+    "now_sha": "7ccb62363eaabf26a9460c03612bb911ae8ee073",
+    "next_sha": "1ee730ee3e8579797101faca9e9963e9a0ac778d",
+    "index": 166388,
+    "diff": []
+  },
+  {
+    "now_sha": "1ee730ee3e8579797101faca9e9963e9a0ac778d",
+    "next_sha": "45d8fd3b3c24c491bb8308903178ce896863625c",
+    "index": 166389,
+    "diff": []
+  },
+  {
+    "now_sha": "45d8fd3b3c24c491bb8308903178ce896863625c",
+    "next_sha": "b8faa5e05449ec1562205da5b1a61e592bd8dc7b",
+    "index": 166390,
+    "diff": []
+  },
+  {
+    "now_sha": "b8faa5e05449ec1562205da5b1a61e592bd8dc7b",
+    "next_sha": "54440204df79be907e78d264982bba9456fbe60a",
+    "index": 166391,
+    "diff": []
+  },
+  {
+    "now_sha": "54440204df79be907e78d264982bba9456fbe60a",
+    "next_sha": "02a9c5e290acf9fc182b63e566296f8e4ed9d67f",
+    "index": 166392,
+    "diff": []
+  },
+  {
+    "now_sha": "02a9c5e290acf9fc182b63e566296f8e4ed9d67f",
+    "next_sha": "a13550a4c1eeec4687aba7f2fc460bb62e2af0f4",
+    "index": 166393,
+    "diff": []
+  },
+  {
+    "now_sha": "a13550a4c1eeec4687aba7f2fc460bb62e2af0f4",
+    "next_sha": "a08dbd61bacb25755c63d136c5d7c1b9d4044ea3",
+    "index": 166394,
+    "diff": []
+  },
+  {
+    "now_sha": "a08dbd61bacb25755c63d136c5d7c1b9d4044ea3",
+    "next_sha": "d68ff22bda686a60575c3fec41a64f0f7a65df48",
+    "index": 166395,
+    "diff": []
+  },
+  {
+    "now_sha": "d68ff22bda686a60575c3fec41a64f0f7a65df48",
+    "next_sha": "7068cfdd90027fbb0eb27786431964b78be086d9",
+    "index": 166396,
+    "diff": []
+  },
+  {
+    "now_sha": "7068cfdd90027fbb0eb27786431964b78be086d9",
+    "next_sha": "03ed760b8246b7b257f5bc16c3920bab07c4c9e1",
+    "index": 166397,
+    "diff": []
+  },
+  {
+    "now_sha": "03ed760b8246b7b257f5bc16c3920bab07c4c9e1",
+    "next_sha": "8f1ab7aae9553502549580ddeee7fb95a03337e9",
+    "index": 166398,
+    "diff": []
+  },
+  {
+    "now_sha": "8f1ab7aae9553502549580ddeee7fb95a03337e9",
+    "next_sha": "54abbf967352639bfc21d566e3ae18c03d5a4f34",
+    "index": 166399,
+    "diff": []
+  },
+  {
+    "now_sha": "54abbf967352639bfc21d566e3ae18c03d5a4f34",
+    "next_sha": "38e53765789f8f2910343a1a171e73ff5978ff2a",
+    "index": 166400,
+    "diff": []
+  }
+]

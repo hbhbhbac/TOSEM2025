@@ -1,0 +1,745 @@
+[
+  {
+    "now_sha": "5d03cfd5677c4ab11152ce3fed8299d5a68af371",
+    "next_sha": "cf44879c4bea5eb96f78b97caf5c4165152b07e9",
+    "index": 166501,
+    "diff": []
+  },
+  {
+    "now_sha": "cf44879c4bea5eb96f78b97caf5c4165152b07e9",
+    "next_sha": "140d4a5814d62e2640cf376ab1c3ca9c32d9182c",
+    "index": 166502,
+    "diff": []
+  },
+  {
+    "now_sha": "140d4a5814d62e2640cf376ab1c3ca9c32d9182c",
+    "next_sha": "a908b587f39c8fb1ec0a4805a6bb6d2225d34fcb",
+    "index": 166503,
+    "diff": []
+  },
+  {
+    "now_sha": "a908b587f39c8fb1ec0a4805a6bb6d2225d34fcb",
+    "next_sha": "51817223df4450062c95658e1beab3e7a74f4b7e",
+    "index": 166504,
+    "diff": []
+  },
+  {
+    "now_sha": "51817223df4450062c95658e1beab3e7a74f4b7e",
+    "next_sha": "499d7c4b685baf08b8046f4e003cde43c65551b2",
+    "index": 166505,
+    "diff": []
+  },
+  {
+    "now_sha": "499d7c4b685baf08b8046f4e003cde43c65551b2",
+    "next_sha": "b54d8b6455de33ec54290915b8cfed60db3d6335",
+    "index": 166506,
+    "diff": []
+  },
+  {
+    "now_sha": "b54d8b6455de33ec54290915b8cfed60db3d6335",
+    "next_sha": "d61a6ab09f9312c4658a43e53ecc69ddbc73363c",
+    "index": 166507,
+    "diff": []
+  },
+  {
+    "now_sha": "d61a6ab09f9312c4658a43e53ecc69ddbc73363c",
+    "next_sha": "29de848edb2ebbf5cb909476a3e703e9d0d28872",
+    "index": 166508,
+    "diff": []
+  },
+  {
+    "now_sha": "29de848edb2ebbf5cb909476a3e703e9d0d28872",
+    "next_sha": "a888059583603c4853ceabbd0045f9e9d58726da",
+    "index": 166509,
+    "diff": []
+  },
+  {
+    "now_sha": "a888059583603c4853ceabbd0045f9e9d58726da",
+    "next_sha": "6974cc367ac74530a229f9f4564b44abe47f4c14",
+    "index": 166510,
+    "diff": []
+  },
+  {
+    "now_sha": "6974cc367ac74530a229f9f4564b44abe47f4c14",
+    "next_sha": "6b383721fc1cd726af423ca99e2f5c8fcc0899e1",
+    "index": 166511,
+    "diff": []
+  },
+  {
+    "now_sha": "6b383721fc1cd726af423ca99e2f5c8fcc0899e1",
+    "next_sha": "8ffa2353cfca53d826f5697ad52c130ed68adfff",
+    "index": 166512,
+    "diff": []
+  },
+  {
+    "now_sha": "8ffa2353cfca53d826f5697ad52c130ed68adfff",
+    "next_sha": "24c726496a247fd19016ac78646ae62dd510eac3",
+    "index": 166513,
+    "diff": []
+  },
+  {
+    "now_sha": "24c726496a247fd19016ac78646ae62dd510eac3",
+    "next_sha": "13eadc5564277e2e3e5eea2f9531cbc5fe3cb4ac",
+    "index": 166514,
+    "diff": []
+  },
+  {
+    "now_sha": "13eadc5564277e2e3e5eea2f9531cbc5fe3cb4ac",
+    "next_sha": "8af7e1a94cb27ee81ace6ce9d2d7c29a72f5ec49",
+    "index": 166515,
+    "diff": []
+  },
+  {
+    "now_sha": "8af7e1a94cb27ee81ace6ce9d2d7c29a72f5ec49",
+    "next_sha": "dacb5d17c0b1a66d50a55157a3247aa479a7e607",
+    "index": 166516,
+    "diff": []
+  },
+  {
+    "now_sha": "dacb5d17c0b1a66d50a55157a3247aa479a7e607",
+    "next_sha": "942d6b74799860ed881345d5b0333b34f9dd94e6",
+    "index": 166517,
+    "diff": []
+  },
+  {
+    "now_sha": "942d6b74799860ed881345d5b0333b34f9dd94e6",
+    "next_sha": "9828989da879d35bb28a425e7fe5dbe59d137d7f",
+    "index": 166518,
+    "diff": []
+  },
+  {
+    "now_sha": "9828989da879d35bb28a425e7fe5dbe59d137d7f",
+    "next_sha": "cab540c99addebd0a232ab46041dc559ef643fa7",
+    "index": 166519,
+    "diff": []
+  },
+  {
+    "now_sha": "cab540c99addebd0a232ab46041dc559ef643fa7",
+    "next_sha": "bbed5f60cd2efbbc3f1032a4e7f9fe393a1760af",
+    "index": 166520,
+    "diff": []
+  },
+  {
+    "now_sha": "bbed5f60cd2efbbc3f1032a4e7f9fe393a1760af",
+    "next_sha": "66000db8a7ac0fe57c920c514eca00b4eb1475c5",
+    "index": 166521,
+    "diff": []
+  },
+  {
+    "now_sha": "66000db8a7ac0fe57c920c514eca00b4eb1475c5",
+    "next_sha": "77be16f360f2c8837a82d27191eaa4424a37f951",
+    "index": 166522,
+    "diff": []
+  },
+  {
+    "now_sha": "77be16f360f2c8837a82d27191eaa4424a37f951",
+    "next_sha": "791451840181694647b30422a9871e2cee42b753",
+    "index": 166523,
+    "diff": []
+  },
+  {
+    "now_sha": "791451840181694647b30422a9871e2cee42b753",
+    "next_sha": "55bdf09addf768b721d0f332082e72137986046f",
+    "index": 166524,
+    "diff": []
+  },
+  {
+    "now_sha": "55bdf09addf768b721d0f332082e72137986046f",
+    "next_sha": "dbad52fd800e75cd6e7c3d465715d63e0707eadb",
+    "index": 166525,
+    "diff": [
+      {
+        "change_type": "added",
+        "manifest": ".github/workflows/osv-scanner-scheduled.yml",
+        "ecosystem": "actions",
+        "name": "google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml",
+        "version": "1.8.1",
+        "package_url": "pkg:githubactions/google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml@1.8.1",
+        "license": null,
+        "source_repository_url": "https://github.com/google/osv-scanner-action",
+        "scope": "runtime",
+        "vulnerabilities": []
+      },
+      {
+        "change_type": "removed",
+        "manifest": ".github/workflows/osv-scanner-scheduled.yml",
+        "ecosystem": "actions",
+        "name": "google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml",
+        "version": "1.7.4",
+        "package_url": "pkg:githubactions/google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml@1.7.4",
+        "license": null,
+        "source_repository_url": "https://github.com/google/osv-scanner-action",
+        "scope": "runtime",
+        "vulnerabilities": []
+      },
+      {
+        "change_type": "added",
+        "manifest": ".github/workflows/scorecards-analysis.yml",
+        "ecosystem": "actions",
+        "name": "github/codeql-action/upload-sarif",
+        "version": "b611370bb5703a7efb587f9d136a52ea24c5c38c",
+        "package_url": "pkg:githubactions/github/codeql-action/upload-sarif@b611370bb5703a7efb587f9d136a52ea24c5c38c",
+        "license": null,
+        "source_repository_url": "https://github.com/github/codeql-action",
+        "scope": "runtime",
+        "vulnerabilities": []
+      },
+      {
+        "change_type": "removed",
+        "manifest": ".github/workflows/scorecards-analysis.yml",
+        "ecosystem": "actions",
+        "name": "github/codeql-action/upload-sarif",
+        "version": "23acc5c183826b7a8a97bce3cecc52db901f8251",
+        "package_url": "pkg:githubactions/github/codeql-action/upload-sarif@23acc5c183826b7a8a97bce3cecc52db901f8251",
+        "license": null,
+        "source_repository_url": "https://github.com/github/codeql-action",
+        "scope": "runtime",
+        "vulnerabilities": []
+      }
+    ]
+  },
+  {
+    "now_sha": "dbad52fd800e75cd6e7c3d465715d63e0707eadb",
+    "next_sha": "9c12849bbb543e0c9640a35feceed8573d5cc588",
+    "index": 166526,
+    "diff": []
+  },
+  {
+    "now_sha": "9c12849bbb543e0c9640a35feceed8573d5cc588",
+    "next_sha": "3d520ff5c343668f1f980983f14d6311b8d2ceb8",
+    "index": 166527,
+    "diff": []
+  },
+  {
+    "now_sha": "3d520ff5c343668f1f980983f14d6311b8d2ceb8",
+    "next_sha": "ed032f9ec56afda64f401abae3e56df8cf3b61a9",
+    "index": 166528,
+    "diff": []
+  },
+  {
+    "now_sha": "ed032f9ec56afda64f401abae3e56df8cf3b61a9",
+    "next_sha": "d98accb547f5d8423476d090395845cfcff09157",
+    "index": 166529,
+    "diff": []
+  },
+  {
+    "now_sha": "d98accb547f5d8423476d090395845cfcff09157",
+    "next_sha": "1c173a2f16983fd05dffd282442d8c4d37ecb392",
+    "index": 166530,
+    "diff": []
+  },
+  {
+    "now_sha": "1c173a2f16983fd05dffd282442d8c4d37ecb392",
+    "next_sha": "315d4e0f7cbf4b7161f8e5f83b95b95e265df162",
+    "index": 166531,
+    "diff": []
+  },
+  {
+    "now_sha": "315d4e0f7cbf4b7161f8e5f83b95b95e265df162",
+    "next_sha": "fa2c0796861795885ab32e8bb3557c5be58e0146",
+    "index": 166532,
+    "diff": []
+  },
+  {
+    "now_sha": "fa2c0796861795885ab32e8bb3557c5be58e0146",
+    "next_sha": "d2fc0696d4ad061a3594f04a7083dc74d9764fc3",
+    "index": 166533,
+    "diff": []
+  },
+  {
+    "now_sha": "d2fc0696d4ad061a3594f04a7083dc74d9764fc3",
+    "next_sha": "cf23069bf55d7e8506103d62de46ee815c1cd53d",
+    "index": 166534,
+    "diff": []
+  },
+  {
+    "now_sha": "cf23069bf55d7e8506103d62de46ee815c1cd53d",
+    "next_sha": "d69835a8ab0611771585cca11a6171f7f42a3183",
+    "index": 166535,
+    "diff": []
+  },
+  {
+    "now_sha": "d69835a8ab0611771585cca11a6171f7f42a3183",
+    "next_sha": "0aa0ac5ed3d6601abf6bad3f4b4f9303795a3326",
+    "index": 166536,
+    "diff": []
+  },
+  {
+    "now_sha": "0aa0ac5ed3d6601abf6bad3f4b4f9303795a3326",
+    "next_sha": "793037f2508ac82f10e09ad4669c47a23d2bdf28",
+    "index": 166537,
+    "diff": []
+  },
+  {
+    "now_sha": "793037f2508ac82f10e09ad4669c47a23d2bdf28",
+    "next_sha": "d4aed78bcd70ddeb8952d29efa2a3b1e3b5d7711",
+    "index": 166538,
+    "diff": []
+  },
+  {
+    "now_sha": "d4aed78bcd70ddeb8952d29efa2a3b1e3b5d7711",
+    "next_sha": "e51fd3852844f109a5df5a90ec7d677cf5ae7dfe",
+    "index": 166539,
+    "diff": []
+  },
+  {
+    "now_sha": "e51fd3852844f109a5df5a90ec7d677cf5ae7dfe",
+    "next_sha": "8e79153ea6147b9cce55253db82ddeedf522b2c4",
+    "index": 166540,
+    "diff": []
+  },
+  {
+    "now_sha": "8e79153ea6147b9cce55253db82ddeedf522b2c4",
+    "next_sha": "26715f1df5f4c16aad62474c6ecca28f2ece02de",
+    "index": 166541,
+    "diff": []
+  },
+  {
+    "now_sha": "26715f1df5f4c16aad62474c6ecca28f2ece02de",
+    "next_sha": "b9f11bf1421196592bed0b69b6a3dc7486b91847",
+    "index": 166542,
+    "diff": []
+  },
+  {
+    "now_sha": "b9f11bf1421196592bed0b69b6a3dc7486b91847",
+    "next_sha": "dec498f5307bf2079903426ea3706c256d40ff4b",
+    "index": 166543,
+    "diff": []
+  },
+  {
+    "now_sha": "dec498f5307bf2079903426ea3706c256d40ff4b",
+    "next_sha": "4350b3c33687c1b7ade157d298e1e8b61d2bb5e1",
+    "index": 166544,
+    "diff": []
+  },
+  {
+    "now_sha": "4350b3c33687c1b7ade157d298e1e8b61d2bb5e1",
+    "next_sha": "7e813d901df08d7e671701e9979e5b4250d79f3a",
+    "index": 166545,
+    "diff": []
+  },
+  {
+    "now_sha": "7e813d901df08d7e671701e9979e5b4250d79f3a",
+    "next_sha": "c362a6e11d6ac0d8e2d9555fab6f1655ced53bd5",
+    "index": 166546,
+    "diff": []
+  },
+  {
+    "now_sha": "c362a6e11d6ac0d8e2d9555fab6f1655ced53bd5",
+    "next_sha": "f3e2f85f613c0fb071e23a95de221978bcf67105",
+    "index": 166547,
+    "diff": []
+  },
+  {
+    "now_sha": "f3e2f85f613c0fb071e23a95de221978bcf67105",
+    "next_sha": "c7b69889fa954eaad8911ff45dfaf564b53dbd77",
+    "index": 166548,
+    "diff": []
+  },
+  {
+    "now_sha": "c7b69889fa954eaad8911ff45dfaf564b53dbd77",
+    "next_sha": "f79cfa4e6de05c38a589cdbd3560da42ad1af8dd",
+    "index": 166549,
+    "diff": []
+  },
+  {
+    "now_sha": "f79cfa4e6de05c38a589cdbd3560da42ad1af8dd",
+    "next_sha": "496884ae51bfc0e099efc741298ab834a76fa0a2",
+    "index": 166550,
+    "diff": []
+  },
+  {
+    "now_sha": "496884ae51bfc0e099efc741298ab834a76fa0a2",
+    "next_sha": "6461858b03f982c254ed064f5f58a36788781217",
+    "index": 166551,
+    "diff": []
+  },
+  {
+    "now_sha": "6461858b03f982c254ed064f5f58a36788781217",
+    "next_sha": "42643b1f3fac6aca88967bde29410053bb3a0eb0",
+    "index": 166552,
+    "diff": []
+  },
+  {
+    "now_sha": "42643b1f3fac6aca88967bde29410053bb3a0eb0",
+    "next_sha": "a295297c2cd8508bee05c1962f0401008bb02129",
+    "index": 166553,
+    "diff": []
+  },
+  {
+    "now_sha": "a295297c2cd8508bee05c1962f0401008bb02129",
+    "next_sha": "f6c32c1095579187a073c4d5713919d96e6063da",
+    "index": 166554,
+    "diff": []
+  },
+  {
+    "now_sha": "f6c32c1095579187a073c4d5713919d96e6063da",
+    "next_sha": "13a1945d4b6357c3ca57d2cf3c91a495d84712df",
+    "index": 166555,
+    "diff": []
+  },
+  {
+    "now_sha": "13a1945d4b6357c3ca57d2cf3c91a495d84712df",
+    "next_sha": "b349a8bad4be3376d0b53b64b2de1ca75c071916",
+    "index": 166556,
+    "diff": []
+  },
+  {
+    "now_sha": "b349a8bad4be3376d0b53b64b2de1ca75c071916",
+    "next_sha": "ae15997d5587e52c20eb59bbc4f75cc71494be32",
+    "index": 166557,
+    "diff": []
+  },
+  {
+    "now_sha": "ae15997d5587e52c20eb59bbc4f75cc71494be32",
+    "next_sha": "6d418ae13816741030e32b8170d962d681c1a26c",
+    "index": 166558,
+    "diff": []
+  },
+  {
+    "now_sha": "6d418ae13816741030e32b8170d962d681c1a26c",
+    "next_sha": "01e604e96bad1031b97312843476a820ba5ce789",
+    "index": 166559,
+    "diff": []
+  },
+  {
+    "now_sha": "01e604e96bad1031b97312843476a820ba5ce789",
+    "next_sha": "fbf63f935c2977333103703b5fa769bf6b831635",
+    "index": 166560,
+    "diff": []
+  },
+  {
+    "now_sha": "fbf63f935c2977333103703b5fa769bf6b831635",
+    "next_sha": "35e04571c2a0e1f608705cba0f4e29ab01142961",
+    "index": 166561,
+    "diff": []
+  },
+  {
+    "now_sha": "35e04571c2a0e1f608705cba0f4e29ab01142961",
+    "next_sha": "fbee6d7c0fb109c780114c16e9af339ccbcc36e0",
+    "index": 166562,
+    "diff": []
+  },
+  {
+    "now_sha": "fbee6d7c0fb109c780114c16e9af339ccbcc36e0",
+    "next_sha": "af24d3f061a0bbbcb018ce607321b862fdae694d",
+    "index": 166563,
+    "diff": []
+  },
+  {
+    "now_sha": "af24d3f061a0bbbcb018ce607321b862fdae694d",
+    "next_sha": "00fa65eff2f41213f1c6375eff12fae680f8e070",
+    "index": 166564,
+    "diff": []
+  },
+  {
+    "now_sha": "00fa65eff2f41213f1c6375eff12fae680f8e070",
+    "next_sha": "45395535f545b86ef017ba1c407d1a0545519d8f",
+    "index": 166565,
+    "diff": []
+  },
+  {
+    "now_sha": "45395535f545b86ef017ba1c407d1a0545519d8f",
+    "next_sha": "8b2067a4a1039e0edcb19bab9f9fa71a8941e385",
+    "index": 166566,
+    "diff": []
+  },
+  {
+    "now_sha": "8b2067a4a1039e0edcb19bab9f9fa71a8941e385",
+    "next_sha": "8f6cf3b3ece9e7b006ce60b5cae6011c5c39d925",
+    "index": 166567,
+    "diff": []
+  },
+  {
+    "now_sha": "8f6cf3b3ece9e7b006ce60b5cae6011c5c39d925",
+    "next_sha": "9de55d0d99d1a3fbab16677bbf9041dce3ce4d69",
+    "index": 166568,
+    "diff": []
+  },
+  {
+    "now_sha": "9de55d0d99d1a3fbab16677bbf9041dce3ce4d69",
+    "next_sha": "cda332fdde0a9c95f6b7654298693a87e6289ef6",
+    "index": 166569,
+    "diff": []
+  },
+  {
+    "now_sha": "cda332fdde0a9c95f6b7654298693a87e6289ef6",
+    "next_sha": "24492e46fd63c2e9ad1c70b1f7d329a1a3e2cc53",
+    "index": 166570,
+    "diff": []
+  },
+  {
+    "now_sha": "24492e46fd63c2e9ad1c70b1f7d329a1a3e2cc53",
+    "next_sha": "a8a989d94e858fe1ca0a88ce8e22a4706a2b9bd5",
+    "index": 166571,
+    "diff": []
+  },
+  {
+    "now_sha": "a8a989d94e858fe1ca0a88ce8e22a4706a2b9bd5",
+    "next_sha": "074e3ca60d69796b5034e802484575ea7c09792e",
+    "index": 166572,
+    "diff": []
+  },
+  {
+    "now_sha": "074e3ca60d69796b5034e802484575ea7c09792e",
+    "next_sha": "e7ef2516b41107039f649478883ec125a5cdc04e",
+    "index": 166573,
+    "diff": []
+  },
+  {
+    "now_sha": "e7ef2516b41107039f649478883ec125a5cdc04e",
+    "next_sha": "325ad279b4cf5e5653fbc21d93861e110b725546",
+    "index": 166574,
+    "diff": []
+  },
+  {
+    "now_sha": "325ad279b4cf5e5653fbc21d93861e110b725546",
+    "next_sha": "b643dcd5dc2e50e6c9d64cb0840de48611b3742f",
+    "index": 166575,
+    "diff": []
+  },
+  {
+    "now_sha": "b643dcd5dc2e50e6c9d64cb0840de48611b3742f",
+    "next_sha": "67f6403c2ce8b1ef4abd02b06a1385c38b33598b",
+    "index": 166576,
+    "diff": []
+  },
+  {
+    "now_sha": "67f6403c2ce8b1ef4abd02b06a1385c38b33598b",
+    "next_sha": "08f04c957d2f1a5e46245315b09d981df5e74cc4",
+    "index": 166577,
+    "diff": []
+  },
+  {
+    "now_sha": "08f04c957d2f1a5e46245315b09d981df5e74cc4",
+    "next_sha": "12875875654008d34eb3c6b16ea77b03aa2c71aa",
+    "index": 166578,
+    "diff": []
+  },
+  {
+    "now_sha": "12875875654008d34eb3c6b16ea77b03aa2c71aa",
+    "next_sha": "9618cfac32859692521895971f1284faaf6bcf49",
+    "index": 166579,
+    "diff": []
+  },
+  {
+    "now_sha": "9618cfac32859692521895971f1284faaf6bcf49",
+    "next_sha": "5d2081964e334506a200e27152f6ffde39701fa4",
+    "index": 166580,
+    "diff": []
+  },
+  {
+    "now_sha": "5d2081964e334506a200e27152f6ffde39701fa4",
+    "next_sha": "acafb2eadb96817a6cecc351d4cbf50ea3305ad4",
+    "index": 166581,
+    "diff": []
+  },
+  {
+    "now_sha": "acafb2eadb96817a6cecc351d4cbf50ea3305ad4",
+    "next_sha": "f778921432cc69e323dfc8a7ea4c0aaa55b86e67",
+    "index": 166582,
+    "diff": []
+  },
+  {
+    "now_sha": "f778921432cc69e323dfc8a7ea4c0aaa55b86e67",
+    "next_sha": "aa8770c6855cfb6fdb5e31f2c26c0ba18ed2a236",
+    "index": 166583,
+    "diff": []
+  },
+  {
+    "now_sha": "aa8770c6855cfb6fdb5e31f2c26c0ba18ed2a236",
+    "next_sha": "1e84cc084bdef1147337cc6934b81f86a5735f29",
+    "index": 166584,
+    "diff": []
+  },
+  {
+    "now_sha": "1e84cc084bdef1147337cc6934b81f86a5735f29",
+    "next_sha": "d27e195891617688bb867fa466fecac50b22fe39",
+    "index": 166585,
+    "diff": []
+  },
+  {
+    "now_sha": "d27e195891617688bb867fa466fecac50b22fe39",
+    "next_sha": "bd1a7a184f47e4e8c99c2245d346e1ca07b39ee5",
+    "index": 166586,
+    "diff": []
+  },
+  {
+    "now_sha": "bd1a7a184f47e4e8c99c2245d346e1ca07b39ee5",
+    "next_sha": "26efe10962df174862e0f4e426932b8e5e2a63b5",
+    "index": 166587,
+    "diff": []
+  },
+  {
+    "now_sha": "26efe10962df174862e0f4e426932b8e5e2a63b5",
+    "next_sha": "bb1e54dd75230256ce943f22ce0e4a3113830fa8",
+    "index": 166588,
+    "diff": []
+  },
+  {
+    "now_sha": "bb1e54dd75230256ce943f22ce0e4a3113830fa8",
+    "next_sha": "54c91ee6a958d2fbc63d4d66d98216b7ab352d9c",
+    "index": 166589,
+    "diff": []
+  },
+  {
+    "now_sha": "54c91ee6a958d2fbc63d4d66d98216b7ab352d9c",
+    "next_sha": "b9188d19e3fff88783d7bda63667eae00b2c0f96",
+    "index": 166590,
+    "diff": []
+  },
+  {
+    "now_sha": "b9188d19e3fff88783d7bda63667eae00b2c0f96",
+    "next_sha": "ac01bdf5c12b36c19794dabcd56fecb6d17394ff",
+    "index": 166591,
+    "diff": []
+  },
+  {
+    "now_sha": "ac01bdf5c12b36c19794dabcd56fecb6d17394ff",
+    "next_sha": "599af36f17ff26f5986fb8afcc0ce836bb952471",
+    "index": 166592,
+    "diff": []
+  },
+  {
+    "now_sha": "599af36f17ff26f5986fb8afcc0ce836bb952471",
+    "next_sha": "49d64711af8a28aafb1eca4cdf20661a5511700e",
+    "index": 166593,
+    "diff": []
+  },
+  {
+    "now_sha": "49d64711af8a28aafb1eca4cdf20661a5511700e",
+    "next_sha": "defb406daf1be33d23769ac87719eae510d83a95",
+    "index": 166594,
+    "diff": []
+  },
+  {
+    "now_sha": "defb406daf1be33d23769ac87719eae510d83a95",
+    "next_sha": "d72d476f0abfcdf73e38d6f1106a332a7ee59cb3",
+    "index": 166595,
+    "diff": []
+  },
+  {
+    "now_sha": "d72d476f0abfcdf73e38d6f1106a332a7ee59cb3",
+    "next_sha": "bc7adbed40e29919dd3f1ea87b02a39b18bbee3f",
+    "index": 166596,
+    "diff": [
+      {
+        "change_type": "removed",
+        "manifest": "requirements_lock_3_11.txt",
+        "ecosystem": "pip",
+        "name": "urllib3",
+        "version": "2.2.1",
+        "package_url": "pkg:pypi/urllib3@2.2.1",
+        "license": "MIT",
+        "source_repository_url": "https://github.com/urllib3/urllib3",
+        "scope": "runtime",
+        "vulnerabilities": [
+          {
+            "severity": "moderate",
+            "advisory_ghsa_id": "GHSA-34jh-p97f-mpxf",
+            "advisory_summary": "urllib3's Proxy-Authorization request header isn't stripped during cross-origin redirects ",
+            "advisory_url": "https://github.com/advisories/GHSA-34jh-p97f-mpxf"
+          }
+        ]
+      },
+      {
+        "change_type": "added",
+        "manifest": "requirements_lock_3_11.txt",
+        "ecosystem": "pip",
+        "name": "urllib3",
+        "version": "2.2.2",
+        "package_url": "pkg:pypi/urllib3@2.2.2",
+        "license": "MIT",
+        "source_repository_url": "https://github.com/urllib3/urllib3",
+        "scope": "runtime",
+        "vulnerabilities": []
+      },
+      {
+        "change_type": "removed",
+        "manifest": "requirements_lock_3_12.txt",
+        "ecosystem": "pip",
+        "name": "urllib3",
+        "version": "2.2.1",
+        "package_url": "pkg:pypi/urllib3@2.2.1",
+        "license": "MIT",
+        "source_repository_url": "https://github.com/urllib3/urllib3",
+        "scope": "runtime",
+        "vulnerabilities": [
+          {
+            "severity": "moderate",
+            "advisory_ghsa_id": "GHSA-34jh-p97f-mpxf",
+            "advisory_summary": "urllib3's Proxy-Authorization request header isn't stripped during cross-origin redirects ",
+            "advisory_url": "https://github.com/advisories/GHSA-34jh-p97f-mpxf"
+          }
+        ]
+      },
+      {
+        "change_type": "added",
+        "manifest": "requirements_lock_3_12.txt",
+        "ecosystem": "pip",
+        "name": "urllib3",
+        "version": "2.2.2",
+        "package_url": "pkg:pypi/urllib3@2.2.2",
+        "license": "MIT",
+        "source_repository_url": "https://github.com/urllib3/urllib3",
+        "scope": "runtime",
+        "vulnerabilities": []
+      },
+      {
+        "change_type": "removed",
+        "manifest": "requirements_lock_3_9.txt",
+        "ecosystem": "pip",
+        "name": "urllib3",
+        "version": "2.2.1",
+        "package_url": "pkg:pypi/urllib3@2.2.1",
+        "license": "MIT",
+        "source_repository_url": "https://github.com/urllib3/urllib3",
+        "scope": "runtime",
+        "vulnerabilities": [
+          {
+            "severity": "moderate",
+            "advisory_ghsa_id": "GHSA-34jh-p97f-mpxf",
+            "advisory_summary": "urllib3's Proxy-Authorization request header isn't stripped during cross-origin redirects ",
+            "advisory_url": "https://github.com/advisories/GHSA-34jh-p97f-mpxf"
+          }
+        ]
+      },
+      {
+        "change_type": "added",
+        "manifest": "requirements_lock_3_9.txt",
+        "ecosystem": "pip",
+        "name": "urllib3",
+        "version": "2.2.2",
+        "package_url": "pkg:pypi/urllib3@2.2.2",
+        "license": "MIT",
+        "source_repository_url": "https://github.com/urllib3/urllib3",
+        "scope": "runtime",
+        "vulnerabilities": []
+      }
+    ]
+  },
+  {
+    "now_sha": "bc7adbed40e29919dd3f1ea87b02a39b18bbee3f",
+    "next_sha": "bee32c6d843f2682ef1329a93856420031c0ac42",
+    "index": 166597,
+    "diff": []
+  },
+  {
+    "now_sha": "bee32c6d843f2682ef1329a93856420031c0ac42",
+    "next_sha": "317aaf633bf63cc77808ae7948d61accc9cda0ee",
+    "index": 166598,
+    "diff": []
+  },
+  {
+    "now_sha": "317aaf633bf63cc77808ae7948d61accc9cda0ee",
+    "next_sha": "9e805400dfa0de536eb1e5e4be8131a6c4adbdb1",
+    "index": 166599,
+    "diff": []
+  },
+  {
+    "now_sha": "9e805400dfa0de536eb1e5e4be8131a6c4adbdb1",
+    "next_sha": "aa5eacac593d3383904b1ad6ae6616596698a610",
+    "index": 166600,
+    "diff": []
+  }
+]
