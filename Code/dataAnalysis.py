@@ -1,12 +1,9 @@
 import pandas as pd
 import os
 import json
-import git
 import re
 
 analyse_type = "tensorflow"
-tf_dir = "../Github Repository/" + analyse_type
-repo = git.Repo(tf_dir)
 
 def dealList(list, type="df"):
     list = sorted(list, key=lambda x: x["commit_time"])
@@ -54,14 +51,6 @@ def dealList(list, type="df"):
             datelist += df[col].tolist()
         return datelist
 
-def getCommitInformation(sha):
-    commit = repo.commit(sha)
-    commitItem = {
-        "commit_time": commit.committed_datetime.isoformat(),
-        "commit_message": commit.message,
-    }
-    return commitItem
-
 # rq1 analyse the frequency of dependency change
 def analyseDepChangeFrequence():
     fileList = os.listdir("../Data/" + analyse_type + "/dependency change data")
@@ -71,7 +60,6 @@ def analyseDepChangeFrequence():
             data = f.read()
         sourceData = json.loads(data)
         for item in sourceData:
-            commitItem = getCommitInformation(item["next_sha"])
             updateDiffList = []
             depDict = {}
             for diff in item["diff"]:
@@ -88,7 +76,6 @@ def analyseDepChangeFrequence():
                 {
                     "index": item["index"],
                     "next_sha": item["next_sha"],
-                    "commit_time": commitItem["commit_time"],
                     "diff": updateDiffList,
                 }
             )
@@ -312,7 +299,7 @@ def analyseDependencyChangeWithReason():
     with open("../Result/RQ1/ChangeReason/" + analyse_type + "_data.json", "w") as f:
         json.dump(filterdata, f)
 
-# rq2 analyse introduced and repaired vulnerabilities
+# rq2 analyse vulnerabilities severity
 def analyseVulnerabilitySeverity():
     with open("../Data/" + analyse_type + "/dependencyVulsChangeList.json", "r") as f:
         cveCycleDatalist = json.load(f)
@@ -449,7 +436,7 @@ def main():
     # analyseDependencyChangeWithReason()
     # analyseVulnerabilitySeverity()
     # analyseVulnerabilityChangePattern()
-    
+
 
 
 if __name__ == "__main__":
