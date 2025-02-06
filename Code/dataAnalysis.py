@@ -4,7 +4,7 @@ import json
 import git
 import re
 
-analyse_type = "pytorch"
+analyse_type = "tensorflow"
 tf_dir = "../Github Repository/" + analyse_type
 repo = git.Repo(tf_dir)
 
@@ -230,7 +230,7 @@ def analyseDependencyChangePattern():
                 target = list(node_dict.keys()).index(dep_pair[1])
                 f.write(f"{source},{target},{value}\n")
 
-# rq1 filter ddependency change with reason
+# rq1 filter dependency change with reason
 def analyseDependencyChangeWithReason():
     difflist = []
     with open("../Data/" + analyse_type + "/dependencyChangeList.json", "r") as f:
@@ -312,11 +312,80 @@ def analyseDependencyChangeWithReason():
     with open("../Result/RQ1/ChangeReason/" + analyse_type + "_data.json", "w") as f:
         json.dump(filterdata, f)
 
+# rq2 analyse introduced and repaired vulnerabilities
+def analyseVulnerabilitySeverity():
+    with open("../Data/" + analyse_type + "/dependencyVulsChangeList.json", "r") as f:
+        cveCycleDatalist = json.load(f)
+    introduceVulsIdSet = set()
+    vulsChangeDict = {}
+    for item in cveCycleDatalist:
+        for vul in item["introduce"]:
+            introduceVulsIdSet.add(vul['cve_id'])
+            if vul['cve_id'] not in vulsChangeDict:
+                vulsChangeDict[vul['cve_id']] = True
+            else:
+                vulsChangeDict[vul['cve_id']] = True
+        for vul in item["repair"]:
+            if vul['cve_id'] in vulsChangeDict:
+                vulsChangeDict[vul['cve_id']] = False
+    unrepairedVulsIdSet = set()
+    for key, value in vulsChangeDict.items():
+        if value:
+            unrepairedVulsIdSet.add(key)
+    dependencyCves = []
+    with open("../Data/" + analyse_type + "/dependencyCves.json", "r") as f:
+        dependencyCves = json.load(f)
+    introlist, unrepairlist = [], []
+    for cve_id in introduceVulsIdSet:
+        for item in dependencyCves:
+            for vul in item["vuls"]:
+                if vul["cve_id"] == cve_id:
+                    if vul.get("baseSeverity", None) != None and "cwe_id" in vul['baseSeverity']:
+                        introlist.append({
+                            "dependency": item["name"],
+                            "cve_id": cve_id,
+                            "baseSeverity": vul.get("baseSeverity", None),
+                        })
+    for cve_id in unrepairedVulsIdSet:
+        for item in dependencyCves:
+            for vul in item["vuls"]:
+                if vul["cve_id"] == cve_id:
+                    if vul.get("baseSeverity", None) != None and "cwe_id" in vul['baseSeverity']:
+                        unrepairlist.append({
+                            "dependency": item["name"],
+                            "cve_id": cve_id,
+                            "baseSeverity": vul.get("baseSeverity", None),
+                        })
+
+    introdict = {}
+    unrepaireddict = {}
+    for item in introlist:
+        baseSeverity = item['baseSeverity']['baseSeverity']
+        if baseSeverity in introdict:
+            introdict[baseSeverity] += 1
+        else:
+            introdict[baseSeverity] = 1
+    for item in unrepairlist:
+        baseSeverity = item['baseSeverity']['baseSeverity']
+        if baseSeverity in unrepaireddict:
+            unrepaireddict[baseSeverity] += 1
+        else:
+            unrepaireddict[baseSeverity] = 1
+    print("introduceVuls:")
+    for key, value in introdict.items():
+        print(key, value)
+    print("unrepairVuls:")
+    for key, value in unrepaireddict.items():
+        print(key, value)
+    with open("../Result/RQ2/VulnerabilitySeverity/" + analyse_type + "_introduceVuls.json", "w") as f:
+        json.dump(introlist, f)  
+    with open("../Result/RQ2/VulnerabilitySeverity/" + analyse_type + "_unrepairVuls.json", "w") as f:
+        json.dump(unrepairlist, f)   
+
 # rq2 analyse vulnerability change pattern
 def analyseVulnerabilityChangePattern():
     with open("../Data/" + analyse_type + "/dependencyVulsChangeList.json", "r") as f:
         cveCycleDatalist = json.load(f)
-    # 添加next_sha
     with open("../Data/" + analyse_type + "/dependencyChangeList.json", "r") as f:
         difflist = json.load(f)
     for item in cveCycleDatalist:
@@ -367,6 +436,9 @@ def analyseVulnerabilityChangePattern():
         f.write(
             f"Accumulated vulnerabilities removed due to updates: {upRepNum}, Number of updates: {updateNum}, Ratio: {upRepNum/updateNum}\n"
         )
+        f.write(
+            f"Sum: {introNum + repairNum + upIntroNum + upRepNum}, Number of all commits: {len(allcommitset)}, Ratio: {(introNum + repairNum + upIntroNum + upRepNum)/len(allcommitset)}\n"
+        )
 
 
 
@@ -375,7 +447,10 @@ def main():
     # analyseDepChangeFrequence()
     # analyseDependencyChangePattern()
     # analyseDependencyChangeWithReason()
-    analyseVulnerabilityChangePattern()
+    # analyseVulnerabilitySeverity()
+    # analyseVulnerabilityChangePattern()
+    
+
 
 if __name__ == "__main__":
     main()

@@ -1,1484 +1,2336 @@
 [
-  {
-    "name": "rexml",
-    "vuls": [
-      {
-        "cve_id": "CVE-2024-35176",
-        "version": [
-          "0.0.0",
-          "3.2.6"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2024-39908",
-        "version": [
-          "0.0.0",
-          "3.3.1"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2024-41123",
-        "version": [
-          "0.0.0",
-          "3.3.2"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2024-41946",
-        "version": [
-          "0.0.0",
-          "3.3.2"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      }
-    ],
-    "diff": true
-  },
-  {
-    "name": "addressable",
-    "vuls": [
-      {
-        "cve_id": "CVE-2021-32740",
-        "version": [
-          "2.3.0",
-          "2.8.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      }
-    ]
-  },
-  {
-    "name": "excon",
-    "vuls": [
-      {
-        "cve_id": "CVE-2019-16779",
-        "version": [
-          "0.0.0",
-          "0.71.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      }
-    ]
-  },
-  {
-    "name": "future",
-    "vuls": [
-      {
-        "cve_id": "CVE-2022-40899",
-        "version": [
-          "0.0.0",
-          "0.18.2"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      }
-    ],
-    "diff": false
-  },
-  {
-    "name": "IPython",
-    "vuls": [
-      {
-        "cve_id": "CVE-2014-3429",
-        "version": [
-          "1.0.0",
-          "1.2.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2015-6938",
-        "version": [
-          "3.0.0",
-          "3.2.2"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2015-7337",
-        "version": [
-          "3.0.0",
-          "3.2.2"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2015-5607",
-        "version": [
-          "2.0.0",
-          "4.0.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2015-4707",
-        "version": [
-          "3.0.0",
-          "3.2.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2015-4706",
-        "version": [
-          "3.0.0",
-          "3.2.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2022-21699",
-        "version": [
-          "0.0.0",
-          "8.0.1"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2023-24816",
-        "version": [
-          "0.0.0",
-          "8.1.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      }
-    ],
-    "diff": false
-  },
-  {
-    "name": "jinja2",
-    "vuls": [
-      {
-        "cve_id": "CVE-2014-0012",
-        "version": [
-          "2.7.2",
-          "2.7.2"
-        ],
-        "border": [
-          true,
-          true
-        ]
-      },
-      {
-        "cve_id": "CVE-2020-28493",
-        "version": [
-          "0.0.0",
-          "2.11.3"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      }
-    ]
-  },
-  {
-    "name": "jmespath",
-    "vuls": [
-      {
-        "cve_id": "CVE-2022-32511",
-        "version": [
-          "0.0.0",
-          "1.6.1"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      }
-    ],
-    "diff": false
-  },
-  {
-    "name": "jsdom",
-    "vuls": [
-      {
-        "cve_id": "CVE-2021-20066",
-        "version": [
-          "0.0.0",
-          "16.5.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      }
-    ]
-  },
-  {
-    "name": "json",
-    "vuls": [
-      {
-        "cve_id": "CVE-2017-14064",
-        "version": [
-          "0.0.0",
-          "2.2.8"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2020-10663",
-        "version": [
-          "0.0.0",
-          "2.3.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      }
-    ]
-  },
-  {
-    "name": "lodash",
-    "vuls": [
-      {
-        "cve_id": "CVE-2018-3721",
-        "version": [
-          "0.0.0",
-          "4.17.5"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2019-1010266",
-        "version": [
-          "0.0.0",
-          "4.17.11"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2020-8203",
-        "version": [
-          "0.0.0",
-          "4.17.20"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2020-28500",
-        "version": [
-          "0.0.0",
-          "4.17.21"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2021-23337",
-        "version": [
-          "0.0.0",
-          "4.17.21"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2018-16487",
-        "version": [
-          "0.0.0",
-          "4.17.11"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2019-10744",
-        "version": [
-          "0.0.0",
-          "4.17.12"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      }
-    ]
-  },
-  {
-    "name": "lxml",
-    "vuls": [
-      {
-        "cve_id": "CVE-2018-19787",
-        "version": [
-          "0.0.0",
-          "4.2.5"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2021-28957",
-        "version": [
-          "0.0.0",
-          "4.6.3"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2021-43818",
-        "version": [
-          "0.0.0",
-          "4.6.5"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2022-2309",
-        "version": [
-          "0.0.0",
-          "4.9.1"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      }
-    ],
-    "diff": false
-  },
-  {
-    "name": "mpmath",
-    "vuls": [
-      {
-        "cve_id": "CVE-2021-29063",
-        "version": [
-          "0.0.0",
-          "1.3.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      }
-    ]
-  },
-  {
-    "name": "multi_xml",
-    "vuls": [
-      {
-        "cve_id": "CVE-2013-0175",
-        "version": [
-          "0.0.0",
-          "0.5.2"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      }
-    ],
-    "diff": false
-  },
-  {
-    "name": "numpy",
-    "vuls": [
-      {
-        "cve_id": "CVE-2017-12852",
-        "version": [
-          "0.0.0",
-          "1.13.1"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2014-1858",
-        "version": [
-          "0.0.0",
-          "1.8.1"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2014-1859",
-        "version": [
-          "0.0.0",
-          "1.8.1"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2019-6446",
-        "version": [
-          "0.0.0",
-          "1.16.0"
-        ],
-        "border": [
-          true,
-          true
-        ]
-      },
-      {
-        "cve_id": "CVE-2021-33430",
-        "version": [
-          "1.9.0",
-          "1.10.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2021-34141",
-        "version": [
-          "0.0.0",
-          "1.22.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2021-41495",
-        "version": [
-          "0.0.0",
-          "1.20.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2021-41496",
-        "version": [
-          "0.0.0",
-          "1.19.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      }
-    ]
-  },
-  {
-    "name": "pillow",
-    "vuls": [
-      {
-        "cve_id": "CVE-2014-1932",
-        "version": [
-          "0.0.0",
-          "2.3.1"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2014-1933",
-        "version": [
-          "0.0.0",
-          "2.3.1"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2014-3589",
-        "version": [
-          "0.0.0",
-          "2.3.2"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2014-9601",
-        "version": [
-          "0.0.0",
-          "2.7.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2016-0740",
-        "version": [
-          "0.0.0",
-          "3.1.1"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2016-0775",
-        "version": [
-          "0.0.0",
-          "3.1.1"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2016-2533",
-        "version": [
-          "0.0.0",
-          "3.1.1"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2016-4009",
-        "version": [
-          "0.0.0",
-          "3.1.1"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2016-9189",
-        "version": [
-          "0.0.0",
-          "3.3.2"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2016-9190",
-        "version": [
-          "0.0.0",
-          "3.3.2"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2020-5310",
-        "version": [
-          "0.0.0",
-          "6.2.2"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2020-5311",
-        "version": [
-          "0.0.0",
-          "6.2.2"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2020-5312",
-        "version": [
-          "0.0.0",
-          "6.2.2"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2020-5313",
-        "version": [
-          "0.0.0",
-          "6.2.2"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2020-10177",
-        "version": [
-          "0.0.0",
-          "7.1.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2020-10378",
-        "version": [
-          "0.0.0",
-          "7.1.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2020-10379",
-        "version": [
-          "0.0.0",
-          "7.1.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2020-10994",
-        "version": [
-          "0.0.0",
-          "7.1.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2020-11538",
-        "version": [
-          "0.0.0",
-          "7.0.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2021-25287",
-        "version": [
-          "0.0.0",
-          "8.2.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2021-25288",
-        "version": [
-          "0.0.0",
-          "8.2.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2021-28676",
-        "version": [
-          "0.0.0",
-          "8.2.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2021-28677",
-        "version": [
-          "0.0.0",
-          "8.2.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2021-28678",
-        "version": [
-          "0.0.0",
-          "8.2.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2021-23437",
-        "version": [
-          "0.0.0",
-          "8.3.2"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2022-22815",
-        "version": [
-          "0.0.0",
-          "9.0.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2022-22816",
-        "version": [
-          "0.0.0",
-          "9.0.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2022-24303",
-        "version": [
-          "0.0.0",
-          "9.0.1"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2022-30595",
-        "version": [
-          "0.0.0",
-          "9.1.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2022-45198",
-        "version": [
-          "0.0.0",
-          "9.2.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2022-45199",
-        "version": [
-          "0.0.0",
-          "9.3.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2023-44271",
-        "version": [
-          "0.0.0",
-          "10.0.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      }
-    ]
-  },
-  {
-    "name": "plist",
-    "vuls": [
-      {
-        "cve_id": "CVE-2021-33575",
-        "version": [
-          "0.0.0",
-          "1.6.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      }
-    ],
-    "diff": false
-  },
-  {
-    "name": "protobuf",
-    "vuls": [
-      {
-        "cve_id": "CVE-2015-5237",
-        "version": [
-          "0.0.0",
-          "3.4.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2022-1941",
-        "version": [
-          "0.0.0",
-          "3.18.3"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2022-1941",
-        "version": [
-          "3.19.0",
-          "3.19.5"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2022-1941",
-        "version": [
-          "3.20.0",
-          "3.20.2"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2022-1941",
-        "version": [
-          "4.21.0",
-          "4.21.6"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2022-3171",
-        "version": [
-          "0.0.0",
-          "3.21.7"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2022-3509",
-        "version": [
-          "0.0.0",
-          "3.21.7"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2022-3510",
-        "version": [
-          "0.0.0",
-          "3.21.7"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      }
-    ]
-  },
-  {
-    "name": "psutil",
-    "vuls": [
-      {
-        "cve_id": "CVE-2019-18874",
-        "version": [
-          "0.0.0",
-          "5.6.6"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      }
-    ],
-    "diff": false
-  },
-  {
-    "name": "pygments",
-    "vuls": [
-      {
-        "cve_id": "CVE-2021-27291",
-        "version": [
-          "1.1.0",
-          "2.7.4"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2022-40896",
-        "version": [
-          "0.0.0",
-          "2.15.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      }
-    ]
-  },
-  {
-    "name": "pyyaml",
-    "vuls": [
-      {
-        "cve_id": "CVE-2017-18342",
-        "version": [
-          "0.0.0",
-          "5.1.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2019-20477",
-        "version": [
-          "5.1.0",
-          "5.1.2"
-        ],
-        "border": [
-          true,
-          true
-        ]
-      },
-      {
-        "cve_id": "CVE-2020-1747",
-        "version": [
-          "0.0.0",
-          "5.3.1"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2020-14343",
-        "version": [
-          "0.0.0",
-          "5.4.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      }
-    ],
-    "diff": false
-  },
-  {
-    "name": "rubyzip",
-    "vuls": [
-      {
-        "cve_id": "CVE-2017-5946",
-        "version": [
-          "0.0.0",
-          "1.2.1"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2018-1000544",
-        "version": [
-          "0.0.0",
-          "1.2.2"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2019-16892",
-        "version": [
-          "0.0.0",
-          "1.3.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      }
-    ],
-    "diff": false
-  },
-  {
-    "name": "scipy",
-    "vuls": [
-      {
-        "cve_id": "CVE-2013-4251",
-        "version": [
-          "0.0.0",
-          "0.12.1"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2023-25399",
-        "version": [
-          "0.0.0",
-          "1.10.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2023-29824",
-        "version": [
-          "0.0.0",
-          "1.8.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      }
-    ]
-  },
-  {
-    "name": "setuptools",
-    "vuls": [
-      {
-        "cve_id": "CVE-2022-40897",
-        "version": [
-          "0.0.0",
-          "65.5.1"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      }
-    ]
-  },
-  {
-    "name": "torch",
-    "vuls": [
-      {
-        "cve_id": "CVE-2022-45907",
-        "version": [
-          "0.0.0",
-          "1.13.1"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2024-31583",
-        "version": [
-          "0.0.0",
-          "2.2.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2024-31584",
-        "version": [
-          "0.0.0",
-          "2.2.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      }
-    ]
-  },
-  {
-    "name": "tqdm",
-    "vuls": [
-      {
-        "cve_id": "CVE-2016-10075",
-        "version": [
-          "4.4.1",
-          "4.4.1"
-        ],
-        "border": [
-          true,
-          true
-        ]
-      },
-      {
-        "cve_id": "CVE-2016-10075",
-        "version": [
-          "4.10.0",
-          "4.10.0"
-        ],
-        "border": [
-          true,
-          true
-        ]
-      },
-      {
-        "cve_id": "CVE-2024-34062",
-        "version": [
-          "0.0.0",
-          "4.66.3"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      }
-    ],
-    "diff": false
-  },
-  {
-    "name": "urllib3",
-    "vuls": [
-      {
-        "cve_id": "CVE-2024-37891",
-        "version": [
-          "0.0.0",
-          "2.2.3"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2018-20060",
-        "version": [
-          "0.0.0",
-          "1.23.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2019-11236",
-        "version": [
-          "0.0.0",
-          "1.25.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2019-11324",
-        "version": [
-          "0.0.0",
-          "1.24.2"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2020-7212",
-        "version": [
-          "1.25.2",
-          "1.25.7"
-        ],
-        "border": [
-          true,
-          true
-        ]
-      },
-      {
-        "cve_id": "CVE-2020-26137",
-        "version": [
-          "0.0.0",
-          "1.25.9"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2021-28363",
-        "version": [
-          "1.26.0",
-          "1.26.4"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2021-33503",
-        "version": [
-          "0.0.0",
-          "1.26.5"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2023-43804",
-        "version": [
-          "0.0.0",
-          "1.26.17"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2018-25091",
-        "version": [
-          "0.0.0",
-          "1.24.2"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2023-45803",
-        "version": [
-          "0.0.0",
-          "2.0.7"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      }
-    ]
-  },
-  {
-    "name": "webrick",
-    "vuls": [
-      {
-        "cve_id": "CVE-2020-25613",
-        "version": [
-          "0.0.0",
-          "1.6.1"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      }
-    ],
-    "diff": false
-  },
-  {
-    "name": "certifi",
-    "vuls": [
-      {
-        "cve_id": "CVE-2023-37920",
-        "version": [
-          "2015.4.28",
-          "2023.7.22"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      }
-    ]
-  },
-  {
-    "name": "requests",
-    "vuls": [
-      {
-        "cve_id": "CVE-2023-32681",
-        "version": [
-          "2.3.0",
-          "2.31.0"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Jinja2",
-    "vuls": [
-      {
-        "cve_id": "CVE-2024-22195",
-        "version": [
-          "0.0.0",
-          "3.1.3"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2014-0012",
-        "version": [
-          "0.0.0",
-          "2.7.3"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      },
-      {
-        "cve_id": "CVE-2020-28493",
-        "version": [
-          "0.0.0",
-          "2.11.3"
-        ],
-        "border": [
-          true,
-          false
-        ]
-      }
-    ]
-  }
+    {
+        "name": "rexml",
+        "vuls": [
+            {
+                "cve_id": "CVE-2024-35176",
+                "version": [
+                    "0.0.0",
+                    "3.2.6"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Secondary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 5.3,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 1.4,
+                    "cwe_id": "CWE-400"
+                }
+            },
+            {
+                "cve_id": "CVE-2024-39908",
+                "version": [
+                    "0.0.0",
+                    "3.3.1"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Secondary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 4.3,
+                    "expolitabilityScore": 2.8,
+                    "impactScore": 1.4,
+                    "cwe_id": "CWE-400"
+                }
+            },
+            {
+                "cve_id": "CVE-2024-41123",
+                "version": [
+                    "0.0.0",
+                    "3.3.2"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Secondary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 5.3,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 1.4,
+                    "cwe_id": "CWE-400"
+                }
+            },
+            {
+                "cve_id": "CVE-2024-41946",
+                "version": [
+                    "0.0.0",
+                    "3.3.2"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Secondary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 5.3,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 1.4,
+                    "cwe_id": "CWE-400"
+                }
+            }
+        ],
+        "diff": true
+    },
+    {
+        "name": "addressable",
+        "vuls": [
+            {
+                "cve_id": "CVE-2021-32740",
+                "version": [
+                    "2.3.0",
+                    "2.8.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 7.5,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 3.6,
+                    "cwe_id": "CWE-400"
+                }
+            }
+        ]
+    },
+    {
+        "name": "excon",
+        "vuls": [
+            {
+                "cve_id": "CVE-2019-16779",
+                "version": [
+                    "0.0.0",
+                    "0.71.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 5.9,
+                    "expolitabilityScore": 2.2,
+                    "impactScore": 3.6,
+                    "cwe_id": "CWE-362"
+                }
+            }
+        ]
+    },
+    {
+        "name": "future",
+        "vuls": [
+            {
+                "cve_id": "CVE-2022-40899",
+                "version": [
+                    "0.0.0",
+                    "0.18.2"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 7.5,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 3.6
+                }
+            }
+        ],
+        "diff": false
+    },
+    {
+        "name": "IPython",
+        "vuls": [
+            {
+                "cve_id": "CVE-2014-3429",
+                "version": [
+                    "1.0.0",
+                    "1.2.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 6.8,
+                    "expolitabilityScore": 8.6,
+                    "impactScore": 6.4,
+                    "cwe_id": "CWE-94"
+                }
+            },
+            {
+                "cve_id": "CVE-2015-6938",
+                "version": [
+                    "3.0.0",
+                    "3.2.2"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 4.3,
+                    "expolitabilityScore": 8.6,
+                    "impactScore": 2.9,
+                    "cwe_id": "CWE-79"
+                }
+            },
+            {
+                "cve_id": "CVE-2015-7337",
+                "version": [
+                    "3.0.0",
+                    "3.2.2"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 6.8,
+                    "expolitabilityScore": 8.6,
+                    "impactScore": 6.4,
+                    "cwe_id": "CWE-20"
+                }
+            },
+            {
+                "cve_id": "CVE-2015-5607",
+                "version": [
+                    "2.0.0",
+                    "4.0.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 8.8,
+                    "expolitabilityScore": 2.8,
+                    "impactScore": 5.9,
+                    "cwe_id": "CWE-352"
+                }
+            },
+            {
+                "cve_id": "CVE-2015-4707",
+                "version": [
+                    "3.0.0",
+                    "3.2.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 6.1,
+                    "expolitabilityScore": 2.8,
+                    "impactScore": 2.7,
+                    "cwe_id": "CWE-79"
+                }
+            },
+            {
+                "cve_id": "CVE-2015-4706",
+                "version": [
+                    "3.0.0",
+                    "3.2.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 6.1,
+                    "expolitabilityScore": 2.8,
+                    "impactScore": 2.7,
+                    "cwe_id": "CWE-79"
+                }
+            },
+            {
+                "cve_id": "CVE-2022-21699",
+                "version": [
+                    "0.0.0",
+                    "8.0.1"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 8.8,
+                    "expolitabilityScore": 2.0,
+                    "impactScore": 6.0,
+                    "cwe_id": "CWE-250"
+                }
+            },
+            {
+                "cve_id": "CVE-2023-24816",
+                "version": [
+                    "0.0.0",
+                    "8.1.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 7.0,
+                    "expolitabilityScore": 1.0,
+                    "impactScore": 5.9,
+                    "cwe_id": "CWE-78"
+                }
+            }
+        ],
+        "diff": false
+    },
+    {
+        "name": "jinja2",
+        "vuls": [
+            {
+                "cve_id": "CVE-2014-0012",
+                "version": [
+                    "2.7.2",
+                    "2.7.2"
+                ],
+                "border": [
+                    true,
+                    true
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 4.4,
+                    "expolitabilityScore": 3.4,
+                    "impactScore": 6.4,
+                    "cwe_id": "CWE-264"
+                }
+            },
+            {
+                "cve_id": "CVE-2020-28493",
+                "version": [
+                    "0.0.0",
+                    "2.11.3"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 5.3,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 1.4,
+                    "cwe_id": "CWE-400"
+                }
+            }
+        ]
+    },
+    {
+        "name": "jmespath",
+        "vuls": [
+            {
+                "cve_id": "CVE-2022-32511",
+                "version": [
+                    "0.0.0",
+                    "1.6.1"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "CRITICAL",
+                    "baseScore": 9.8,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 5.9
+                }
+            }
+        ],
+        "diff": false
+    },
+    {
+        "name": "jsdom",
+        "vuls": [
+            {
+                "cve_id": "CVE-2021-20066",
+                "version": [
+                    "0.0.0",
+                    "16.5.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 5.6,
+                    "expolitabilityScore": 2.2,
+                    "impactScore": 3.4
+                }
+            }
+        ]
+    },
+    {
+        "name": "json",
+        "vuls": [
+            {
+                "cve_id": "CVE-2017-14064",
+                "version": [
+                    "0.0.0",
+                    "2.2.8"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "CRITICAL",
+                    "baseScore": 9.8,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 5.9,
+                    "cwe_id": "CWE-119"
+                }
+            },
+            {
+                "cve_id": "CVE-2020-10663",
+                "version": [
+                    "0.0.0",
+                    "2.3.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ]
+            }
+        ]
+    },
+    {
+        "name": "lodash",
+        "vuls": [
+            {
+                "cve_id": "CVE-2018-3721",
+                "version": [
+                    "0.0.0",
+                    "4.17.5"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 6.5,
+                    "expolitabilityScore": 2.8,
+                    "impactScore": 3.6,
+                    "cwe_id": "CWE-1321"
+                }
+            },
+            {
+                "cve_id": "CVE-2019-1010266",
+                "version": [
+                    "0.0.0",
+                    "4.17.11"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 6.5,
+                    "expolitabilityScore": 2.8,
+                    "impactScore": 3.6,
+                    "cwe_id": "CWE-770"
+                }
+            },
+            {
+                "cve_id": "CVE-2020-8203",
+                "version": [
+                    "0.0.0",
+                    "4.17.20"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 7.4,
+                    "expolitabilityScore": 2.2,
+                    "impactScore": 5.2,
+                    "cwe_id": "CWE-1321"
+                }
+            },
+            {
+                "cve_id": "CVE-2020-28500",
+                "version": [
+                    "0.0.0",
+                    "4.17.21"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 5.3,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 1.4
+                }
+            },
+            {
+                "cve_id": "CVE-2021-23337",
+                "version": [
+                    "0.0.0",
+                    "4.17.21"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 7.2,
+                    "expolitabilityScore": 1.2,
+                    "impactScore": 5.9,
+                    "cwe_id": "CWE-94"
+                }
+            },
+            {
+                "cve_id": "CVE-2018-16487",
+                "version": [
+                    "0.0.0",
+                    "4.17.11"
+                ],
+                "border": [
+                    true,
+                    false
+                ]
+            },
+            {
+                "cve_id": "CVE-2019-10744",
+                "version": [
+                    "0.0.0",
+                    "4.17.12"
+                ],
+                "border": [
+                    true,
+                    false
+                ]
+            }
+        ]
+    },
+    {
+        "name": "lxml",
+        "vuls": [
+            {
+                "cve_id": "CVE-2018-19787",
+                "version": [
+                    "0.0.0",
+                    "4.2.5"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 6.1,
+                    "expolitabilityScore": 2.8,
+                    "impactScore": 2.7,
+                    "cwe_id": "CWE-79"
+                }
+            },
+            {
+                "cve_id": "CVE-2021-28957",
+                "version": [
+                    "0.0.0",
+                    "4.6.3"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 6.1,
+                    "expolitabilityScore": 2.8,
+                    "impactScore": 2.7,
+                    "cwe_id": "CWE-79"
+                }
+            },
+            {
+                "cve_id": "CVE-2021-43818",
+                "version": [
+                    "0.0.0",
+                    "4.6.5"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 7.1,
+                    "expolitabilityScore": 2.8,
+                    "impactScore": 3.7,
+                    "cwe_id": "CWE-74"
+                }
+            },
+            {
+                "cve_id": "CVE-2022-2309",
+                "version": [
+                    "0.0.0",
+                    "4.9.1"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 7.5,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 3.6,
+                    "cwe_id": "CWE-476"
+                }
+            }
+        ],
+        "diff": false
+    },
+    {
+        "name": "mpmath",
+        "vuls": [
+            {
+                "cve_id": "CVE-2021-29063",
+                "version": [
+                    "0.0.0",
+                    "1.3.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 7.5,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 3.6,
+                    "cwe_id": "CWE-770"
+                }
+            }
+        ]
+    },
+    {
+        "name": "multi_xml",
+        "vuls": [
+            {
+                "cve_id": "CVE-2013-0175",
+                "version": [
+                    "0.0.0",
+                    "0.5.2"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 7.5,
+                    "expolitabilityScore": 10.0,
+                    "impactScore": 6.4,
+                    "cwe_id": "CWE-20"
+                }
+            }
+        ],
+        "diff": false
+    },
+    {
+        "name": "numpy",
+        "vuls": [
+            {
+                "cve_id": "CVE-2017-12852",
+                "version": [
+                    "0.0.0",
+                    "1.13.1"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 7.5,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 3.6,
+                    "cwe_id": "CWE-835"
+                }
+            },
+            {
+                "cve_id": "CVE-2014-1858",
+                "version": [
+                    "0.0.0",
+                    "1.8.1"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 5.5,
+                    "expolitabilityScore": 1.8,
+                    "impactScore": 3.6,
+                    "cwe_id": "CWE-20"
+                }
+            },
+            {
+                "cve_id": "CVE-2014-1859",
+                "version": [
+                    "0.0.0",
+                    "1.8.1"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 5.5,
+                    "expolitabilityScore": 1.8,
+                    "impactScore": 3.6,
+                    "cwe_id": "CWE-59"
+                }
+            },
+            {
+                "cve_id": "CVE-2019-6446",
+                "version": [
+                    "0.0.0",
+                    "1.16.0"
+                ],
+                "border": [
+                    true,
+                    true
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "CRITICAL",
+                    "baseScore": 9.8,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 5.9,
+                    "cwe_id": "CWE-502"
+                }
+            },
+            {
+                "cve_id": "CVE-2021-33430",
+                "version": [
+                    "1.9.0",
+                    "1.10.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 5.3,
+                    "expolitabilityScore": 1.6,
+                    "impactScore": 3.6,
+                    "cwe_id": "CWE-120"
+                }
+            },
+            {
+                "cve_id": "CVE-2021-34141",
+                "version": [
+                    "0.0.0",
+                    "1.22.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 5.3,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 1.4,
+                    "cwe_id": "CWE-697"
+                }
+            },
+            {
+                "cve_id": "CVE-2021-41495",
+                "version": [
+                    "0.0.0",
+                    "1.20.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 5.3,
+                    "expolitabilityScore": 1.6,
+                    "impactScore": 3.6,
+                    "cwe_id": "CWE-476"
+                }
+            },
+            {
+                "cve_id": "CVE-2021-41496",
+                "version": [
+                    "0.0.0",
+                    "1.19.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 5.5,
+                    "expolitabilityScore": 1.8,
+                    "impactScore": 3.6,
+                    "cwe_id": "CWE-120"
+                }
+            }
+        ]
+    },
+    {
+        "name": "pillow",
+        "vuls": [
+            {
+                "cve_id": "CVE-2014-1932",
+                "version": [
+                    "0.0.0",
+                    "2.3.1"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 4.4,
+                    "expolitabilityScore": 3.4,
+                    "impactScore": 6.4,
+                    "cwe_id": "CWE-59"
+                }
+            },
+            {
+                "cve_id": "CVE-2014-1933",
+                "version": [
+                    "0.0.0",
+                    "2.3.1"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "LOW",
+                    "baseScore": 2.1,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 2.9,
+                    "cwe_id": "CWE-264"
+                }
+            },
+            {
+                "cve_id": "CVE-2014-3589",
+                "version": [
+                    "0.0.0",
+                    "2.3.2"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 5.0,
+                    "expolitabilityScore": 10.0,
+                    "impactScore": 2.9,
+                    "cwe_id": "CWE-20"
+                }
+            },
+            {
+                "cve_id": "CVE-2014-9601",
+                "version": [
+                    "0.0.0",
+                    "2.7.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 5.0,
+                    "expolitabilityScore": 10.0,
+                    "impactScore": 2.9,
+                    "cwe_id": "CWE-20"
+                }
+            },
+            {
+                "cve_id": "CVE-2016-0740",
+                "version": [
+                    "0.0.0",
+                    "3.1.1"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 6.5,
+                    "expolitabilityScore": 2.8,
+                    "impactScore": 3.6,
+                    "cwe_id": "CWE-119"
+                }
+            },
+            {
+                "cve_id": "CVE-2016-0775",
+                "version": [
+                    "0.0.0",
+                    "3.1.1"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 6.5,
+                    "expolitabilityScore": 2.8,
+                    "impactScore": 3.6,
+                    "cwe_id": "CWE-119"
+                }
+            },
+            {
+                "cve_id": "CVE-2016-2533",
+                "version": [
+                    "0.0.0",
+                    "3.1.1"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 6.5,
+                    "expolitabilityScore": 2.8,
+                    "impactScore": 3.6,
+                    "cwe_id": "CWE-119"
+                }
+            },
+            {
+                "cve_id": "CVE-2016-4009",
+                "version": [
+                    "0.0.0",
+                    "3.1.1"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "CRITICAL",
+                    "baseScore": 9.8,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 5.9,
+                    "cwe_id": "CWE-119"
+                }
+            },
+            {
+                "cve_id": "CVE-2016-9189",
+                "version": [
+                    "0.0.0",
+                    "3.3.2"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 5.5,
+                    "expolitabilityScore": 1.8,
+                    "impactScore": 3.6,
+                    "cwe_id": "CWE-190"
+                }
+            },
+            {
+                "cve_id": "CVE-2016-9190",
+                "version": [
+                    "0.0.0",
+                    "3.3.2"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 7.8,
+                    "expolitabilityScore": 1.8,
+                    "impactScore": 5.9,
+                    "cwe_id": "CWE-284"
+                }
+            },
+            {
+                "cve_id": "CVE-2020-5310",
+                "version": [
+                    "0.0.0",
+                    "6.2.2"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 8.8,
+                    "expolitabilityScore": 2.8,
+                    "impactScore": 5.9,
+                    "cwe_id": "CWE-190"
+                }
+            },
+            {
+                "cve_id": "CVE-2020-5311",
+                "version": [
+                    "0.0.0",
+                    "6.2.2"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "CRITICAL",
+                    "baseScore": 9.8,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 5.9,
+                    "cwe_id": "CWE-120"
+                }
+            },
+            {
+                "cve_id": "CVE-2020-5312",
+                "version": [
+                    "0.0.0",
+                    "6.2.2"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "CRITICAL",
+                    "baseScore": 9.8,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 5.9,
+                    "cwe_id": "CWE-120"
+                }
+            },
+            {
+                "cve_id": "CVE-2020-5313",
+                "version": [
+                    "0.0.0",
+                    "6.2.2"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 7.1,
+                    "expolitabilityScore": 2.8,
+                    "impactScore": 4.2,
+                    "cwe_id": "CWE-125"
+                }
+            },
+            {
+                "cve_id": "CVE-2020-10177",
+                "version": [
+                    "0.0.0",
+                    "7.1.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 5.5,
+                    "expolitabilityScore": 1.8,
+                    "impactScore": 3.6,
+                    "cwe_id": "CWE-125"
+                }
+            },
+            {
+                "cve_id": "CVE-2020-10378",
+                "version": [
+                    "0.0.0",
+                    "7.1.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 5.5,
+                    "expolitabilityScore": 1.8,
+                    "impactScore": 3.6,
+                    "cwe_id": "CWE-125"
+                }
+            },
+            {
+                "cve_id": "CVE-2020-10379",
+                "version": [
+                    "0.0.0",
+                    "7.1.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 7.8,
+                    "expolitabilityScore": 1.8,
+                    "impactScore": 5.9,
+                    "cwe_id": "CWE-120"
+                }
+            },
+            {
+                "cve_id": "CVE-2020-10994",
+                "version": [
+                    "0.0.0",
+                    "7.1.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 5.5,
+                    "expolitabilityScore": 1.8,
+                    "impactScore": 3.6,
+                    "cwe_id": "CWE-125"
+                }
+            },
+            {
+                "cve_id": "CVE-2020-11538",
+                "version": [
+                    "0.0.0",
+                    "7.0.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 8.1,
+                    "expolitabilityScore": 2.2,
+                    "impactScore": 5.9,
+                    "cwe_id": "CWE-125"
+                }
+            },
+            {
+                "cve_id": "CVE-2021-25287",
+                "version": [
+                    "0.0.0",
+                    "8.2.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "CRITICAL",
+                    "baseScore": 9.1,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 5.2,
+                    "cwe_id": "CWE-125"
+                }
+            },
+            {
+                "cve_id": "CVE-2021-25288",
+                "version": [
+                    "0.0.0",
+                    "8.2.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "CRITICAL",
+                    "baseScore": 9.1,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 5.2,
+                    "cwe_id": "CWE-125"
+                }
+            },
+            {
+                "cve_id": "CVE-2021-28676",
+                "version": [
+                    "0.0.0",
+                    "8.2.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 7.5,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 3.6,
+                    "cwe_id": "CWE-835"
+                }
+            },
+            {
+                "cve_id": "CVE-2021-28677",
+                "version": [
+                    "0.0.0",
+                    "8.2.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 7.5,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 3.6
+                }
+            },
+            {
+                "cve_id": "CVE-2021-28678",
+                "version": [
+                    "0.0.0",
+                    "8.2.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 5.5,
+                    "expolitabilityScore": 1.8,
+                    "impactScore": 3.6,
+                    "cwe_id": "CWE-345"
+                }
+            },
+            {
+                "cve_id": "CVE-2021-23437",
+                "version": [
+                    "0.0.0",
+                    "8.3.2"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 7.5,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 3.6,
+                    "cwe_id": "CWE-125"
+                }
+            },
+            {
+                "cve_id": "CVE-2022-22815",
+                "version": [
+                    "0.0.0",
+                    "9.0.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 6.5,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 2.5,
+                    "cwe_id": "CWE-665"
+                }
+            },
+            {
+                "cve_id": "CVE-2022-22816",
+                "version": [
+                    "0.0.0",
+                    "9.0.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 6.5,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 2.5,
+                    "cwe_id": "CWE-125"
+                }
+            },
+            {
+                "cve_id": "CVE-2022-24303",
+                "version": [
+                    "0.0.0",
+                    "9.0.1"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "CRITICAL",
+                    "baseScore": 9.1,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 5.2
+                }
+            },
+            {
+                "cve_id": "CVE-2022-30595",
+                "version": [
+                    "0.0.0",
+                    "9.1.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "CRITICAL",
+                    "baseScore": 9.8,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 5.9,
+                    "cwe_id": "CWE-787"
+                }
+            },
+            {
+                "cve_id": "CVE-2022-45198",
+                "version": [
+                    "0.0.0",
+                    "9.2.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 7.5,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 3.6
+                }
+            },
+            {
+                "cve_id": "CVE-2022-45199",
+                "version": [
+                    "0.0.0",
+                    "9.3.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 7.5,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 3.6,
+                    "cwe_id": "CWE-400"
+                }
+            },
+            {
+                "cve_id": "CVE-2023-44271",
+                "version": [
+                    "0.0.0",
+                    "10.0.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 7.5,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 3.6,
+                    "cwe_id": "CWE-770"
+                }
+            }
+        ]
+    },
+    {
+        "name": "plist",
+        "vuls": [
+            {
+                "cve_id": "CVE-2021-33575",
+                "version": [
+                    "0.0.0",
+                    "1.6.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "CRITICAL",
+                    "baseScore": 9.8,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 5.9
+                }
+            }
+        ],
+        "diff": false
+    },
+    {
+        "name": "protobuf",
+        "vuls": [
+            {
+                "cve_id": "CVE-2015-5237",
+                "version": [
+                    "0.0.0",
+                    "3.4.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 8.8,
+                    "expolitabilityScore": 2.8,
+                    "impactScore": 5.9,
+                    "cwe_id": "CWE-787"
+                }
+            },
+            {
+                "cve_id": "CVE-2022-1941",
+                "version": [
+                    "0.0.0",
+                    "3.18.3"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 7.5,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 3.6,
+                    "cwe_id": "CWE-1286"
+                }
+            },
+            {
+                "cve_id": "CVE-2022-1941",
+                "version": [
+                    "3.19.0",
+                    "3.19.5"
+                ],
+                "border": [
+                    true,
+                    false
+                ]
+            },
+            {
+                "cve_id": "CVE-2022-1941",
+                "version": [
+                    "3.20.0",
+                    "3.20.2"
+                ],
+                "border": [
+                    true,
+                    false
+                ]
+            },
+            {
+                "cve_id": "CVE-2022-1941",
+                "version": [
+                    "4.21.0",
+                    "4.21.6"
+                ],
+                "border": [
+                    true,
+                    false
+                ]
+            },
+            {
+                "cve_id": "CVE-2022-3171",
+                "version": [
+                    "0.0.0",
+                    "3.21.7"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 7.5,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 3.6,
+                    "cwe_id": "CWE-20"
+                }
+            },
+            {
+                "cve_id": "CVE-2022-3509",
+                "version": [
+                    "0.0.0",
+                    "3.21.7"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 7.5,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 3.6
+                }
+            },
+            {
+                "cve_id": "CVE-2022-3510",
+                "version": [
+                    "0.0.0",
+                    "3.21.7"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 7.5,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 3.6
+                }
+            }
+        ]
+    },
+    {
+        "name": "psutil",
+        "vuls": [
+            {
+                "cve_id": "CVE-2019-18874",
+                "version": [
+                    "0.0.0",
+                    "5.6.6"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 7.5,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 3.6,
+                    "cwe_id": "CWE-415"
+                }
+            }
+        ],
+        "diff": false
+    },
+    {
+        "name": "pygments",
+        "vuls": [
+            {
+                "cve_id": "CVE-2021-27291",
+                "version": [
+                    "1.1.0",
+                    "2.7.4"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 7.5,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 3.6,
+                    "cwe_id": "CWE-1333"
+                }
+            },
+            {
+                "cve_id": "CVE-2022-40896",
+                "version": [
+                    "0.0.0",
+                    "2.15.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 5.5,
+                    "expolitabilityScore": 1.8,
+                    "impactScore": 3.6,
+                    "cwe_id": "CWE-434"
+                }
+            }
+        ]
+    },
+    {
+        "name": "pyyaml",
+        "vuls": [
+            {
+                "cve_id": "CVE-2017-18342",
+                "version": [
+                    "0.0.0",
+                    "5.1.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "CRITICAL",
+                    "baseScore": 9.8,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 5.9,
+                    "cwe_id": "CWE-502"
+                }
+            },
+            {
+                "cve_id": "CVE-2019-20477",
+                "version": [
+                    "5.1.0",
+                    "5.1.2"
+                ],
+                "border": [
+                    true,
+                    true
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "CRITICAL",
+                    "baseScore": 9.8,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 5.9,
+                    "cwe_id": "CWE-502"
+                }
+            },
+            {
+                "cve_id": "CVE-2020-1747",
+                "version": [
+                    "0.0.0",
+                    "5.3.1"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "CRITICAL",
+                    "baseScore": 9.8,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 5.9,
+                    "cwe_id": "CWE-20"
+                }
+            },
+            {
+                "cve_id": "CVE-2020-14343",
+                "version": [
+                    "0.0.0",
+                    "5.4.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "CRITICAL",
+                    "baseScore": 9.8,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 5.9,
+                    "cwe_id": "CWE-20"
+                }
+            }
+        ],
+        "diff": false
+    },
+    {
+        "name": "rubyzip",
+        "vuls": [
+            {
+                "cve_id": "CVE-2017-5946",
+                "version": [
+                    "0.0.0",
+                    "1.2.1"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "CRITICAL",
+                    "baseScore": 9.8,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 5.9,
+                    "cwe_id": "CWE-22"
+                }
+            },
+            {
+                "cve_id": "CVE-2018-1000544",
+                "version": [
+                    "0.0.0",
+                    "1.2.2"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "CRITICAL",
+                    "baseScore": 9.8,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 5.9,
+                    "cwe_id": "CWE-434"
+                }
+            },
+            {
+                "cve_id": "CVE-2019-16892",
+                "version": [
+                    "0.0.0",
+                    "1.3.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 5.5,
+                    "expolitabilityScore": 1.8,
+                    "impactScore": 3.6
+                }
+            }
+        ],
+        "diff": false
+    },
+    {
+        "name": "scipy",
+        "vuls": [
+            {
+                "cve_id": "CVE-2013-4251",
+                "version": [
+                    "0.0.0",
+                    "0.12.1"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 7.8,
+                    "expolitabilityScore": 1.8,
+                    "impactScore": 5.9,
+                    "cwe_id": "CWE-269"
+                }
+            },
+            {
+                "cve_id": "CVE-2023-25399",
+                "version": [
+                    "0.0.0",
+                    "1.10.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 5.5,
+                    "expolitabilityScore": 1.8,
+                    "impactScore": 3.6,
+                    "cwe_id": "CWE-401"
+                }
+            },
+            {
+                "cve_id": "CVE-2023-29824",
+                "version": [
+                    "0.0.0",
+                    "1.8.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "CRITICAL",
+                    "baseScore": 9.8,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 5.9,
+                    "cwe_id": "CWE-416"
+                }
+            }
+        ]
+    },
+    {
+        "name": "setuptools",
+        "vuls": [
+            {
+                "cve_id": "CVE-2022-40897",
+                "version": [
+                    "0.0.0",
+                    "65.5.1"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 5.9,
+                    "expolitabilityScore": 2.2,
+                    "impactScore": 3.6,
+                    "cwe_id": "CWE-1333"
+                }
+            }
+        ]
+    },
+    {
+        "name": "torch",
+        "vuls": [
+            {
+                "cve_id": "CVE-2022-45907",
+                "version": [
+                    "0.0.0",
+                    "1.13.1"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "CRITICAL",
+                    "baseScore": 9.8,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 5.9,
+                    "cwe_id": "CWE-94"
+                }
+            },
+            {
+                "cve_id": "CVE-2024-31583",
+                "version": [
+                    "0.0.0",
+                    "2.2.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Secondary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 7.8,
+                    "expolitabilityScore": 1.8,
+                    "impactScore": 5.9,
+                    "cwe_id": "CWE-416"
+                }
+            },
+            {
+                "cve_id": "CVE-2024-31584",
+                "version": [
+                    "0.0.0",
+                    "2.2.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Secondary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 5.5,
+                    "expolitabilityScore": 2.1,
+                    "impactScore": 3.4,
+                    "cwe_id": "CWE-125"
+                }
+            }
+        ]
+    },
+    {
+        "name": "tqdm",
+        "vuls": [
+            {
+                "cve_id": "CVE-2016-10075",
+                "version": [
+                    "4.4.1",
+                    "4.4.1"
+                ],
+                "border": [
+                    true,
+                    true
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 7.8,
+                    "expolitabilityScore": 1.8,
+                    "impactScore": 5.9,
+                    "cwe_id": "CWE-17"
+                }
+            },
+            {
+                "cve_id": "CVE-2016-10075",
+                "version": [
+                    "4.10.0",
+                    "4.10.0"
+                ],
+                "border": [
+                    true,
+                    true
+                ]
+            },
+            {
+                "cve_id": "CVE-2024-34062",
+                "version": [
+                    "0.0.0",
+                    "4.66.3"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Secondary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 4.8,
+                    "expolitabilityScore": 1.3,
+                    "impactScore": 3.4,
+                    "cwe_id": "CWE-74"
+                }
+            }
+        ],
+        "diff": false
+    },
+    {
+        "name": "urllib3",
+        "vuls": [
+            {
+                "cve_id": "CVE-2024-37891",
+                "version": [
+                    "0.0.0",
+                    "2.2.3"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Secondary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 4.4,
+                    "expolitabilityScore": 0.7,
+                    "impactScore": 3.6,
+                    "cwe_id": "CWE-669"
+                }
+            },
+            {
+                "cve_id": "CVE-2018-20060",
+                "version": [
+                    "0.0.0",
+                    "1.23.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "CRITICAL",
+                    "baseScore": 9.8,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 5.9
+                }
+            },
+            {
+                "cve_id": "CVE-2019-11236",
+                "version": [
+                    "0.0.0",
+                    "1.25.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 6.1,
+                    "expolitabilityScore": 2.8,
+                    "impactScore": 2.7,
+                    "cwe_id": "CWE-93"
+                }
+            },
+            {
+                "cve_id": "CVE-2019-11324",
+                "version": [
+                    "0.0.0",
+                    "1.24.2"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 7.5,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 3.6,
+                    "cwe_id": "CWE-295"
+                }
+            },
+            {
+                "cve_id": "CVE-2020-7212",
+                "version": [
+                    "1.25.2",
+                    "1.25.7"
+                ],
+                "border": [
+                    true,
+                    true
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 7.5,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 3.6,
+                    "cwe_id": "CWE-400"
+                }
+            },
+            {
+                "cve_id": "CVE-2020-26137",
+                "version": [
+                    "0.0.0",
+                    "1.25.9"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 6.5,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 2.5,
+                    "cwe_id": "CWE-74"
+                }
+            },
+            {
+                "cve_id": "CVE-2021-28363",
+                "version": [
+                    "1.26.0",
+                    "1.26.4"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 6.5,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 2.5,
+                    "cwe_id": "CWE-295"
+                }
+            },
+            {
+                "cve_id": "CVE-2021-33503",
+                "version": [
+                    "0.0.0",
+                    "1.26.5"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 7.5,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 3.6,
+                    "cwe_id": "CWE-400"
+                }
+            },
+            {
+                "cve_id": "CVE-2023-43804",
+                "version": [
+                    "0.0.0",
+                    "1.26.17"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 8.1,
+                    "expolitabilityScore": 2.8,
+                    "impactScore": 5.2,
+                    "cwe_id": "CWE-200"
+                }
+            },
+            {
+                "cve_id": "CVE-2018-25091",
+                "version": [
+                    "0.0.0",
+                    "1.24.2"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 6.1,
+                    "expolitabilityScore": 2.8,
+                    "impactScore": 2.7,
+                    "cwe_id": "CWE-601"
+                }
+            },
+            {
+                "cve_id": "CVE-2023-45803",
+                "version": [
+                    "0.0.0",
+                    "2.0.7"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "MEDIUM",
+                    "baseScore": 4.2,
+                    "expolitabilityScore": 0.5,
+                    "impactScore": 3.6,
+                    "cwe_id": "CWE-200"
+                }
+            }
+        ]
+    },
+    {
+        "name": "webrick",
+        "vuls": [
+            {
+                "cve_id": "CVE-2020-25613",
+                "version": [
+                    "0.0.0",
+                    "1.6.1"
+                ],
+                "border": [
+                    true,
+                    false
+                ],
+                "baseSeverity": {
+                    "type": "Primary",
+                    "baseSeverity": "HIGH",
+                    "baseScore": 7.5,
+                    "expolitabilityScore": 3.9,
+                    "impactScore": 3.6,
+                    "cwe_id": "CWE-444"
+                }
+            }
+        ],
+        "diff": false
+    },
+    {
+        "name": "certifi",
+        "vuls": [
+            {
+                "cve_id": "CVE-2023-37920",
+                "version": [
+                    "2015.4.28",
+                    "2023.7.22"
+                ],
+                "border": [
+                    true,
+                    false
+                ]
+            }
+        ]
+    },
+    {
+        "name": "requests",
+        "vuls": [
+            {
+                "cve_id": "CVE-2023-32681",
+                "version": [
+                    "2.3.0",
+                    "2.31.0"
+                ],
+                "border": [
+                    true,
+                    false
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Jinja2",
+        "vuls": [
+            {
+                "cve_id": "CVE-2024-22195",
+                "version": [
+                    "0.0.0",
+                    "3.1.3"
+                ],
+                "border": [
+                    true,
+                    false
+                ]
+            },
+            {
+                "cve_id": "CVE-2014-0012",
+                "version": [
+                    "0.0.0",
+                    "2.7.3"
+                ],
+                "border": [
+                    true,
+                    false
+                ]
+            },
+            {
+                "cve_id": "CVE-2020-28493",
+                "version": [
+                    "0.0.0",
+                    "2.11.3"
+                ],
+                "border": [
+                    true,
+                    false
+                ]
+            }
+        ]
+    }
 ]
